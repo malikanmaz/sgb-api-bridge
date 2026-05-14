@@ -15,6 +15,12 @@ API:
     Response: {"totalCount": N, "count": 20, "models": [...], "page": P, "pageCount": M}
     Kayitlar tarihe gore newest-first siralanmis durumda.
     ID'ler tum tipler arasinda global ve monoton artan.
+
+Bolme (Split):
+    CHUNK_SIZE'i (varsayilan 100 000) asan listeler otomatik olarak parcalanir.
+    Ornegin domain-list.txt (450K) -> domain-list-part1.txt ... domain-list-part5.txt
+    FortiGate'in 131K satir limiti icin her parca ayri external resource olarak taninir.
+    Ortam degiskeni: SGB_BRIDGE_CHUNK_SIZE (varsayilan: 100000)
 """
 import argparse
 import json
@@ -28,7 +34,7 @@ from pathlib import Path
 
 import requests
 
-__version__ = "2.0.0"
+__version__ = "2.1.0"
 
 API_URL = "https://siberguvenlik.gov.tr/api/address/index"
 TYPES = ("domain", "url", "ip", "ip6", "ip6net")
@@ -43,6 +49,7 @@ STOP_AFTER_KNOWN = 40
 # bu tavan yalniz state cok bayatsa (orn. haftalarca delta calismadi) devreye girer.
 DELTA_MAX_PAGES = int(os.environ.get("SGB_BRIDGE_DELTA_MAX_PAGES", "1000"))
 CHECKPOINT_EVERY = 25  # full sync: kac sayfada bir state'i diske yaz
+CHUNK_SIZE = int(os.environ.get("SGB_BRIDGE_CHUNK_SIZE", "100000"))  # FortiGate limiti icin bolme
 
 _ROOT_OVERRIDE = os.environ.get("SGB_BRIDGE_ROOT")
 ROOT = Path(_ROOT_OVERRIDE) if _ROOT_OVERRIDE else Path(__file__).resolve().parent.parent
@@ -361,7 +368,44 @@ def read_lines(p: Path) -> set:
     return {ln.strip() for ln in p.read_text(encoding="utf-8").splitlines() if ln.strip()}
 
 
-def write_stats(mode: str, state: dict) -> None:
+def split_large_lists() -> dict:
+    """
+    CHUNK_SIZE satirdan buyuk listeleri parcalara boler.
+    Ornegin domain-list.txt (450K) -> domain-list-part1.txt ... domain-list-part5.txt
+    Eski parca dosyalari her calisimda temizlenir.
+    Dondurulen dict: {typ: parca_sayisi} — yalnizca bolunmus tipler icin.
+    """
+    split_info: dict = {}
+    for typ in TYPES:
+        fp = final_path(typ)
+        if not fp.exists():
+            continue
+        lines = [ln for ln in fp.read_text(encoding="utf-8").splitlines() if ln.strip()]
+        if len(lines) <= CHUNK_SIZE:
+            # Onceki parca dosyalari varsa temizle (liste kuculduysa)
+            for old in DOCS_DIR.glob(f"{typ}-list-part*.txt"):
+                old.unlink()
+            continue
+
+        # Eski parcalari temizle
+        for old in DOCS_DIR.glob(f"{typ}-list-part*.txt"):
+            old.unlink()
+
+        chunks = [lines[i:i + CHUNK_SIZE] for i in range(0, len(lines), CHUNK_SIZE)]
+        for idx, chunk in enumerate(chunks, start=1):
+            part_path = DOCS_DIR / f"{typ}-list-part{idx}.txt"
+            part_path.write_text("\n".join(chunk) + "\n", encoding="utf-8")
+
+        split_info[typ] = len(chunks)
+        log.info(
+            f"[{typ}] {len(lines)} satir {len(chunks)} parcaya bolundu "
+            f"(CHUNK_SIZE={CHUNK_SIZE}): "
+            + ", ".join(f"{typ}-list-part{i+1}.txt" for i in range(len(chunks)))
+        )
+    return split_info
+
+
+def write_stats(mode: str, state: dict, split_info: dict | None = None) -> None:
     counts = {}
     for typ in TYPES:
         fp = final_path(typ)
@@ -371,15 +415,28 @@ def write_stats(mode: str, state: dict) -> None:
             counts[typ] = 0
     in_progress = {typ: state.get(typ, {}).get("resume_page") for typ in TYPES
                    if state.get(typ, {}).get("resume_page")}
+
+    # Parca bilgisini stats.json'a ekle
+    split_counts: dict = {}
+    for typ in TYPES:
+        parts = sorted(DOCS_DIR.glob(f"{typ}-list-part*.txt"))
+        if parts:
+            split_counts[typ] = {
+                "part_count": len(parts),
+                "chunk_size": CHUNK_SIZE,
+                "parts": [p.name for p in parts],
+            }
+
     stats = {
         "last_update_utc": datetime.now(timezone.utc).isoformat(),
         "mode": mode,
         "counts": counts,
         "in_progress": in_progress or None,
+        "split": split_counts or None,
         "state": state,
     }
     (DOCS_DIR / "stats.json").write_text(json.dumps(stats, indent=2), encoding="utf-8")
-    log.info(f"stats: {counts} in_progress={in_progress or 'none'}")
+    log.info(f"stats: {counts} in_progress={in_progress or 'none'} split={split_counts or 'none'}")
 
 
 def write_badge(state: dict) -> None:
@@ -428,7 +485,8 @@ def sync(mode: str) -> None:
             save_state(state)
     finally:
         save_state(state)
-        write_stats(mode, state)
+        split_info = split_large_lists()
+        write_stats(mode, state, split_info)
         write_badge(state)
 
 
