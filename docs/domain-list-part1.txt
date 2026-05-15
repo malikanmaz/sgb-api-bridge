@@ -3424,6 +3424,7 @@
 111111111111111.online
 111111111111111111.loseyourip.com
 111111111111rr-wq-ge-e-e-e-eerqewq-eqw-eqweqwsda.sbs
+11111122222222233333333333.duckdns.org
 1111113232323-23232.cloud
 111112221.duckdns.org
 11111222233321.duckdns.org
@@ -18652,6 +18653,7 @@
 78yilgiriskampanya.com
 78yilgiriskampanya.pro
 79-133-56-131.plesk.page
+790315482.lat
 7907-45-61-166-234.ngrok-free.app
 790hk06.duckdns.org
 790wolseleymanagement.com
@@ -57340,6 +57342,7 @@ baharkampanyalarinda.com.tr
 baharkampanyalarinisorgula.net
 baharkampanyaliurunler.com.tr
 baharkampanyam.com
+baharkampanyamsokta.xyz
 baharkampanyasi.com
 baharkampanyasidenizde.com
 baharkampanyasiformu.surge.sh
@@ -59843,6 +59846,7 @@ basvursendz.com.tr
 basvursendz.sbs
 basvursendzk.com.tr
 basvursendzk.sbs
+basvursendzn.sbs
 basvursfirsati.com
 basvurshn.com.tr
 basvurshn.xyz
@@ -99994,7 +99998,3 @@ classmatesocket.top
 classmock.top
 classmunch.com
 classnests.com
-classofclasses-layer.com
-classotokiralama.com
-classrevival.top
-classroomaide.top
