@@ -1,3 +1,5 @@
+openrovexa.store
+openscope.online
 opensea-player.com
 openseapromohub.store
 opensecureauth.ddns.net
@@ -40678,6 +40680,7 @@ sahibinden.e-alimlarim.net
 sahibinden.e-alimlarimiz.net
 sahibinden.e-alimlarin.ru.com
 sahibinden.e-alisim.net
+sahibinden.e-alisveris-ilan-sepetim.com
 sahibinden.e-alisverisim-tr.sa.com
 sahibinden.e-alisverisin.net
 sahibinden.e-alisverisler.com.tr
@@ -41307,6 +41310,7 @@ sahibinden.odemeyap-satinal.com.tr
 sahibinden.odemeyapget.com
 sahibinden.odeniyor.com
 sahibinden.onay-app.com
+sahibinden.onay-ilanim-534.com
 sahibinden.onay-tr.net
 sahibinden.onayin-tr.net
 sahibinden.onaylama-app.com
@@ -99994,7 +99998,3 @@ unitvelvet.top
 unity-download.com
 unity-download.net
 unity-download.org
-unity-software.net
-unity-software.org
-unitybloc.top
-unitycheck.cloud
