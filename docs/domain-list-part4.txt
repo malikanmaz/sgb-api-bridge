@@ -1,3 +1,6 @@
+openstructure.shop
+openstructure.site
+openstructure.store
 opentechcorp.net
 opentop.store
 openturk.company
@@ -957,6 +960,7 @@ orthodoxmeadow.top
 orthoscan-sso.com
 ortigueiramais.com.br
 ortilix.shop
+ortilix.site
 ortilix.store
 ortitoftors.com
 ortk22.com
@@ -43631,6 +43635,7 @@ samuelpally.ddns.net
 samuelsfasfagaegv.ddns.net
 samulaskrt.net
 samuraylesa.ddns.net
+samurestivon.com
 samus988.hopto.org
 samusoc.top
 samwinchester.club
@@ -50819,6 +50824,7 @@ servis-hizmet-tr.online
 servis-hizmeti.online
 servis-hizmetim.online
 servis-hizmetin.online
+servis-hizmetleri.online
 servis-hizmetlerim.online
 servis-muayene.net
 servis-onayla.com
@@ -99992,9 +99998,3 @@ universalguestaccess.com
 universalmusicspace.com
 universalpowerful.weebly.com
 universalproductiondosmusic.com
-universalpromohub.com
-universalsearches.com
-universalsharefiles.ddns.net
-universalstaate.top
-universalteknolojihizmetleri.com
-universalweary.top
