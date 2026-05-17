@@ -69,6 +69,7 @@
 000002011111-111.shop
 00001000010001.cloud
 00001101011.duckdns.org
+000011021021420.gleeze.com
 00001111.ddns.net
 00002009.zapto.org
 000022111022222.cloud
@@ -66486,6 +66487,7 @@ bgnbgnglkcrma.shop
 bgnbgnglkcrmaa.shop
 bgnbgngllkcrmaa.shop
 bgnbzdebuvrszd.shop
+bgnclsyrzbxvrmynb.sbs
 bgncokfrstlarbrdabnce.shop
 bgncrfsgnleri.cfd
 bgncshksl.duckdns.org
@@ -99996,5 +99998,3 @@ clashbenevolent.top
 clashshrewd.top
 clasic-devletdestekleri.com
 clasicoglobalbasvursorgula.com
-clasicoremo.zapto.org
-class-devletdestekleri.com
