@@ -1306,6 +1306,7 @@
 0nkyu5scc.duckdns.org
 0nl1bimcell.net
 0nl1neflrstlaragustos.com
+0nline-akbank.testyourphishing.com
 0nline-aut0.ddns.net
 0nline-citibank.duckdns.org
 0nline-gov.com
@@ -1706,6 +1707,7 @@
 10-temmuzsabah.com
 10-yillik-kartaidatiade-gov-tr.com
 10.bireyseldestek.xyz
+100-yilfirsatlarim.vercel.app
 100-yilkapsaminda.net
 100-yillllikampanyalariiislemleriislem.online
 1000-destek.com
@@ -3609,6 +3611,7 @@
 11bwyone.com
 11c979baeb8bddc12e79ad4def0964e94.bulinouui.sbs
 11canissiparislerini.cloud
+11canistassiparislerin.cloud
 11cst.ddns.net
 11cyclesforest.com
 11d6621f.dj-hd5kfu.shop
@@ -99995,6 +99998,3 @@ clarittyster.com
 clarityamendment.top
 claritycocktail.top
 clarityconsul.top
-claritynitrogen.top
-clarityreferendum.top
-claritystagnation.top
