@@ -1805,6 +1805,7 @@
 100101001000001.cloud
 10010101-33342-1111.cloud
 100101010101010101101010.cloud
+100101099999900001.duckdns.org
 10011.cloud
 10011110201011.duckdns.org
 1001buhaftaninindinirimlerri.com
@@ -59916,6 +59917,7 @@ basvursendzk.sbs
 basvursendzn.sbs
 basvursens.sbs
 basvursenv.sbs
+basvursenz.sbs
 basvursfirsati.com
 basvurshn.com.tr
 basvurshn.xyz
@@ -99996,5 +99998,3 @@ claimmssbbestaskinnngder.vercel.app
 claimprior.top
 claimprocessing.org
 claims-stretto.com
-claimsbbestaskingggder.vercel.app
-claimsbeeestaskingggder.vercel.app
