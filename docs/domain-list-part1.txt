@@ -3509,6 +3509,7 @@
 11258-coinbase.com
 11259-coinbase.com
 1126betturkey.com
+112724112.click
 1127273234hu4.blogspot.com
 1127608696.corolain.ru
 11284684682741116-verify.net
@@ -59913,6 +59914,7 @@ basvursendzk.com.tr
 basvursendzk.sbs
 basvursendzn.sbs
 basvursens.sbs
+basvursenv.sbs
 basvursfirsati.com
 basvurshn.com.tr
 basvurshn.xyz
@@ -99996,5 +99998,3 @@ claims-stretto.com
 claimsbbestaskingggder.vercel.app
 claimsbeeestaskingggder.vercel.app
 claimsbenibibe.vercel.app
-claimsbeniibibe.vercel.app
-claimsbestaskking.vercel.app
