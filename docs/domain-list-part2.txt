@@ -49138,6 +49138,7 @@ eportalasliye.org
 eportalcimer-aidathizmetigov-tr.com
 eportalduyuru-evdekal.org
 eportaledevletiade.com
+eportalgib.org
 eportalgirisim.com
 eportalgirislerr.com
 eportalgirisszamani.com
@@ -99997,4 +99998,3 @@ hgsdolum.online
 hgsdolumadresi.com
 hgsdolumbayisi.com
 hgsdolumerkezi.com
-hgsdolumhizmet.com
