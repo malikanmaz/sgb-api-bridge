@@ -22258,6 +22258,7 @@ a-101-extra-sadece-bugune-ozel-mobil.extra-online-mobilde-tr.sbs
 a-101-extra-sadece-online-mobile-ozel-tr.online-shop-bireysel-tr.online
 a-101-extra-sadece-online-ozel-mobilde-tr.shop-tr-online-mobil.site
 a-101-extra-sadece-online-ozel-tr.online-shop-bireysel-tr.sbs
+a-101-extra-sadece-online-ozel-tr.online-tr-shop-mobil.sbs
 a-101-eylulfirsatlari.online
 a-101-firsat.shop
 a-101-firsatlar.online
@@ -179630,6 +179631,7 @@ gormblvnvx.net
 gormeden-indirim-yok-demeyin-sakinha.com
 gormediginhergunukacirdiginkampanya.cfd
 gormek.za.com
+gorntleme-likidite-rn.myonlineportal.ch
 gororama.com
 gorrenhorst.top
 gorselcicdn.com
@@ -189853,6 +189855,7 @@ halkbankekpara.com
 halkbankesube.net
 halkbankesubemiz.com
 halkbankesubeniz.com
+halkbankfinansal.click
 halkbankfirsat.com
 halkbankfirsatbasvuru.com
 halkbankfirsatdunyasi.com
@@ -205220,6 +205223,7 @@ hizsigorta.sbs
 hizsigorta.site
 hizsigorta.store
 hizsigorta.website
+hizsservis.click
 hiztlitlyuklemeci.com
 hizxlanislarodemeleri.org
 hizzligeccisim.org
@@ -227665,6 +227669,7 @@ iste99yilimiz.com
 istealisveris.site
 isteanbueal.webredirect.org
 isteanbueals.webredirect.org
+isteansfaz.duckdns.org
 istebasvurularinizonaylipromo-iscep.cloud
 istebilgisizingir.duckdns.org
 istebilgisizinle.com
@@ -238768,6 +238773,7 @@ kampanyabilgilendirmetr-giris.com
 kampanyabilgilendirmetr-giris.net
 kampanyabilgilendirmetrgiris.net
 kampanyabilgilendirmetrgiris.org
+kampanyabinance.com
 kampanyabinance.net
 kampanyabinance2022.net
 kampanyabinans.net
@@ -250337,6 +250343,7 @@ kolaysagec.is-best.net
 kolaysagelhadi.cfd
 kolaysdnevilarn.net
 kolaysepet.click
+kolaysepet.online
 kolaysepetde.shop
 kolaysepetin-tr.shop
 kolaysepetin.click
@@ -321649,6 +321656,7 @@ pttavm.islemlerle-tr.com
 pttavm.kampanya.info.tr
 pttavm.kampanya2024.com
 pttavm.kolayodeyin.com.tr
+pttavm.kolaysepet.online
 pttavm.link
 pttavm.lisanslisatis.com.tr
 pttavm.lol
@@ -406134,6 +406142,7 @@ vakifbankwebtr.com
 vakifbankworld-tr.com
 vakifbankworldhediye.com
 vakifbankworldkatilim.com
+vakifbankyatirim.click
 vakifbankyatirim.online
 vakifbankyatirim.xyz
 vakifbankyenilenenkampanyalar2022.com
