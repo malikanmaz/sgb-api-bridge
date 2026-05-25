@@ -22259,6 +22259,7 @@ a-101-extra-online-bugune-ozel-tr.online-cepte-sponsor-tr.site
 a-101-extra-online-ozel-indirim-tr.online-shop-bireysel-tr.click
 a-101-extra-online-sadece-bugune-ozel-tr.onlinecep-tr.site
 a-101-extra-sadece-bugune-ozel-mobil.extra-online-mobilde-tr.sbs
+a-101-extra-sadece-bugune-ozel-mobilde-tr.online-tr-shop-mobil.click
 a-101-extra-sadece-online-mobile-ozel-tr.online-shop-bireysel-tr.online
 a-101-extra-sadece-online-ozel-mobilde-tr.shop-tr-online-mobil.site
 a-101-extra-sadece-online-ozel-tr.online-shop-bireysel-tr.sbs
@@ -53442,6 +53443,7 @@ avantajlikredimsubegiris.org
 avantajlilarapromosyon.com
 avantajlimagaza.site
 avantajlimarket.xyz
+avantajlimarketler.click
 avantajlipaket-turkcell.com
 avantajlipazar.online
 avantajlireklamlar.com
@@ -99996,5 +99998,3 @@ ck5y9t.duckdns.org
 ck691nw7z.duckdns.org
 ck69a0kmpnya.store
 ck8ursfi.duckdns.org
-ck9j7xrh.duckdns.org
-ckaambwsv.com
