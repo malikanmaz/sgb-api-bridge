@@ -1,3 +1,10 @@
+ucuzlukgunleri.info.tr
+ucuzlukgunleri.net.tr
+ucuzlukgunleri.org.tr
+ucuzlukgunlerindenweb.biz.tr
+ucuzlukgunlerindenweb.net.tr
+ucuzlukgunlerindenweb.org.tr
+ucuzlukhaberleri.biz.tr
 ucuzlukhaberleri.com.tr
 ucuzlukhaberleri.info.tr
 ucuzlukhaberleri.net.tr
@@ -11288,6 +11295,7 @@ vexoquery.icu
 vexorahubs.shop
 vexorilun.com
 vexoro.pro
+vexorpvip-api.alwaysdata.net
 vexovip.live
 vexrgihixlivergodeme.net
 vexrgihixlivrgodeme.net
@@ -51846,6 +51854,7 @@ zsa16.ddns.net
 zsaddvtds-vdvtt.com
 zsafdsaghfdassax.sbs
 zsaude.com.br
+zsaxsadsadssax.sbs
 zsbovj1zc.duckdns.org
 zsbx93psf.duckdns.org
 zscaler-api.org
