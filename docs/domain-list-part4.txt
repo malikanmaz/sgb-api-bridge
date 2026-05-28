@@ -65672,6 +65672,7 @@ sponsorlu-103.online
 sponsorlu-104.online
 sponsorlu-107.online
 sponsorlu-109.online
+sponsorlu-11.duckdns.org
 sponsorlu-11.online
 sponsorlu-110.online
 sponsorlu-112.online
@@ -99997,4 +99998,3 @@ ucuzbuldu.com
 ucuzceyizpaketi.com
 ucuzcumsokta.com
 ucuzdansiparis.biz.tr
-ucuzdansiparis.info.tr
