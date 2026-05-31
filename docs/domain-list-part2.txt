@@ -1,3 +1,8 @@
+cizgi.name.tr
+cizgi360-arackirala.bar
+cizgi360-arackirala.rest
+cizgi360-arackirala.shop
+cizgi360-arackiralama.bar
 cizgi360-arackiralama.rest
 cizgi360-arackiralama.shop
 cizgi360-com.cf
@@ -99993,8 +99998,3 @@ hgsbakiye.net
 hgsbakiye.online
 hgsbakiye.rainsvillechiro.com
 hgsbakiye.site
-hgsbakiye.unaux.com
-hgsbakiye.xyz
-hgsbakiye2022.unaux.com
-hgsbakiyeat.net
-hgsbakiyeciboss.firebaseapp.com
