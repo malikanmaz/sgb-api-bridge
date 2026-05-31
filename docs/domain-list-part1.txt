@@ -9966,6 +9966,7 @@
 2742306.cloud
 274267.cloud
 2743.cloud
+27478900203.duckdns.org
 2750623.cloud
 2752773.ddns.net
 275321312375352.click
@@ -63314,6 +63315,7 @@ bayramsalislem.com
 bayramsalislem1.com
 bayramsekerfirsatlari.vercel.app
 bayramsekerimyapikredi.cf
+bayramsekerinizs.lat
 bayramsevincleri.com
 bayramsezonu.xyz
 bayramsigortasindan.b-cdn.net
@@ -99996,5 +99998,3 @@ cizgi360-arackiralama.rest
 cizgi360-arackiralama.shop
 cizgi360-com.cf
 cizgi360-com.gq
-cizgi360-com.tk
-cizgi360-kiralama.shop
