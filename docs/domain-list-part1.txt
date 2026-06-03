@@ -3682,6 +3682,7 @@
 11subatsepetim.cfd
 11subatsokmarketspetim.cfd
 11svzb.duckdns.org
+11tariksdans.nicepage.io
 11trbianse-tr.com.tr
 11trmrr.net
 11v7xpteq.duckdns.org
@@ -59843,6 +59844,7 @@ basvurhemen.b-cdn.net
 basvurhemen.tk
 basvurhemen.xyz
 basvurhemenaidatiade.com
+basvurhemenkapinda.cfd
 basvurhemmen.tk
 basvurhizli.cfd
 basvurhizmet.online
@@ -75700,6 +75702,7 @@ birimiz-tabanca-birimiz-kursun.mooo.com
 birimlerimiz3212.com
 birimlerimiz9085.com
 birimmaliye.org
+birimvergi.org
 birinebakicam.duckdns.org
 birinizhepimiz156.com
 birislemim.com
@@ -99995,6 +99998,3 @@ cityhotlove.com
 cityislem.22web.org
 citykamplyon.world
 citymyworkday.com
-cityofangelsmagazine.com
-cityofberkeley.support
-cityofchicago-gov.org
