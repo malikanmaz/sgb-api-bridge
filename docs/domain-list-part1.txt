@@ -24302,6 +24302,7 @@ a101harcaharcabitmez.buzz
 a101harcaharcabitmez.com
 a101harcaharcabitmez.com.tr
 a101harcaharcabitmez.ct.ws
+a101harcaharcabitmez.duckdns.org
 a101harcaharcabitmez.great-site.net
 a101harcaharcabitmez.net
 a101harcaharcabitmez.online
@@ -40192,6 +40193,7 @@ aktuelsaldinadlin.online
 aktuelsanalmarket-101.com
 aktuelsefirsatda.net
 aktuelsepetim.biz.tr
+aktuelsepetim.com
 aktuelsepetim.com.tr
 aktuelsepetim.info.tr
 aktuelsepetim.net.tr
@@ -99996,5 +99998,3 @@ citizensbankredirec.ddns.net
 citizensbankrwwn.hopto.org
 citizensbanksecure.duckdns.org
 citizensbanksecureauthorization009.duckdns.org
-citizensbankservice.ddns.net
-citizensbanksupport.ddns.net

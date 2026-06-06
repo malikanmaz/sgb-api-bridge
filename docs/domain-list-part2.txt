@@ -1,3 +1,5 @@
+citizensbankservice.ddns.net
+citizensbanksupport.ddns.net
 citizensbankupdate.ddns.net
 citizensbnkverify.hopto.org
 citizenscheckup.hopto.org
@@ -2087,6 +2089,7 @@ coilradioactive.top
 coilrough.top
 coilwood.info
 coin-infinitegains.site
+coin-secimi.com
 coin.vet
 coinaesmggling.top
 coinagesanctuary.top
@@ -94637,6 +94640,7 @@ haziranonlineozel.com.tr
 haziranonlineozelfirsatlar.com.tr
 haziranozelaltus.com.tr
 haziranozelcepte.com.tr
+haziranozelflrsattingeldi.com
 haziranpromosyon.click
 haziranqozelizgelin.com
 haziransktslemansatkelfbr.com
@@ -99994,7 +99998,3 @@ hgs-sk.tech
 hgs-sorg.net
 hgs-sorgu.c1.is
 hgs-sorgu.com
-hgs-sorgu.oanygiris.com
-hgs-sorgulama.blogspot.com
-hgs-sorgulama.com
-hgs-store.com
