@@ -1,3 +1,6 @@
+citizensbankauth05.zapto.org
+citizensbankkkja.hopto.org
+citizensbankkonline.ddns.net
 citizensbankloginenable.duckdns.org
 citizensbanko5.ddns.net
 citizensbankonnline.ddns.net
@@ -23569,6 +23572,7 @@ dijitalbasvurudenizbankgiris.co.vu
 dijitalbasvurugiris-denizacik.com
 dijitalbasvuruhizli-denizacik.com
 dijitalbasvurukanallarim.sbs
+dijitalbasvurukatilimi.sbs
 dijitalbasvurular-ziraat.com
 dijitalbasvurular-ziraatmobilweb.com
 dijitalbasvurular.ziraatmobilweb.com
@@ -85572,6 +85576,7 @@ guvenlisepetalisveris.com
 guvenlisepetalisverisi.com
 guvenlisepetalisverisi.shop
 guvenlisepetim-hizmet.online
+guvenlisepetler-hizmet.online
 guvenliservis.com.tr
 guvenliservisler.com.tr
 guvenlisgkodemeservisi.com
@@ -99993,8 +99998,3 @@ hgs-pttt-dolum-hizmeti.fun
 hgs-pttt-tr.blogspot.com
 hgs-pttt-trr.blogspot.com
 hgs-ptttavm.com
-hgs-pttyukle.me
-hgs-pttyuklee.me
-hgs-pttyukleme.net
-hgs-r.com
-hgs-ramazan.com
