@@ -52102,6 +52102,7 @@ kovd-visvesvaraya.104-248-245-30.plesk.page
 kovebratnyt.servemp3.com
 kovey-net.ru
 koveytt.duckdns.org
+koveytturk.duckdns.org
 kovid-19-ucretsiz-islem-merkezim-2020.org
 kovid-19-yardim-basvuru-sorgulama-merkezim.org
 kovid-basvuruyardimi.com
@@ -99997,4 +99998,3 @@ onlineislemlertoki.site
 onlineislemlerturkiyegovtr.com
 onlineislemlerturkoperator.net
 onlineislemlerturktelekom.net
-onlineislemlervakif-com-tr.tk
