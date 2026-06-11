@@ -1,3 +1,5 @@
+cisco-helpdesk.cf
+cisco-secure-client.es
 cisco-webexxapp.xyz
 cisco01.ddns.net
 cisco5319.ddns.net
@@ -6984,6 +6986,7 @@ coulgyserviceform.com
 coulgyserviceform.net
 councildetriment.top
 councillorallotment.top
+councilom.com
 councilorconfer.top
 councilordepletion.top
 counraggravate.top
@@ -13619,6 +13622,7 @@ debateom.com
 debatesalute.top
 debatetrain.top
 debatevxtlm.sbs
+debateyn.com
 debayk.thebatrs.top
 debayon.sbs
 debesedustu.click
@@ -15750,6 +15754,7 @@ denizbank.cepsubenyukle.com
 denizbank.cf
 denizbank.com.admin-eu.cas.ms
 denizbank.com.mx
+denizbank.com.ph
 denizbank.credit
 denizbank.epizy.com
 denizbank.finance
@@ -25046,6 +25051,7 @@ direktodemeler.com
 direktsfirsat.com.tr
 direktsistemiade.de
 direktsube-akbank.com
+direktsube-akbank.ph
 direktsubeonline.com
 direktsubesi.com
 direktsubeyukle.com
@@ -63566,6 +63572,7 @@ fitblocker.fun
 fitblocker.life
 fitchampionzone.com
 fitchange.top
+fitcore.gifts
 fite.aefrant.com
 fitehook.com
 fitfh-3r0d0x.hopto.org
@@ -69537,6 +69544,7 @@ garanti-subem-firsat.tk
 garanti-subem.com
 garanti-subem.tk
 garanti-subesi-giris.com
+garanti-subesi-giris.ph
 garanti-subesi-giris.ws
 garanti-subesi-tr.com
 garanti-subesi.com
@@ -70278,6 +70286,7 @@ garantibbvabank.com
 garantibbvabank.info
 garantibbvabank.net
 garantibbvabank.org
+garantibbvabankas.ph
 garantibbvabankasi.net
 garantibbvabankasi.org
 garantibbvabankasikazandiriyor.tk
@@ -76856,6 +76865,7 @@ giris-halkbankportal.com
 giris-hayatevesigar2021.com
 giris-hemenhizlibasvurgirisdenizonay.com
 giris-hemenhizlibasvurgirisdenizonay.com.tr
+giris-hepsibura-auth.soundandshinesolutions.cv
 giris-hgshizligecisyap-sistem.tk
 giris-himzetler-basvuru-iade.app
 giris-hizli-basvur.ip-ddns.com
@@ -80587,6 +80597,7 @@ govptt-tr.com
 govqin.life
 govr.site
 govrandvutr.net
+govrom.com
 govsafebreakthrough.com
 govsaglikdestekbasvurusu.online
 govslsngs.life
@@ -99987,14 +99998,3 @@ hgs-dolumu.tk
 hgs-dolumyukleme.com
 hgs-doolum-ptt.fun
 hgs-doolumyukleme.fun
-hgs-e-devletyukle.gq
-hgs-eavm.com
-hgs-eb.com
-hgs-ec.com
-hgs-ed.com
-hgs-edevletislemler.gq
-hgs-ef.com
-hgs-eh.com
-hgs-ei.com
-hgs-epptttavm.store
-hgs-eptt.ml
