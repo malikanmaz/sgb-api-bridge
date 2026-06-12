@@ -15768,6 +15768,7 @@
 575554567455.cloud
 575727513223.click
 5764352.net
+576465345.net
 576533452376345634.cfd
 5778.hopto.org
 578-7-7-1-1.com
@@ -25338,6 +25339,7 @@ a1o1aldi.sbs
 a1o1aldim.cfd
 a1o1aldim.net
 a1o1aldin.duckdns.org
+a1o1aldinfirsatlarisi.duckdns.org
 a1o1aldinsimdi.duckdns.org
 a1o1aldn.duckdns.org
 a1o1aldnaldinfrsatlarin.blogdns.com
@@ -37041,6 +37043,7 @@ akbank-borc-sorgulama.com
 akbank-cekilisi.com
 akbank-cepislem.com
 akbank-cepsubesi.com
+akbank-com.ph
 akbank-com.tk
 akbank-deneme.64-23-128-187.plesk.page
 akbank-destek.com
@@ -37456,6 +37459,7 @@ akbankislemteyit2025.duckdns.org
 akbankiz.com
 akbankiz.net
 akbankk-bireysell.com
+akbankk-bireysell.ph
 akbankk-direktt.com
 akbankk-ihtiyackredibasvuru.site
 akbankk.cf
@@ -78706,6 +78710,7 @@ blahder3dsoft.store
 blakaa.duckdns.org
 blakarda.site
 blakeboris265.xyz
+blamastikseveriz.click
 blame-negotiate.com
 blame6544.xyz
 blameaffluent.top
@@ -99993,8 +99998,3 @@ circle-cl.com
 circle-up.org
 circle.brickdroid.ru
 circle.callerdroid.ru
-circle.cleandroid.ru
-circle.droidcandy.ru
-circle.droidp.ru
-circle.fallballdroid.ru
-circle.hardwalldroid.ru
