@@ -11961,6 +11961,7 @@
 352api.site
 352game.fun
 352game.pw
+352hjdsf32532.click
 352oyun.fun
 3532132131.cloud
 35325125.istanbul
@@ -19957,6 +19958,7 @@
 867534243.net
 86753487554.cloud
 867645354.online
+867876456.net
 86802fc613fa6859610c9d335fc3c630.ir
 868612481.corolain.ru
 8688865456.cloud
@@ -60484,6 +60486,7 @@ basvuru-btcturk.net
 basvuru-btcturkpro.com
 basvuru-btk.org
 basvuru-btlcturk.com
+basvuru-cekilis.online
 basvuru-cekilisbasvuru.com
 basvuru-cimer.com
 basvuru-cimer.org
@@ -73551,6 +73554,7 @@ binancglobal500usdtcekilis.com
 binancgloball500usdcekilis.com
 binancino.hopto.org
 binancmasakdogrula22.duckdns.org
+binancmasaktrrdogrula22.duckdns.org
 binancr.com.tr
 binancrewardasqcentersehereda.vercel.app
 binancrewardcendaterdhere.vercel.app
@@ -76870,6 +76874,7 @@ bizdebugunefsanefirsatlar-var.shop
 bizdebugunefsanefirsatlarvar.shop
 bizdebugunkmpnylardanfaydanlcaz.shop
 bizdebugunonlarcakampanyavar.shop
+bizdebulesc61.xyz
 bizdedalisverlserdebitmez.com.tr
 bizdedalisverlserdebitmez.online
 bizdedalisverlserdebitmez.xyz
@@ -86406,6 +86411,9 @@ bsvrrkmpnyaaaabasvrr.pro
 bsvrrkmpnyaaaprmsnyn.click
 bsvrrkmpnyaaaprmsyn.click
 bsvrrkmpnyaaaprmsynn.click
+bsvrrkmpnyaaoprssmynn.art
+bsvrrkmpnyaaoprssmynn.live
+bsvrrkmpnyaaoprssmynn.pro
 bsvrrkmpnyaaprmsynn.info
 bsvrrkmpnyaaprmsynn.live
 bsvrrkmpnyaaprmsynn.pro
@@ -99990,11 +99998,3 @@ cipmifa.duckdns.org
 cipqgznege.smartfla0x1.com
 ciprinumpoausialso.com
 cipro.mx
-ciqcusbrlw.duckdns.org
-ciqfrsh.com
-ciqhzz.duckdns.org
-ciqrgscslt.hopto.org
-cirad.or.id
-circassiaz.com
-circbilet.ru
-circfo.duckdns.org
