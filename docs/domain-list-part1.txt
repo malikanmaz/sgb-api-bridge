@@ -25381,6 +25381,7 @@ a1o1bayram.duckdns.org
 a1o1br.duckdns.org
 a1o1burada.duckdns.org
 a1o1burasi.duckdns.org
+a1o1burdanal.duckdns.org
 a1o1c.net
 a1o1cay.duckdns.org
 a1o1caydanl.duckdns.org
@@ -64421,6 +64422,7 @@ bcturkonline.com
 bcuano.duckdns.org
 bcunj8cv.duckdns.org
 bcv-basvrm.lat
+bcv-bsvrs.lat
 bcv-gars.lat
 bcv-invest.sbs
 bcv-lat.top
@@ -73298,6 +73300,7 @@ binancem.link
 binancemega.net
 binancememecoin.com
 binancemobile.app
+binancemobileapp.ph
 binancemobilgiris.com
 binancen.live
 binancen.top
@@ -99995,6 +99998,3 @@ cinewwave.duckdns.org
 cinfintymex.geekgalaxy.com
 cingirak.click
 cinjyab.cn
-cinkasuwashop.com
-cinku.gdn
-cinlikizlafasgas.xyz
