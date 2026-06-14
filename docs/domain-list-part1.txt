@@ -2496,6 +2496,7 @@
 101firsatlarigirisadresi.sbs
 101firsatlarikapinda.duckdns.org
 101firsatlarim.shop
+101firsatlarimburda.click
 101firsatlarin.com
 101firsatlariniz.duckdns.org
 101firsatlarinzburda.psee.io
@@ -2505,6 +2506,7 @@
 101firsatlaronline.xyz
 101firsatlaronlinekampanya.online
 101firsatlarr.com
+101firsatlars.click
 101firsatonline.vip
 101firsatrsadeceonlirstr.blogdns.org
 101firsatsaliaksam.com
@@ -13380,6 +13382,7 @@
 41241231548123124.online
 4124124.duckdns.org
 4124124125353232.duckdns.org
+41242142142151512421.duckdns.org
 41260-coinbase.com
 4128fx.duckdns.org
 412941234531.com
@@ -43251,6 +43254,7 @@ alo--ptt.com
 alo-182.cfd
 alo-182.com
 alo-182.net
+alo-182.sbs
 alo-1822.com
 alo-ptt.com
 alo-yogatr.com
@@ -99994,7 +99998,3 @@ cinjyab.cn
 cinkasuwashop.com
 cinku.gdn
 cinlikizlafasgas.xyz
-cinmax.xyz
-cinmaxi.zapto.org
-cinmermerkez.com
-cinnalstep.xyz
