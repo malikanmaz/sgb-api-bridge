@@ -1,3 +1,5 @@
+onlineddenizbasvurum.online
+onlinedealsx.cfd
 onlinedenal.cfd
 onlinedenal.com
 onlinedenal.sbs
@@ -23156,6 +23158,7 @@ ptt.mobilservisi-3.com
 ptt.mobilservisi-4.com
 ptt.mobilservisi-6.com
 ptt.mobilservisi-8.com
+ptt.mobilservisler-25.sbs
 ptt.mobilservisleri.com
 ptt.mobilservisleri.online
 ptt.mobilservsim.com
@@ -23553,6 +23556,7 @@ pttavm.ile-ilanlar.com
 pttavm.ile-internetten-alisveris.com
 pttavm.ile-magazan.com
 pttavm.ile-merkezi-odeme.com
+pttavm.ile-sepette-islem.com.tr
 pttavm.ile-siparis-et.com.tr
 pttavm.ile-siparis-et.online
 pttavm.ileodeme-formu.com
@@ -99994,7 +99998,3 @@ tusassh-info.online
 tusasyatirim.com
 tusasyatirimapp.com
 tusasyatirimdestek.com
-tuseguridadylamia.ga
-tusenughfuloyc.xyz
-tusf5in9g.duckdns.org
-tusherchen.de
