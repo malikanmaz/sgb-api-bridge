@@ -18526,6 +18526,7 @@
 764848166818161646464.online
 765-4434343-4343.cloud
 765010679.corolain.ru
+765234525.net
 76524315.net
 76543545112.duckdns.org
 7654456543.online
@@ -25464,6 +25465,7 @@ a1o1firnisanfirstlanistr.blogdns.com
 a1o1firsaltyubirsatsubat.blogdns.com
 a1o1firsat.misecure.com
 a1o1firsat.online
+a1o1firsaticay.duckdns.org
 a1o1firsatkampanya.duckdns.org
 a1o1firsatlar.com
 a1o1firsatlari.duckdns.org
@@ -40348,6 +40350,7 @@ aktuelurunler.shop
 aktuelurunler.site
 aktuelurunler101.com.tr
 aktuelurunleraldin.blogspot.com
+aktuelurunlerburadalar.blogspot.com
 aktuelurunlercay.blogspot.com
 aktuelurunlerde.click
 aktuelurunlerdeindirim.com.tr
@@ -99995,6 +99998,3 @@ cimmer-basvuru.com
 cimmer-bilgilendirmeleri.com
 cimmer-e-devlet.com
 cimmer-edevlethemenbasvuruformu.com
-cimmer-kartaidatiadesibasvuruformu.com
-cimmeraidatiade.com
-cimmerbasvuruform.com
