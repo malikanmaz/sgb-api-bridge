@@ -42772,6 +42772,7 @@ karaca-firsatlar-burda-com-tr.sbs
 karaca-firsatlar-com-tr.sbs
 karaca-gunleri-kasim.xyz
 karaca-gunlerim.xyz
+karaca-haziran.vercel.app
 karaca-home-com-com-tr.sbs
 karaca-home-com-tr.sbs
 karaca-home-mutfak.com
@@ -99997,4 +99998,3 @@ onlinebncabasvurusu.com
 onlinebncabasvurutr.com
 onlinebncagirislertr.com
 onlinebncaktiftr.com
-onlinebncaresmigiris.com
