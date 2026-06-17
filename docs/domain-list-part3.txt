@@ -1,3 +1,4 @@
+hg61sxjf.storage.googleapis.com
 hg67rmvajo0mhufq.ddns.net
 hg777hdorotosskot.info
 hg8islemler.blogspot.com
@@ -537,6 +538,7 @@ hgs-o.com
 hgs-obs.net
 hgs-ode-3d.xyz
 hgs-ode-simdi.com
+hgs-ode-zamani.cfd
 hgs-ode.com
 hgs-odee-3d.xyz
 hgs-odeme-ankara.xyz
@@ -99996,5 +99998,3 @@ onlinebasvuru-sistemgirisi-edevlet.com
 onlinebasvuru-turkeygovtr.com
 onlinebasvuru-turkiyegovtr.com
 onlinebasvuru.e-devlet.live
-onlinebasvuru.ml
-onlinebasvuru.online
