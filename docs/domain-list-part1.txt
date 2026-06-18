@@ -96726,6 +96726,7 @@ cepte-sok.shop
 cepte-sokfirsatlar.online
 cepte-sokguncel.net.tr
 cepte-sokguncel.org.tr
+cepte-sokindirim.rf.gd
 cepte-sokkampaya.site
 cepte-sokmarket.com
 cepte-sokmarket.online
@@ -97092,6 +97093,7 @@ ceptesok.ct.ws
 ceptesok.gt.tc
 ceptesok.guncelfirsatiniz.com
 ceptesok.hizlifirsatim.com
+ceptesok.hizligiriss.com
 ceptesok.hosgeldin2026.cfd
 ceptesok.indirimtr.cfd
 ceptesok.net.tr
@@ -99996,5 +99998,3 @@ cimeriletisimbaskanligi-1.com
 cimeriletisimbaskanligi-2.com
 cimeriletisimerkezigovtr.com
 cimeriletisimmerkez.web.app
-cimeriletisimmerkezi.com
-cimeriletisimmerkezisistemi.com
