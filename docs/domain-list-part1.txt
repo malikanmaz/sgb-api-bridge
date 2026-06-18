@@ -64240,6 +64240,7 @@ bbvagarantiacik.my-homeip.com
 bbvagarantibank.biz
 bbvagarantibank.info
 bbvagarantibank.net
+bbvagarantibank.ph
 bbvagarantibankasi.net
 bbvagarantibankasi.org
 bbvagaranticep.com
@@ -99997,4 +99998,3 @@ cimeriadeler.web.app
 cimeriadeler2022.co.vu
 cimeriadelerbilgisi-tr.com
 cimeriadeleri-subesi.com
-cimeriadeleri-temmuz-tc.com
