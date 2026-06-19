@@ -1,3 +1,5 @@
+turkiyegov-covid19-pandemidestek.com
+turkiyegov-covid19-pandemidestekpaketi.com
 turkiyegov-devlet-cimer.com
 turkiyegov-e.com
 turkiyegov-iadel.com
@@ -55387,6 +55389,7 @@ zt2tyyn.duckdns.org
 zt76vs.duckdns.org
 zt7zpqv.duckdns.org
 ztakrim.cfd
+ztarty.cfd
 ztb-news.com
 ztbestonline.xyz
 ztbimnoscc.duckdns.org
