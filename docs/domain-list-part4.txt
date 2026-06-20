@@ -1,3 +1,7 @@
+online-yapiavantajcepbasvurumaktif.vercel.app
+online-yapicep.vercel.app
+online-yapicepavbaslangic.vercel.app
+online-yapiikredii.com
 online-yapiisubatkampanyalari.vercel.app
 online-yapikredi-sube-cep-tr.cf
 online-yapikredi-tr-web.com
@@ -88380,6 +88384,7 @@ tokikonutbasvurulardir-kayityap.vercel.app
 tokikonutbasvurulari.cloud
 tokikonutbasvurulari.com
 tokikonutbasvurulari.org
+tokikonutbasvurulari2.vercel.app
 tokikonutbasvurularim.vercel.app
 tokikonutbasvurularin.vercel.app
 tokikonutbasvurularkayit.vercel.app
@@ -99993,8 +99998,3 @@ turkiyef.com
 turkiyefacebook.com
 turkiyefeyzalicumhuriyeti.com
 turkiyefiinans-tr.com
-turkiyefiinans.com
-turkiyefinams.com
-turkiyefinan.com
-turkiyefinanas.com
-turkiyefinance-tr.com
