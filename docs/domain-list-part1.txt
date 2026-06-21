@@ -64577,6 +64577,7 @@ bcv-acces.lat
 bcv-basvrm.lat
 bcv-bsvrs.lat
 bcv-gars.lat
+bcv-global.lat
 bcv-invest.sbs
 bcv-lat.top
 bcv-premium.cfd
@@ -99997,4 +99998,3 @@ cimerdestekpandezaman.com
 cimerdestekpandezamani.com
 cimerdestekpanzamani.com
 cimerdestektrltonlinertbasvurugv.com
-cimerdevlethibeleri.com
