@@ -1,3 +1,17 @@
+turkiye.gov.tr.basvurunda.77-83-201-134.plesk.page
+turkiye.gov.tr.devlet-govtr-forum.tk
+turkiye.gov.tr.e-i-hizmetleri.de
+turkiye.gov.tr.haziranayi.77-83-201-133.plesk.page
+turkiye.gov.tr.hizme-t-t-de.de
+turkiye.gov.tr.hizmet.portal.77-83-201-131.plesk.page
+turkiye.gov.tr.hizmeti.77-83-201-131.plesk.page
+turkiye.gov.tr.hizmetmerkezi.77-83-201-133.plesk.page
+turkiye.gov.tr.iade-sistemde.de
+turkiye.gov.tr.iadep-ortall.de
+turkiye.gov.tr.islem-portali.77-83-201-133.plesk.page
+turkiye.gov.tr.merkezportal.77-83-201-133.plesk.page
+turkiye.gov.tr.pttinternet-islem.com
+turkiye.govtr.aidat-iade-birimi.ga
 turkiye.govtr.aidat-iade-birimi.gq
 turkiye.govtr.aidat-iade-birimi.ml
 turkiye.govtr.aidat-iade-birimi.tk
@@ -40020,6 +40034,7 @@ y0m2krolu01de8i.ddns.net
 y0m4ihs8klwnyx7dc8y.ddns.net
 y0nl3ndiriliy0rdunsuzdawsz.duckdns.org
 y0nl3ndiriliy0rs8nuz.duckdns.org
+y0nl3ndiriliyors0nuz24.duckdns.org
 y0nl3ndirilyors3nzi.duckdns.org
 y0nl3ndirliyo4s0nz.duckdns.org
 y0nlendir0ly0rs0n.duckdns.org

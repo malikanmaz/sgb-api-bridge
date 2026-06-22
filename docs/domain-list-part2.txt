@@ -1,3 +1,5 @@
+cimercbiadesi.web.app
+cimerci-portal-tr.com
 cimercmhurbaskanligi.com
 cimercumbsktr.com
 cimerdeaidad.com
@@ -43007,6 +43009,7 @@ efsanehazirandakifirsatlariyakala.com
 efsanehaziranfirsatlari.com.tr
 efsanehaziranfirsatlarii.com.tr
 efsanehazirangunleri.com.tr
+efsanehaziranlndrmi.com
 efsanehediyeler.online
 efsaneilaclamafirmasifevzi.net
 efsaneindiriiimm.com.tr
@@ -98315,6 +98318,7 @@ hemenislemmerkezi.app
 hemenislemmx.sg-host.com
 hemenislemnal.net
 hemenislemnkkntasi.online
+hemenislemnktans.net
 hemenislemnktasi.net
 hemenislemnktsi.online
 hemenislemnktsi.shop
@@ -99994,7 +99998,3 @@ hesederesede.site
 hesenqasanyobaa.ddns.net
 hesfwlos213.digital
 hesisaminiaser.net
-hesislemler.com
-hesislemleri.com
-hesit.xyz
-hesitantpotery.top
