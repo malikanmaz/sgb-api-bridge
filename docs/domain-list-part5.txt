@@ -1,3 +1,11 @@
+turkiye-gov-tr.ga
+turkiye-gov-tr.gq
+turkiye-gov-tr.ml
+turkiye-gov-tr.net
+turkiye-gov-tr.online
+turkiye-gov-tr.org
+turkiye-gov-tr.pw
+turkiye-gov-tr.tech
 turkiye-gov-tr.xyz
 turkiye-gov-trmobil.net
 turkiye-gov-trr.com
@@ -52908,6 +52916,7 @@ zipzone.io
 ziqu2tks.duckdns.org
 ziqzoqhere.asia
 zir-aat-online-islemler-login.my-homeip.de
+zir-dijitalbasvurular.sbs
 zir-kampayalar.sbs
 zir-oatt.xyz
 zir-sorgu.nicepage.io
