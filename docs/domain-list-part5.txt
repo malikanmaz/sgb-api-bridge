@@ -1,3 +1,8 @@
+turkiye.gov-tr.ml
+turkiye.gov-tr.org
+turkiye.gov.clskl.com
+turkiye.gov.myriambras.fr
+turkiye.gov.tr-resmigazete.77-83-201-134.plesk.page
 turkiye.gov.tr.basvurunda.77-83-201-134.plesk.page
 turkiye.gov.tr.devlet-govtr-forum.tk
 turkiye.gov.tr.e-i-hizmetleri.de
@@ -7414,6 +7419,7 @@ uyapsorgusu.site
 uyapsorusturmasorgulama.com
 uyapssorgu.com
 uyaptakip.org
+uyapteblig.org
 uyaptebligat.org
 uyaptr.com
 uyapturkiye.org
