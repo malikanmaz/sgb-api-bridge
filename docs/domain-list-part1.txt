@@ -906,6 +906,7 @@
 0a4a3wzl.duckdns.org
 0a4bfb253054.net
 0a4telj.duckdns.org
+0a572599-0.b-cdn.net
 0a6a01as980dan9q.net
 0a91k77p.duckdns.org
 0aa0cf0637d66c0d.com
@@ -46012,6 +46013,7 @@ anlamkutu.info
 anlarimbensw.net
 anlarinrengi.com
 anlarsinzamanla.uk
+anlasma-literaly-gr.myonlineportal.ch
 anlatamam.duckdns.org
 anlatamiyorumderdimikime.xyz
 anlatanlat.cfd
@@ -47118,6 +47120,7 @@ app-desktop.com
 app-desktops-downloads.com
 app-desktops-pc.com
 app-dimensiona.s3.sa-east-1.amazonaws.com
+app-distribution.net
 app-dolap.com
 app-downloads-desktops.com
 app-downloads.org
@@ -67003,6 +67006,7 @@ bexipa.com
 bexir.sbs
 bexloroon.com
 bexnbfkdwf.duckdns.org
+bexoria.xyz
 bexq.ddns.net
 bey.seoper.top
 beyanla.hizlibeyan.com
@@ -68415,6 +68419,7 @@ bilgilendirmehizmetdijitalvakif.com
 bilgilendirmehizmetleri.xyz
 bilgilendirmelidanismanlik.com
 bilgilendirmemerkezi.click
+bilgilendirmesayfasi.misecure.com
 bilgilendirmeson.nicepage.io
 bilgilendirmesyf.dev
 bilgilendirmetebesdiji.online
@@ -68569,6 +68574,7 @@ bilgivakti.shop
 bilgivan.info
 bilgivebasvurum.com
 bilgivegirispromosyon.com
+bilgivizyonu.com
 bilgiya.info
 bilgiyarismasiozelkayit.online
 bilgiyayini.org
@@ -99992,9 +99998,3 @@ cimeraidathizmetleriniz.com
 cimeraidatiadecebimde.co.vu
 cimeraidatiadehizmetleri.com
 cimeraidatiadehizmetlerimiz.com
-cimeraidatiadeleri.com
-cimeraidatiademerkezi.com
-cimeraidatiadesi.com
-cimeraidatiadesionline.b-cdn.net
-cimeraidatiadesistemi.com
-cimeraidatin.com
