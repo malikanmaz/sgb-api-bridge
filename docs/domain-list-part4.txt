@@ -1,3 +1,8 @@
+online-mtv.com
+online-mtvhiz.org
+online-mtvodeme.com
+online-mtvodemehizmetleri.ph
+online-muayene.net
 online-mvergi.com
 online-my-digi.com
 online-ocakzamani.biz.tr
@@ -5522,6 +5527,7 @@ otokockiralama.online
 otokockurumsal.net
 otokockurumsal.rent
 otokockurumsalbayi.com
+otokockurumsalkiralama.com
 otokockutahya.com
 otokocrent.net
 otokocrentcar.com
@@ -25075,6 +25081,7 @@ pttavmkgs--hgs-gov-tr.blogspot.com
 pttavmkilometre.com
 pttavmkilometresorgu.com
 pttavmkmkontrol.web.app
+pttavmkmraporlama.com
 pttavmkmsorgulama.com
 pttavmkmsorgumerkezi.web.app
 pttavmkolay.com
@@ -88341,6 +88348,7 @@ toki-front.vercel.app
 toki-gov-tr-1259125915.vercel.app
 toki-gov-tr-14.vercel.app
 toki-gov-tr-15.vercel.app
+toki-gov-tr-17.vercel.app
 toki-gov-tr-com.ga
 toki-gov-tr-com.gq
 toki-gov-tr-com.tk
@@ -99990,11 +99998,3 @@ turkiye-girisgovcomtr.app
 turkiye-girisgovtr.app
 turkiye-giriskapisi-edevlet.com
 turkiye-giriswebgovtr.com
-turkiye-girisyap.com
-turkiye-globali-ile-gelecek.net
-turkiye-gor.com
-turkiye-gov--tr.com
-turkiye-gov-aidat-iadesi.com
-turkiye-gov-aidat-iadesi.online
-turkiye-gov-aidat-kontrol-tr.org
-turkiye-gov-aidat.com
