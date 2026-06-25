@@ -3517,6 +3517,7 @@
 112233-445566-778899-11-254225.xyz
 112233659546457.cloud
 1123232324.cloud
+1123344225566112.duckdns.org
 11233445566112.duckdns.org
 11234228356312.com
 1123432421323.cloud
@@ -24562,6 +24563,7 @@ a101indirimligunler.store
 a101indirimliurunleral.com
 a101indirimlizamanlar.xyz
 a101indirimmkampanyalari.com
+a101indirimmmmm.duckdns.org
 a101indirimplus.xyz
 a101indirimsaatlerin.online
 a101indirimsepet.com
@@ -36308,6 +36310,7 @@ ailevecalisma-destekbasvuru.com
 ailevecalisma-gov-tr-tr-tr-haberler-bakan-selcuk-gss.ga
 ailevecalisma-gov.org
 ailevecalisma.org
+aileveevlilikfonu.com
 ailevegenc3.blogspot.com
 ailevegencbasvurkredi.com
 ailevegencliikbankasi.net
@@ -78929,6 +78932,7 @@ blacknjrat.ddns.net
 blacko.zapto.org
 blackoar.top
 blackoutbilgi.xyz
+blackoutlarburdan.xyz
 blackoutrageous.top
 blackoutseverim.xyz
 blackoutsevermisiniz.xyz
@@ -87452,6 +87456,7 @@ bu-enguzel-anlari-burada-seninle-zamani-hep-gorecegiz.com
 bu-enguzel-anlari-burada-sizinle-guzel-hep-gorecegiz.com
 bu-enguzel-anlari-burda-hepberaber-guzel-hep-gorecegiz.com
 bu-eylulbizim-ayimiz.xyz
+bu-ff-dd-ss-de.xyz
 bu-firsat-aldin-a-101comtr.site
 bu-firsat-kacmaz.com
 bu-firsat-kacmaz.net
@@ -99993,8 +99998,3 @@ cimer-iadesitesi-govtr.com
 cimer-iadesitesi.com
 cimer-interaktif.com
 cimer-kartaidat.com
-cimer-kartaidatmasraf.com
-cimer-kartiadeaidat.com
-cimer-kartiadesi.com
-cimer-katkipayiodemeleri.com
-cimer-kredikartonlinegeriodemegovtr.com
