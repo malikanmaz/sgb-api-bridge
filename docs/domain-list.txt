@@ -84508,6 +84508,7 @@ borsadonusum.com
 borsaexpert.online
 borsaguide.online
 borsagundem.world
+borsagundemi.media
 borsahaber.online
 borsahaber.world
 borsahaberler.online
@@ -161385,6 +161386,7 @@ finansgirismenusi.com
 finansgorus.online
 finansguncel.pro
 finansgundem.site
+finansgundemi.media
 finansgundemi.today
 finansgundemi.world
 finanshaber.live
@@ -388358,6 +388360,7 @@ toki-gov-tr-14.vercel.app
 toki-gov-tr-15.vercel.app
 toki-gov-tr-17.vercel.app
 toki-gov-tr-18.vercel.app
+toki-gov-tr-19.vercel.app
 toki-gov-tr-com.ga
 toki-gov-tr-com.gq
 toki-gov-tr-com.tk
