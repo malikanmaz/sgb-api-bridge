@@ -5363,6 +5363,7 @@
 16748272-coinbase.com
 1676.cloud
 16782942-coinbase.com
+167fa383-4.b-cdn.net
 167hwr24fi.icu
 168-gov.info
 16800584621011302187-verification-acount.duckdns.org
@@ -13497,6 +13498,7 @@
 4218112532315319736.com
 421831597164590.xyz
 421kk3uqv.duckdns.org
+4226541e-3.b-cdn.net
 4231213213123.cloud
 423123543412312534234.online
 423160f.duckdns.org
@@ -18841,6 +18843,7 @@
 785426151.click
 7854634176583.com
 78548756487654654.duckdns.org
+78566452.net
 785858232-223.duckdns.org
 785q4zw.duckdns.org
 78645378679.cloud
@@ -68514,6 +68517,7 @@ bilgilendirmeyonlendirme.com.tr
 bilgilendirmezamani.online
 bilgilendrciburda.xyz
 bilgilenebilmebilgilendirmek33.com
+bilgilennyolgecis.netlify.app
 bilgilenyolgecis.netlify.app
 bilgiler-aidatlarimiadedevletgovcom.com
 bilgiler-edevletgovkartgirisi.tk
@@ -99994,7 +99998,3 @@ cimer-bireyselbasvurusu.com
 cimer-bireyselbasvurusu.org
 cimer-com-mx.cimer.do
 cimer-cumbsktr.com
-cimer-destek-hatti.com
-cimer-destekbasvuru.com
-cimer-destekbasvuru.org
-cimer-destekbasvurusu.org
