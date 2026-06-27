@@ -9194,6 +9194,7 @@
 23222654654.cloud
 23225456122.xyz
 232312321312.cloud
+2323200499400.duckdns.org
 2323213213435665421.cloud
 23232323211.cloud
 2323234342332.cloud
@@ -38627,6 +38628,7 @@ akkampanyaa.online
 akkampanyabasvuru.online
 akkampanyadestek.icu
 akkampanyagiris.xyz
+akkampanyalar.shop
 akkampanyalari.best
 akkampanyalari.click
 akkampanyalari.com.tr
@@ -99996,5 +99998,3 @@ cimer-aidatt.com
 cimer-aidattalleps.org
 cimer-basvurcomtr.com
 cimer-basvuru-edevlet.com
-cimer-basvuru-gov-tr.com
-cimer-basvuru-govtr.com

@@ -1,3 +1,6 @@
+turkey-copyright.ml
+turkey-dyson.com.tr
+turkey-e-kart-iade.net
 turkey-e-kart-iade.org
 turkey-e-kart-iades.net
 turkey-earthquake.com
@@ -55898,6 +55901,7 @@ zkr5fc8b3.duckdns.org
 zkrbma.store
 zkredibasvuru6.myaddr.io
 zkredibasvuru7.myaddr.io
+zkrikayt.cfd
 zkservice.cloud
 zkseyhma.duckdns.org
 zkstyle.zapto.org
