@@ -1,3 +1,5 @@
+herokudk.net
+herolar.xyz
 herosdecos.digital
 heroswears.com
 heroybirfidan.org
@@ -79105,6 +79107,7 @@ mobilservisler-28.sbs
 mobilservisler-29.sbs
 mobilservisler-3.sbs
 mobilservisler-49.sbs
+mobilservisler-51.sbs
 mobilservisler.com
 mobilservisler.online
 mobilservisler.xyz
@@ -99995,6 +99998,3 @@ online-giris-kampanyalari.com
 online-giris-kampanyalarimiz.com
 online-giris-kampanyam.com
 online-giris-portal.online
-online-giris-portali.com
-online-giris-vakif-tr-com.tk
-online-giris.com
