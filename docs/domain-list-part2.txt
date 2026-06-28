@@ -1,3 +1,4 @@
+cimer-aidati-gov.com
 cimer-aidatiadeleri-gov-tr.com
 cimer-aidatiadeodeme.com
 cimer-aidatkayit.com
@@ -90947,6 +90948,7 @@ halk-kazandiriyor.com
 halk-kobi-firsatlar.com
 halk-kobi-sube.com
 halk-kobi-tr.com
+halk-kredi.vercel.app
 halk-mart-firsatlari.ga
 halk-mart-firsatlari.ml
 halk-mart-guzelgunler-2019.ga
@@ -99996,5 +99998,3 @@ herkimseler-bukadarina-gerekirse-illede-gorulur.top
 herko.ddns.net
 herkosesindedehset.site
 herksbrudasannerdeesanden84.click
-herksvarddenzdesenderdegel365.click
-herlhierarchy.top
