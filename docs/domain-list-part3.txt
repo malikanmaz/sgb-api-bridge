@@ -51125,6 +51125,8 @@ km-pttavm.sa.com
 km-sorcukm.blogspot.com
 km-sorg.blogspot.com
 km-sorglma.bizdnhizslisiyok.com
+km-sorgu-avmptt.firebaseapp.com
+km-sorgu-avmptt.web.app
 km-sorgu-pttavm-platform.firebaseapp.com
 km-sorgu-pttavm-platform.web.app
 km-sorgu.com
@@ -99996,5 +99998,3 @@ online-etkinhgs.biz
 online-eylulayi-aktarimlari.online
 online-facebook.com
 online-fatura.org
-online-finans2019.com
-online-finansbasvuru-faissiz.vercel.app
