@@ -36886,6 +36886,7 @@ ak-kampanya.online
 ak-kampanya.vercel.app
 ak-kampanyadunyasi-giris.duckdns.org
 ak-kampanyalari-giris.xyz
+ak-kampanyan.vercel.app
 ak-kampanyasi1.cloud
 ak-kampanyasikayitanalr.com
 ak-katilimlariniz-77.dvrlists.com
@@ -50834,6 +50835,7 @@ arzumforge.xyz
 arzumindirima.com
 arzumindirimleri.com
 arzumindirimszl.com
+arzumindirimww.duckdns.org
 arzumlindirim.com
 arzummaknneindrm.com
 arzumnova.xyz
@@ -66089,6 +66091,7 @@ belpost-by.lol
 belsis.art
 belsis.online
 belsis.site
+belsis.xyz
 beltclog.top
 beltglacier.top
 beltmealmusic.com
@@ -89239,6 +89242,7 @@ buradayizteb.online
 buradayuzunuzgulecek.com
 buradnxaa.cfd
 burads1-939ee2a65a73.herokuapp.com
+burads1-bb4ae103b5bb.herokuapp.com
 burads1-bef6a617f032.herokuapp.com
 burads12-d31e5cdcee96.herokuapp.com
 burads122-65256e8d16cd.herokuapp.com
@@ -99994,7 +99998,3 @@ cimcumbsklik.com
 cimcumhurbaskliklar.com
 cimcumhurbsklikduyurusutr.com
 cimcumhurbsklikiletisimlertr.com
-cimcumhurpandemitr.com
-cimcumhursayilikarar.com
-cimdevledform.com
-cimenegitimvakfi.org.tr
