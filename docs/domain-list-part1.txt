@@ -5682,6 +5682,7 @@
 182-mherase.com
 182-net.com
 182-nett.com
+182-web.xyz
 182-webhati.com
 182-website.com
 182-weeb.net
@@ -36881,6 +36882,7 @@ ak-kampanya-katil.online
 ak-kampanya-katil.xyz
 ak-kampanya-merkezi.com
 ak-kampanya.online
+ak-kampanya.vercel.app
 ak-kampanyadunyasi-giris.duckdns.org
 ak-kampanyalari-giris.xyz
 ak-kampanyasi1.cloud
@@ -99996,5 +99998,3 @@ cimer-20gb-operatordestekleri.tk
 cimer-aiadat-iadeleriniz-resmi-govtr.com
 cimer-aiadat-iadeleriniz-resmi-govtrt.com
 cimer-aidaat.com
-cimer-aidat-basla.com
-cimer-aidat-iade-basvuru.com
