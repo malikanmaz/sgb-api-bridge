@@ -36894,8 +36894,10 @@ ak-kampanya.online
 ak-kampanya.vercel.app
 ak-kampanyadunyasi-giris.duckdns.org
 ak-kampanyalari-giris.xyz
+ak-kampanyam.vercel.app
 ak-kampanyan.vercel.app
 ak-kampanyaniss222334zzzz.vercel.app
+ak-kampanyaniz.vercel.app
 ak-kampanyasi1.cloud
 ak-kampanyasikayitanalr.com
 ak-katilimlariniz-77.dvrlists.com
@@ -63220,6 +63222,7 @@ baykafunt.store
 baykar-ad.com
 baykar-ai.com
 baykar-b.glitch.me
+baykar-basvuru-merkezim.netlify.app
 baykar-baykoin.icu
 baykar-baykoin.top
 baykar-baykoin.world
@@ -73976,6 +73979,8 @@ binanctrtrmoontr.vercel.app
 binanctvaarmoontr.vercel.app
 binancventads.site
 binancxeta.com
+binancxteec.com
+binancxtmbb.com
 binancxtr.com
 binancyeniyil.com
 binancyeniyil.xyz
@@ -79042,6 +79047,7 @@ blacknjrat.ddns.net
 blacko.zapto.org
 blackoar.top
 blackoutbilgi.xyz
+blackoutkemops.xyz
 blackoutlarburdan.xyz
 blackoutrageous.top
 blackoutseverim.xyz
@@ -99992,9 +99998,3 @@ cim-baskanligi-duyurusu.com
 cim-basvuru-duyurusu.com
 cim-basvuruduyurusu.com
 cim-bilgilendirme-duyurusu.com
-cim-bilgilendirmeduyurusu.com
-cim-cimaida.com
-cim-cumhurbsk.com
-cim-duyurubasvurusu.com
-cim-duyurubilgisi.com
-cim-formiade.com
