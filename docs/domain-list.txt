@@ -1590,6 +1590,7 @@
 0xtoken.ddns.net
 0xu3ptwc.duckdns.org
 0xverfw.duckdns.org
+0xvona.duckdns.org
 0xylayaq5.duckdns.org
 0xyqp9.duckdns.org
 0xzea.ddns.net
@@ -11493,6 +11494,7 @@
 32123123132131322123.space
 321312111.cloud
 3213213-123.duckdns.org
+321321321.vercel.app
 321321321321321.space
 321321323.cloud
 32132156112.cloud
@@ -36893,6 +36895,7 @@ ak-kampanya.vercel.app
 ak-kampanyadunyasi-giris.duckdns.org
 ak-kampanyalari-giris.xyz
 ak-kampanyan.vercel.app
+ak-kampanyaniss222334zzzz.vercel.app
 ak-kampanyasi1.cloud
 ak-kampanyasikayitanalr.com
 ak-katilimlariniz-77.dvrlists.com
@@ -56085,6 +56088,7 @@ azurenetfiles.net
 azureonlinecloud.com
 azureonlinestorage.com
 azurestaticprovider.net
+azuretrail.vu
 azurewebsites.tech
 azurythm.com
 azvdhvnjvo.duckdns.org
@@ -93425,6 +93429,7 @@ capital-realm.online
 capital-stream.online
 capital-voyage24.com
 capitaladvisor.my
+capitalbrief.site
 capitalcritical.top
 capitalearcare.com
 capitalestates.es
@@ -102721,6 +102726,7 @@ codaashop-com.duckdns.org
 codadim.net
 codafilesharer512.zapto.org
 codahsop-gratis20.duckdns.org
+codalytix.digital
 codarat.ddns.net
 codarat2.ddns.net
 codasal.com
@@ -201879,6 +201885,8 @@ hgsbakiyeciboss.firebaseapp.com
 hgsbakiyeciboss.web.app
 hgsbakiyecisi.xyz
 hgsbakiyedoldurma.com
+hgsbakiyedoldurma.firebaseapp.com
+hgsbakiyedoldurmaci.web.app
 hgsbakiyedolduronline.ml
 hgsbakiyedollum.web.app
 hgsbakiyedolum.com
@@ -201955,6 +201963,7 @@ hgsbakiyeyuklemeburda.com
 hgsbakiyeyuklemee.blogspot.com
 hgsbakiyeyuklemek.com
 hgsbakiyeyuklemelerimxx.com
+hgsbakiyeyuklemeniz.firebaseapp.com
 hgsbakiyeyuklemenoktasii.com
 hgsbakiyeyuklemexhzmeti.net
 hgsbakiyeyuklemexibb.com
@@ -239036,6 +239045,7 @@ k5rr41j.duckdns.org
 k5t18bfs.duckdns.org
 k5timn.duckdns.org
 k5vzyhm.duckdns.org
+k5z8p3t9w2q7.sbs
 k61n0nxdb.duckdns.org
 k665sadhsh2sahdhas2saddasd.click
 k69plrlg.duckdns.org
@@ -303401,6 +303411,7 @@ onlinete-bfirsati.com
 onlinetebbasvurunuz.tk
 onlinetebsube.com
 onlinetechdesk.com
+onlinetemmuzfirsatlari.com
 onlinetepcebimde.cfd
 onlineticaretiniz.com.tr
 onlineticaretmerkezi.online
@@ -315051,6 +315062,7 @@ pazarama.onaylislem.com
 pazarama.onlinebireyselcisatici.com.tr
 pazarama.onlinesaticimerkezi.com
 pazarama.onlinesaticimiz.com.tr
+pazarama.onlinetemmuzfirsatlari.com
 pazarama.satiskontrol.com
 pazarama.sorunsuzodeme.com
 pazaramaanelergunuozel.com
@@ -325230,6 +325242,7 @@ pttavm-alisveris.cfd
 pttavm-alisveris1.cfd
 pttavm-alisveriscim.xyz
 pttavm-annelergunu.com
+pttavm-arac-bilgileriniz.firebaseapp.com
 pttavm-arac-gecmisi.web.app
 pttavm-arac-km-ogren.firebaseapp.com
 pttavm-arac-km-ogren.web.app
@@ -325252,6 +325265,7 @@ pttavm-firsatlarburda.com
 pttavm-firsatlarburda.xyz
 pttavm-gov-tr.blogspot.com
 pttavm-guvenli-bilgilendirici.firebaseapp.com
+pttavm-guvenli-bilgilendirici.web.app
 pttavm-guvenliode.ct.ws
 pttavm-guvenliode.rf.gd
 pttavm-h-g-s-com-tr.blogspot.com
@@ -325744,6 +325758,7 @@ pttavmhgs.autos
 pttavmhgs.com
 pttavmhgsbakiedolum.web.app
 pttavmhgsbakiyebayi.web.app
+pttavmhgsbakiyecnokatasi.web.app
 pttavmhgsbakiyeyuklme.web.app
 pttavmhgsborcodeme.org
 pttavmhgsborcodeme.xyz
@@ -329427,6 +329442,7 @@ qertauiklap.shop
 qerton.store
 qerunalodi.com
 qerunavo.com
+qeruvia.xyz
 qervonak.media
 qerx4tnnv.duckdns.org
 qeryxegwqucxbuvat.com
@@ -425783,6 +425799,7 @@ wingsaxessiadehizmetmart2023.com
 wingsiadehizmetlerimart2023tr.net
 wingsiadehizmetmart2023.com
 wingsuperintendent.top
+winhardwarehub.gifts
 winhelptech.xyz
 winhomemodulo.ddns.net
 winhost.ddns.net
