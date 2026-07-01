@@ -1,3 +1,11 @@
+turkcellsuperonline-basvuruyap.site
+turkcellsuperonline-basvuruyap.xyz
+turkcellsuperonline-datanet.com
+turkcellsuperonline-digitalbayi.com
+turkcellsuperonline-dijitalabonelik.site
+turkcellsuperonline-dijitalbasvur.site
+turkcellsuperonline-dijitalweb.com
+turkcellsuperonline-ev-aboneligi.click
 turkcellsuperonline-ev-basvuru.click
 turkcellsuperonline-ev-basvurusu.click
 turkcellsuperonline-ev-internetaboneligi.click
@@ -54266,6 +54274,7 @@ zir-dijitalbasvuru.sbs
 zir-dijitalbasvurular.sbs
 zir-dijitalbasvurularim.sbs
 zir-dijitalinternet.sbs
+zir-dijitalinternetbasvuru.sbs
 zir-kampayalar.sbs
 zir-oatt.xyz
 zir-sorgu.nicepage.io

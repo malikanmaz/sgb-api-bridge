@@ -87235,6 +87235,7 @@ btcturk-girisi.xyz
 btcturk-il.com
 btcturk-kampanya.com
 btcturk-kripto.com
+btcturk-kripto.zendesk.com
 btcturk-kripto1781772972.zendesk.com
 btcturk-kriptom.com
 btcturk-login.com
@@ -99997,4 +99998,3 @@ cilmwgll.duckdns.org
 cilomum.com
 cilrix-corp.pro
 cilrix-corporate.online
-ciltbakim.name.tr
