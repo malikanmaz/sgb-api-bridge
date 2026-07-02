@@ -31408,6 +31408,7 @@ adaletceza.net
 adaletegm.net
 adaletegm.org
 adaletgeldi.online
+adalethukuku.org
 adaletkamu.net
 adaletmahkeme.org
 adaletmaliye.com
@@ -58857,6 +58858,7 @@ bank-verification.com
 bank-wellsfargo-update.duckdns.org
 bank-your-account.com
 bank.4-231-235-170.plesk.page
+bank.garantibbvakredibasvuru.com
 bank.makaveli.pw
 bank.nichesite.org
 bank.securemygateway.com
@@ -62100,6 +62102,7 @@ basvurumerkezi-denz.online
 basvurumerkezi-onay.com
 basvurumerkezi-turkiyegovtr.com
 basvurumerkezi-zrxt.com
+basvurumerkezi.abrdns.com
 basvurumerkezi.cam
 basvurumerkezi.icu
 basvurumerkezi.mefound.com
@@ -79057,6 +79060,7 @@ blacknight93.ddns.net
 blacknjrat.ddns.net
 blacko.zapto.org
 blackoar.top
+blackoutabi.sbs
 blackoutbilgi.xyz
 blackoutkemops.xyz
 blackoutlarburdan.xyz
@@ -89279,6 +89283,7 @@ buradayizbiz.sbs
 buradayizteb.online
 buradayuzunuzgulecek.com
 buradnxaa.cfd
+burads-6d5bb5751c89.herokuapp.com
 burads1-939ee2a65a73.herokuapp.com
 burads1-bb4ae103b5bb.herokuapp.com
 burads1-bef6a617f032.herokuapp.com
@@ -99993,8 +99998,3 @@ cileksubesi.xyz
 cileksubesindekampanya.online
 cileksubesindekampanya.xyz
 cileksubesindekampanyalar.online
-cileksubesindekampanyalar.xyz
-cilektarlasi.cf
-cilektarlasi.ga
-cilektarlasi.ml
-cilektarlasi.tk
