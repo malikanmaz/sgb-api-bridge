@@ -124748,6 +124748,7 @@ dijitalfirsatlar.sbs
 dijitalfirsatnet-ziraatbireysel.com
 dijitalfirsatweb-ziraatbireysel.com
 dijitalfon-denizacik.com
+dijitalform.sbs
 dijitalforw.site
 dijitalgarantibbuakredibasvurulari.com
 dijitalgarantiemeklilik.com
@@ -389357,6 +389358,7 @@ toggonsatis.com.tr
 toggonsatis.site
 toggonsiparisim.online
 toggotomobil.com
+toggotomobil.net
 toggsatisbayii.net
 toggsbasvurular.hopto.org
 toggsiparis.com
