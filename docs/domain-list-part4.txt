@@ -12684,6 +12684,7 @@ paribuarabacekilisim.com
 paribuarabadunyasi.com
 paribuarabaetkinligi.com
 paribuarabafest.com
+paribuarabafestivali.com
 paribuarabafirsat.com
 paribuarabafirsati.com
 paribuarabahediye.com
@@ -38791,6 +38792,7 @@ retrospectspotlight.top
 retry.server.dynamicdns.biz
 retsigorta.net
 rettg.ddns.net
+rettobasicimhrswsynx.duckdns.org
 rettvollmar.shop
 retukalone.pw
 retuki-laking-strasfor.myonlineportal.ch
@@ -99996,5 +99998,3 @@ turk-hizmet-2023.store
 turk-hizmet-gov.com
 turk-invest.info
 turk-invest.online
-turk-isbankasi.com
-turk-kargo3.net
