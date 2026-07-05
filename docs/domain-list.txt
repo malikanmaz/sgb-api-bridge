@@ -229,6 +229,7 @@
 0101010101010101.xyz
 01010101010122.xyz
 0101010222-2211.cloud
+010101023x235.duckdns.org
 010101032kk33.cloud
 0101012031010.duckdns.org
 0101012323.cloud
@@ -201750,6 +201751,7 @@ hgs-pttavm.com
 hgs-pttavm.fun
 hgs-pttavm.ml
 hgs-pttavm.net
+hgs-pttavm.ph
 hgs-pttavm.sa.com
 hgs-pttavmcom.sa.com
 hgs-pttavmmaamma.com
@@ -254029,6 +254031,7 @@ konutyapisi.click
 konutyeni.click
 konutyolu.click
 konuyyedineydi.sa.com
+konveyt-giris.duckdns.org
 kony2015.ddns.net
 konyahasereyesonilaclamacilari.site
 konyakarataysoksubesi.store
@@ -351483,6 +351486,7 @@ sdfsashjdas.net
 sdfsbvfbfda.duckdns.org
 sdfsd.xyz
 sdfsdafasdfhgjkfsdfjsfgsdaf.click
+sdfsdasdfsdfsd.duckdns.org
 sdfsdfasjdasjhda.net
 sdfsdfdsfsd123dsf.blogspot.com
 sdfsdfdsfsdww22-73d896558de9.herokuapp.com
@@ -453752,6 +453756,7 @@ zatoix.click
 zatracon.com
 zatzy.com
 zaurevionyzhub.world
+zauubslru-byyzaz-a1e01-rkatxe.lol
 zavages.codechazer.com
 zavagilsanti.com
 zavasy.net

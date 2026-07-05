@@ -229,6 +229,7 @@
 0101010101010101.xyz
 01010101010122.xyz
 0101010222-2211.cloud
+010101023x235.duckdns.org
 010101032kk33.cloud
 0101012031010.duckdns.org
 0101012323.cloud
@@ -99997,4 +99998,3 @@ cigarolive.top
 cigarpaqe.com
 cigars.pawscolours.com
 cigdem5.duckdns.org
-cigercibonuslargeceleri.xyz
