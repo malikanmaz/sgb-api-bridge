@@ -4028,6 +4028,7 @@
 1253523553.cloud
 12536154250.xyz
 12541544155455.duckdns.org
+125415554558998991.duckdns.org
 12545215.cloud
 125453365525sd.com
 12545589989990893.duckdns.org
@@ -5682,6 +5683,7 @@
 1818811-11123.duckdns.org
 181d3n3b12wj7p7vkxa.ddns.net
 182-alo.com
+182-hatti.com
 182-intt.com
 182-meharese.com
 182-mehharese.com
@@ -10404,6 +10406,7 @@
 2a-redirectore.ddns.net
 2a09nrk6.duckdns.org
 2a0a11z9y.duckdns.org
+2a0aabb0-e.b-cdn.net
 2a49vu.duckdns.org
 2a55nd2qxga.xyz
 2a70ce948347.com
@@ -13646,6 +13649,7 @@
 43554323.net
 43565.click
 435676787873.cloud
+43576884830900.net
 43587127865.net
 435ayjq3.duckdns.org
 4360709899089045086.duckdns.org
@@ -17557,6 +17561,7 @@
 6dd5fd945b34-endpoint.com
 6ddyyzaa.duckdns.org
 6de9tdmf.duckdns.org
+6dedb6bd-3.b-cdn.net
 6degf234324.duckdns.org
 6dmuvksl.duckdns.org
 6dnb4aot2.duckdns.org
@@ -36299,6 +36304,7 @@ ailedestek-sistemi-2020-covid.tk
 ailedestekbakanligi.tech
 ailedestekhizmetleri.com
 ailedestekpaketi.tk
+ailedestekyardim.org
 ailee.150kalin.com
 ailegenbavurusu.com
 ailegenc-baglan.com
@@ -46026,6 +46032,7 @@ ankararaz.xyz
 ankarasehiricinakliyat.com
 ankarasigortam.xyz
 ankarassyukle.net
+ankarasummit.com
 ankarasydv.online
 ankarasydv.org
 ankaravergimerkeziivd-gov-tr.net
@@ -51478,18 +51485,23 @@ asekent.click
 aselite.xyz
 aselsan-app.digital
 aselsan-healthcare.com
+aselsan-soft.com
 aselsan-tr.com
 aselsan-tr.net
 aselsan.store
 aselsan.tech
 aselsanai.digital
+aselsanai.net
+aselsanaibot.com
 aselsanbulten.com
+aselsandefense.net
 aselsanforyou.com
 aselsanglobal.pages.dev
 aselsanhealth.com
 aselsanhealthcare.com
 aselsanlr.xyz
 aselsanprogrami.com
+aselsansystems.com
 aselsanyat.xyz
 aselsanyatirimprogrami.click
 aseman-co.com
@@ -66058,6 +66070,7 @@ belinveston.com
 belirleme-durdur-portal.myonlineportal.ch
 belirleme-sinirlar-durdur.myonlineportal.ch
 belirlenenlere-uzaktaysa-ilkinizi-gorunceler.top
+belirti-edinim-katilin.myonlineportal.ch
 belislemleri.com
 belistanbul.vercel.app
 belivo.online
@@ -83497,6 +83510,7 @@ bodhh.com
 bodieslearning.com
 bodk4frue.duckdns.org
 bodmas01.zapto.org
+bodrumblockevetbenimbolge.cfd
 bodrumcontact.com
 bodrumda.pro
 bodrumevleri.net
@@ -83643,6 +83657,7 @@ bokepviralbocill-sma2022.duckdns.org
 bokepvirall1893.duckdns.org
 bokhoreshonline.com
 boki.zapto.org
+bokia.cyou
 bokiq7vu2.duckdns.org
 bokkuvirde.ddns.net
 boklaralemi.net
@@ -90914,6 +90929,7 @@ bxinmk.com
 bxiodsntiq.com
 bxisjcellodeme.net
 bxiviknjph.duckdns.org
+bxivo.quest
 bxiy0wdu.duckdns.org
 bxjcmll2kdvmm.com
 bxjcxceeel.com
@@ -93428,6 +93444,7 @@ cansagligivakfi.taveusercontent.com
 cansagligivakfi.telebit.app
 cansagligivakfi.telebit.io
 cansagligivakfi.val.ru
+cansankansendegalburdacan.live
 canseverlergizemlihikayeleri.xyz
 canseverlericinhikayekosesi.xyz
 canseverlerinicindeumutxyz.xyz
@@ -99981,20 +99998,3 @@ ciftcileretraktorzraatden.duckdns.org
 ciftcimarket.cfd
 ciftcimarket.online
 ciftcimedestek.com.tr
-ciftcimiz.com.tr
-ciftcininbankasiziraatbankasi.com
-ciftcininziraati.com
-ciftciyedestek.com.tr
-ciftciyedestek.cyou
-ciftciyedestek.xyz
-ciftciyeozelkampanyalar.click
-ciftciyeozelkampanyalarim.click
-ciftciyeyardimkampanyasi.com
-cifticiyedestek.com
-ciftlikdiyari.com
-ciftpay.tk
-cifttiklahemenal.shop
-cifxfu.duckdns.org
-ciganodadrena.ddns.net
-cigara.app
-cigarabsorbcrimefrost.com
