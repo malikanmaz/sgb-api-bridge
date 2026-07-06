@@ -115933,6 +115933,7 @@ deniz-merkez-basvuru.xyz
 deniz-mobiilbasvuru-tr.com
 deniz-mobil-com-promosyyon-anindan.duckdns.org
 deniz-mobil-com-promosyyon-cebinde.duckdns.org
+deniz-mobil-com-promosyyon-ceptenn.duckdns.org
 deniz-mobil-com-promosyyon-ekrani.duckdns.org
 deniz-mobil-com-promosyyon-guncel.duckdns.org
 deniz-mobil-com-promosyyon-sistemi.duckdns.org
@@ -306687,6 +306688,7 @@ otoparcaciniz.com.tr
 otopayfix.com
 otopayfix.net
 otopayfix.store
+otoplus-arac.com
 otopluss.site
 otoproaviskiralama.online
 otopx.net
@@ -312445,6 +312447,7 @@ paribu--cekilis.com
 paribu--cekilisi.com
 paribu--comtr.xyz
 paribu--login.com
+paribu--technology.com
 paribu--tekloloji.com
 paribu-2022-giris.com
 paribu-2022-giristr.com
@@ -312635,6 +312638,7 @@ paribu-shibcoin.click
 paribu-shibcoin.com
 paribu-sistem.com
 paribu-sogukdepo.com
+paribu-technology.com
 paribu-tr-2022.com
 paribu-tr-2022.xyz
 paribu-tr-com.com
@@ -388363,6 +388367,7 @@ tireyorukmerkezi.website
 tireyorukticaret.com.tr
 tireyorukticaret.xyz
 tiribekko.com
+tiriipsec.net
 tiringaffirm.top
 tiringmanifestation.top
 tiringstreamline.top

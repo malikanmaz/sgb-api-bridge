@@ -15933,6 +15933,7 @@ deniz-merkez-basvuru.xyz
 deniz-mobiilbasvuru-tr.com
 deniz-mobil-com-promosyyon-anindan.duckdns.org
 deniz-mobil-com-promosyyon-cebinde.duckdns.org
+deniz-mobil-com-promosyyon-ceptenn.duckdns.org
 deniz-mobil-com-promosyyon-ekrani.duckdns.org
 deniz-mobil-com-promosyyon-guncel.duckdns.org
 deniz-mobil-com-promosyyon-sistemi.duckdns.org
@@ -99997,4 +99998,3 @@ hepsiburashopmarket.com
 hepsiburda.codeasdp.com
 hepsiburda.site
 hepsiburdaa.net
-hepsiburdacom.com.tr
