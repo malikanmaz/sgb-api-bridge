@@ -1,3 +1,12 @@
+onlin-e-devlet-iade-sistemi-go197.ga
+onlin-e-devlet-iade-sistemi-go212.ga
+onlin-e-devlet-iade-sistemi-go218.ga
+onlin-e-devlet-iade-sistemi-go236.ga
+onlin-e-devlet-iade-sistemi-go239.ga
+onlin-e-devlet-iade-sistemi-go245.ga
+onlin-e-devlet-iade-sistemi-go264.ga
+onlin-e-devlet-iade-sistemi-go269.ga
+onlin-e-devlet-iade-sistemi-go276.ga
 onlin-e-devlet-iade-sistemi-go286.ga
 onlin-e-devlet-iade-sistemi-go296.ga
 onlin-e-devlet-iade-sistemi-go306.ga
@@ -5602,6 +5611,7 @@ ortak-bbvatr.my-homeip.com
 ortak-guzel.kortemetten.eu
 ortak-hizmet.com.tr
 ortak.e.vlilik.kredis.i.basuvuru.net
+ortakbakisim.com
 ortakbakisnoktasi.com
 ortakbanka.com
 ortakbankkatilim.com
@@ -44932,6 +44942,7 @@ sahibinden-get.mobilservis-84.sbs
 sahibinden-get.mobilservisi-15.sbs
 sahibinden-get.mobilservisim.com
 sahibinden-get.mobilservisin.com
+sahibinden-get.mobilservisiniz-15.sbs
 sahibinden-get.mobilservisler-27.sbs
 sahibinden-get.mobilservisler-30.sbs
 sahibinden-get.mobilservisler-44.sbs
@@ -99987,14 +99998,3 @@ tumurunlerdekampanyahizlial.online
 tumurunlerdekampanyahizlial.xyz
 tumurunlerdekmpnyalar1o1.xyz
 tumyenietkinliklerisorgulayinbasvurun.net
-tun6.fitnessresolvepro.run
-tunaakami.ddns.net
-tunaavipe.ddns.net
-tunaportfoyyonetim.com
-tunastra.cc
-tunate.xyz
-tunavakfi.online
-tunaysenturkhacker.club
-tunba.duckdns.org
-tuncaykantarc.cfd
-tunedia.com
