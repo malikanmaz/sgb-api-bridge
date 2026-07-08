@@ -1,3 +1,5 @@
+hepsiburadakargom.com
+hepsiburadakasim.com
 hepsiburadakep-adresim.com
 hepsiburadakep.com
 hepsiburadakepim.com
@@ -1767,6 +1769,7 @@ hgs-ode-zamani.cfd
 hgs-ode.com
 hgs-odee-3d.xyz
 hgs-odeme-ankara.xyz
+hgs-odeme-guncel.vercel.app
 hgs-odeme-hizmetii.xyz
 hgs-odeme-istanbul.xyz
 hgs-odeme-izmir.xyz
@@ -99995,6 +99998,3 @@ onehgs-yuklemeleri.com
 onehgs-yuklemelerillc.com
 onehgs.club
 onehgs.xyz
-onehgsservices.com
-onehgsyuklemeleri.com
-onehotic.com
