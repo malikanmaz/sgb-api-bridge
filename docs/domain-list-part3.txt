@@ -1,3 +1,7 @@
+hepsiburada.skin
+hepsiburada.store
+hepsiburada.stream
+hepsiburada.team
 hepsiburada.tk
 hepsiburada.today
 hepsiburada.tr-sepetim.sa.com
@@ -99994,7 +99998,3 @@ ondortskba.duckdns.org
 ondortsubatindirim.duckdns.org
 ondrion.bond
 ondrirka.com
-ondrive.foroof.com
-ondroid.site
-ondroid.store
-ondrve.live
