@@ -1,3 +1,4 @@
+hepsiburada.lol
 hepsiburada.love
 hepsiburada.makeup
 hepsiburada.media
@@ -54687,6 +54688,7 @@ kovalkovalihtila.xyz
 kovd-visvesvaraya.104-248-245-30.plesk.page
 kovebratnyt.servemp3.com
 kovey-net.ru
+koveyt-tork-net.duckdns.org
 koveytt.duckdns.org
 koveyttork.online
 koveyttorkiye.duckdns.org
@@ -99996,5 +99998,3 @@ ondenodeme3dc.xyz
 ondenodeme3dd.xyz
 ondenodeme3dhaul.xyz
 ondenodeme3dkua.xyz
-ondenodeme3dkul.xyz
-ondenodeme3dlule.xyz
