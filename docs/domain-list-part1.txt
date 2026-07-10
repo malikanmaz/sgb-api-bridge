@@ -54750,6 +54750,7 @@ avisrant.com
 avisrant.com.tr
 avisrent.com.tc
 avisrent.kiralama-online.com.tr
+avisrent.net
 avisrent.space
 avisrentacar-com-tr.cf
 avisrentacar.bireysel-kiralama.xyz
@@ -99997,4 +99998,3 @@ cicekhizmetleri.space
 cicekhizmetleri.wtf
 cicekhizmetleri.xyz
 cicekkapinda.info
-cicekkapinda.net
