@@ -46052,6 +46052,7 @@ ekstra.agency
 ekstra.app
 ekstra.my
 ekstra.online
+ekstra101.dpdns.org
 ekstra20gb-ekpaket-turkcell.com
 ekstrabaharkampanyasi.com.tr
 ekstraci-kacirilmayacak-firsatlar.online
@@ -84137,6 +84138,7 @@ grttipetips.site
 grttttttt.casa
 gru-yardim-talep-olustur.com
 grub-viral-ciwiciwi-imut292.duckdns.org
+grubabioc.online
 grubiclik.duckdns.org
 grubokep-889.duckdns.org
 grubtantenaswa.duckdns.org
@@ -99996,5 +99998,3 @@ hepbizlekalanlar.com
 hepbonus.click
 hepbufirsatlarr.duckdns.org
 hepburadaaaa.blogspot.com
-hepburadaguzel.com
-hepburdaiyiki.com
