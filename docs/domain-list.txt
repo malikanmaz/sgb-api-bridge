@@ -4833,6 +4833,7 @@
 145455588989998997.duckdns.org
 145455588989998998.duckdns.org
 1454555889899989993.duckdns.org
+1454555889899989994.duckdns.org
 1455558899990.xyz
 1455558899992.xyz
 1455558899993.xyz
@@ -54877,6 +54878,7 @@ avm-gecisodemesi.com
 avm-guvenliodeme.com
 avm-kampanya-agustos.online
 avm-market-ptt-avm.online
+avm-siparislerim.com
 avm-urunler.com.tr
 avm24online.com
 avm724.xyz
@@ -239521,6 +239523,7 @@ k0b-update.duckdns.org
 k0bibasvurularim.click
 k0bibilgilendirme.cfd
 k0bibilgilendirme.click
+k0bibilgilendirmeleri.com
 k0bibilgilendirmesi.com
 k0bidestegi.com
 k0bidestegim.cfd
@@ -274309,6 +274312,7 @@ merkezodemeleri.net
 merkezodemesistemi-hgssistem1.xyz
 merkezportal.77-83-201-133.plesk.page
 merkezproservis.xyz
+merkezrandevu-hi.com
 merkezrandevu.b-cdn.net
 merkezrandevumx.b-cdn.net
 merkezrndvv.b-cdn.net
@@ -284642,6 +284646,7 @@ muenmkeole.top
 muerthgdsid.cfd
 muerthgdsid.sbs
 muesanphibf.sbs
+mufasnasfanas.sbs
 muffframe.com
 muffinnyxt.tk
 muffinsoldier.top
@@ -284825,6 +284830,7 @@ muhtez.com
 muhtrrhssan.site
 muhu-bb-vv-aa-ss-dd.xyz
 muhuduhusuhud.site
+muhugudueresede-afderese.lol
 muhur.online
 muhyvau.com
 muicu.info
@@ -333225,6 +333231,7 @@ quaverer5.xyz
 qubemu.com
 qubikgpafwimlur.cn
 qubira.click
+qubistora.vu
 quccoinnelogin.webflow.io
 quci8.ya0z1.com
 qucobiotguoquno.ddns.net
@@ -370973,6 +370980,7 @@ splanchnolith.com
 splash.garantibbvakredibasvuru.com
 splashmanifestation.top
 splashstoreofficial.com
+splashviolet.cfd
 splashweb.lat
 splean-tickets.com
 splendidelaborately.top
@@ -381148,6 +381156,8 @@ tancredis.com
 taneketevo.online
 tanemiletisim.blogspot.com.tr
 tanesna.net
+tanfanmansuf3.sbs
+tanfanmansuf4.sbs
 tanga-tr.com
 tangchenbeijianhealth.com
 tangent.wrdup.net
@@ -414511,6 +414521,7 @@ vapedunyasi.com
 vapequik.com
 vaphlipsa1o1.cfd
 vaphlipsa1o1.sbs
+vapi.take-more.cfd
 vapikrebi.com
 vapikredi.com
 vaporizer.duckdns.org
