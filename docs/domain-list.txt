@@ -4834,6 +4834,7 @@
 145455588989998998.duckdns.org
 1454555889899989993.duckdns.org
 1454555889899989994.duckdns.org
+1454555889899989995.duckdns.org
 1455558899990.xyz
 1455558899992.xyz
 1455558899993.xyz
@@ -54888,6 +54889,7 @@ avmagustosalisverisi.online
 avmagustosdepolari.online
 avmalisverisleri-hizli-siparis.online
 avmbakiyem.xyz
+avmbireysel.com
 avmgirisyap.biz.tr
 avmgirisyap.org.tr
 avmgunlukleri1brda0firsat1.com
@@ -85303,6 +85305,7 @@ bozolr.ddns.net
 bozpjzu.info
 bozrak.online
 bozro62.xyz
+boztekin-qirevopa.lol
 bozuldudengemxlzlx.com
 bozuntiyz.site
 bozzl.top
@@ -388416,6 +388419,7 @@ ticaretbankasi.org
 ticaretburada.online
 ticaretdeguven-lialisverisanindasiparis.shop
 ticaretdestekleri.click
+ticaretdestekmerkezi.click
 ticaretguvende.com
 ticaretguvenli-anindasiparis.com
 ticaretguvnde-anindasiparis.com
