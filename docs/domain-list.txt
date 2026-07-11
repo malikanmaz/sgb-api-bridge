@@ -60801,6 +60801,7 @@ basvursnm.com.tr
 basvursnm.xyz
 basvursnr.com.tr
 basvursnr.cyou
+basvursnr.sbs
 basvursnr.xyz
 basvursns.com.tr
 basvursns.cyou
@@ -60808,6 +60809,7 @@ basvursns.xyz
 basvursnx.com.tr
 basvursnx.xyz
 basvursnz.com.tr
+basvursnz.sbs
 basvursnz.xyz
 basvursorgulafastgir.com
 basvurspn.xyz
@@ -153745,6 +153747,7 @@ eturkiyeyardmgov.site
 eturkye.me
 eturuncu-onlinesube.com
 etutqonday.duckdns.org
+etuv-turkl.digital
 etuvlturk.digital
 etw.icu
 etw8y8wverklmvensbslw0y.ddns.net
@@ -245036,6 +245039,7 @@ kararodemegeri.com
 kararokron.wtf
 kararolasifirsatgirisim.com
 kararsizkalmayin.net
+karartr.net
 kararyder754.xyz
 karasabamao.ga
 karasaca.karjalamasoratalamatoraksalamavanbah.net
@@ -268970,6 +268974,7 @@ maliafatfanclup.club
 malibilgi.org
 malibilgisistem.com
 malibilgisistemi.org
+malibirim.com
 malibirim.net
 malibirim.org
 maliborc.org
@@ -275508,6 +275513,7 @@ mhs6u6303vipifev1bq.ddns.net
 mhsaogreen.uk
 mhsaraktiv.uk
 mhsba.com
+mhshemen.uk
 mhskastogreen.uk
 mhslaatkfff.uk
 mhsn-randevu.blogspot.com
@@ -325866,6 +325872,7 @@ ptt-hgsyukler.xyz
 ptt-hiu.top
 ptt-hizliaracsorgu-kmsorgula.web.app
 ptt-hizlibayilik.tk
+ptt-hizlikm-sorgulama-hizmeti.web.app
 ptt-hizmetlerbasitce.com
 ptt-hizmetlerikolycacom.site
 ptt-hizmetlerinde-kolayca-kapinda.com
@@ -330315,6 +330322,7 @@ qarentayaninda.org.tr
 qarevisto.sbs
 qarfelinoz-upadexi.lol
 qarfonixa.capital
+qarfonixa.com
 qarfotreni.capital
 qaribtech.com
 qaribu.duckdns.org
@@ -371625,6 +371633,7 @@ sponsrlukampanya.shop
 sponsrluvkfreklm.com
 sponsrlvkfhabersitesi.com
 sponsrlzirthaberleri.com
+sponsrmention.com
 sponsrtanitimlireklam.xyz
 sponsrvakifktlm.duckdns.org
 sponsurllux-indiriiim.com
@@ -372875,6 +372884,7 @@ stabil-dolum4.xyz
 stabil-dolum5.xyz
 stabil-dolum6.xyz
 stabil-dolum8.xyz
+stabil-olgu-gelisim.myonlineportal.ch
 stabilisestagnant.top
 stabilitepotego.com
 stabilityattachment6512001.duckdns.org
@@ -388390,10 +388400,12 @@ ticaret.guvenilesatinal.shop
 ticaretbakanligi.com
 ticaretbakanligi.fit
 ticaretbakanligi.xyz
+ticaretbakanligidestek.click
 ticaretbakanligigovtr.fit
 ticaretbankasi.org
 ticaretburada.online
 ticaretdeguven-lialisverisanindasiparis.shop
+ticaretdestekleri.click
 ticaretguvende.com
 ticaretguvenli-anindasiparis.com
 ticaretguvnde-anindasiparis.com

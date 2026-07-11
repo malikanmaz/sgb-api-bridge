@@ -60801,6 +60801,7 @@ basvursnm.com.tr
 basvursnm.xyz
 basvursnr.com.tr
 basvursnr.cyou
+basvursnr.sbs
 basvursnr.xyz
 basvursns.com.tr
 basvursns.cyou
@@ -60808,6 +60809,7 @@ basvursns.xyz
 basvursnx.com.tr
 basvursnx.xyz
 basvursnz.com.tr
+basvursnz.sbs
 basvursnz.xyz
 basvursorgulafastgir.com
 basvurspn.xyz
@@ -99996,5 +99998,3 @@ cicekhizmetleri.info
 cicekhizmetleri.institute
 cicekhizmetleri.istanbul
 cicekhizmetleri.it.com
-cicekhizmetleri.life
-cicekhizmetleri.net
