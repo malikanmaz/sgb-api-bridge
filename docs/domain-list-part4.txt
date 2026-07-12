@@ -1,3 +1,5 @@
+onayli-aktif-ilan.com.tr
+onayli-aktifisceponlinebasvurular.vercel.app
 onayli-aktifisceponlineoffice.vercel.app
 onayli-alisveris-1501902.com
 onayli-alisveris-1501906.com
@@ -99996,5 +99998,3 @@ try-bimcellilere.com
 try-binance.com
 try-bizden-2024.pro
 try-cans.click
-try-cevrimici.lol
-try-cevrimici.shop
