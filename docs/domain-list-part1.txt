@@ -37789,6 +37789,7 @@ akbankmobil-2019.com
 akbankmobil-neo.com
 akbankmobil.cloudwise.cfd
 akbankmobil.com.de
+akbankmobil.netlify.app
 akbankmobilbankacilik.com
 akbankmobilbasvuru.com
 akbankmobilbasvurumerkezi.com
@@ -41531,6 +41532,7 @@ aldinaldin.a101hemenkapinda.com
 aldinaldin.alisveris-online.com
 aldinaldin.buhafta-indirimler.online
 aldinaldin.click
+aldinaldin.ekstra101.dpdns.org
 aldinaldin.guncelfirsatlarmarket.net.tr
 aldinaldin.gundelikurunler.online
 aldinaldin.gunlukkampanyalar.com
@@ -99996,5 +99998,3 @@ cicekdunyasndalar.com.tr
 cicekdunyasndalar.online
 cicekdunyasndalar.xyz
 cicekella.xyz
-cicekevi.store
-cicekevim.info
