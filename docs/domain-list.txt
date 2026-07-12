@@ -13477,6 +13477,7 @@
 41239521838512.cloud
 41241231548123124.online
 4124124.duckdns.org
+4124124124.duckdns.org
 4124124125353232.duckdns.org
 41242142142151512421.duckdns.org
 41260-coinbase.com
@@ -150314,6 +150315,7 @@ enuygun-kiralama.com
 enuygun-tarifeler-turkcell.com
 enuygun-tarifelerim-turkcell.com
 enuygun.name.tr
+enuygun.rent
 enuygun101.com.tr
 enuyguna.xyz
 enuygunakredi.xyz
@@ -187362,6 +187364,7 @@ guvenlilink.cfd
 guvenlim.com.tr
 guvenlimaximum.com
 guvenlimobilodeme.com
+guvenlimuhasebeodemeleri.duckdns.org
 guvenlimuhasebeodemenoktasi.duckdns.org
 guvenlin.xyz
 guvenliode-al.com.tr

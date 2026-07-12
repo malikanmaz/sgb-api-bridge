@@ -1,3 +1,4 @@
+cicekevim.live
 cicekevin.com
 cicekevin.net
 cicekevreni.com
@@ -50314,6 +50315,7 @@ enuygun-kiralama.com
 enuygun-tarifeler-turkcell.com
 enuygun-tarifelerim-turkcell.com
 enuygun.name.tr
+enuygun.rent
 enuygun101.com.tr
 enuyguna.xyz
 enuygunakredi.xyz
@@ -87362,6 +87364,7 @@ guvenlilink.cfd
 guvenlim.com.tr
 guvenlimaximum.com
 guvenlimobilodeme.com
+guvenlimuhasebeodemeleri.duckdns.org
 guvenlimuhasebeodemenoktasi.duckdns.org
 guvenlin.xyz
 guvenliode-al.com.tr
@@ -99995,6 +99998,3 @@ hepberaberyaptigimizsiparisler.com.tr
 hepbetretgot.com
 hepbiraberdestek.com
 hepbirggaarraannttii.xyz
-hepbirlikte-el-ele.ml
-hepbirlikte.xyz
-hepbirlikte2023.net
