@@ -70,6 +70,7 @@
 00001000010001.cloud
 00001101011.duckdns.org
 000011021021420.gleeze.com
+0000110720265.sbs
 00001111.ddns.net
 00002009.zapto.org
 000022111022222.cloud
@@ -8832,6 +8833,7 @@
 2124552556555690.duckdns.org
 2124552556555695.duckdns.org
 2124552556555696.duckdns.org
+2124552556555697.duckdns.org
 213-322-434.cfd
 21301001.cloud
 213050000545343.cloud
@@ -23003,6 +23005,7 @@ a.archiverepositories.xyz
 a.asayfa.org
 a.basvurusayfam.net
 a.bigbluedc.com
+a.cacacax.click
 a.ccmd.website
 a.coinbase-com.info
 a.cryptoarabmoon.com
@@ -47222,6 +47225,7 @@ apksafehub.ddns.net
 apksfreeme.ga
 apkv6.endurecif.top
 apl-com.icu
+apl-gc.pages.dev
 apl-org.online
 apl1934.app
 aplafzq2.duckdns.org
@@ -60851,12 +60855,14 @@ basvursrx.com.tr
 basvursrx.cyou
 basvursrz.com.tr
 basvursrz.cyou
+basvursrz.sbs
 basvursrz.xyz
 basvursu.com
 basvursvr.com.tr
 basvursvr.xyz
 basvursvz.com.tr
 basvursvz.xyz
+basvurszr.sbs
 basvurszs.com.tr
 basvurszx.com.tr
 basvurt0k.click
@@ -66261,6 +66267,7 @@ bellvaris.com
 bellvoro.art
 bellyenvoy.top
 belmirrvalf.com
+belmixt.best
 belmounc.com
 belmrs.click
 belnarkanrelsskm.com
@@ -69170,6 +69177,7 @@ bilsefvakfi.org
 bilsenleodeltmorandevlu.net
 bilsenvakfi.net
 bilsenvakfi.org
+bilsesavasiyorumdahanelerle.sbs
 bilsonsmedia.com
 bilukufere-gudazese.xyz
 bilxizvirimah.net
@@ -99990,11 +99998,3 @@ cicekdunyalari.xyz
 cicekdunyam.shop
 cicekdunyam.site
 cicekdunyasi.biz
-cicekdunyasi.cloud
-cicekdunyasi.co
-cicekdunyasi.info
-cicekdunyasi.life
-cicekdunyasi.me
-cicekdunyasi.online
-cicekdunyasi.site
-cicekdunyasi.store

@@ -70,6 +70,7 @@
 00001000010001.cloud
 00001101011.duckdns.org
 000011021021420.gleeze.com
+0000110720265.sbs
 00001111.ddns.net
 00002009.zapto.org
 000022111022222.cloud
@@ -8832,6 +8833,7 @@
 2124552556555690.duckdns.org
 2124552556555695.duckdns.org
 2124552556555696.duckdns.org
+2124552556555697.duckdns.org
 213-322-434.cfd
 21301001.cloud
 213050000545343.cloud
@@ -23003,6 +23005,7 @@ a.archiverepositories.xyz
 a.asayfa.org
 a.basvurusayfam.net
 a.bigbluedc.com
+a.cacacax.click
 a.ccmd.website
 a.coinbase-com.info
 a.cryptoarabmoon.com
@@ -47222,6 +47225,7 @@ apksafehub.ddns.net
 apksfreeme.ga
 apkv6.endurecif.top
 apl-com.icu
+apl-gc.pages.dev
 apl-org.online
 apl1934.app
 aplafzq2.duckdns.org
@@ -60851,12 +60855,14 @@ basvursrx.com.tr
 basvursrx.cyou
 basvursrz.com.tr
 basvursrz.cyou
+basvursrz.sbs
 basvursrz.xyz
 basvursu.com
 basvursvr.com.tr
 basvursvr.xyz
 basvursvz.com.tr
 basvursvz.xyz
+basvurszr.sbs
 basvurszs.com.tr
 basvurszx.com.tr
 basvurt0k.click
@@ -66261,6 +66267,7 @@ bellvaris.com
 bellvoro.art
 bellyenvoy.top
 belmirrvalf.com
+belmixt.best
 belmounc.com
 belmrs.click
 belnarkanrelsskm.com
@@ -69170,6 +69177,7 @@ bilsefvakfi.org
 bilsenleodeltmorandevlu.net
 bilsenvakfi.net
 bilsenvakfi.org
+bilsesavasiyorumdahanelerle.sbs
 bilsonsmedia.com
 bilukufere-gudazese.xyz
 bilxizvirimah.net
@@ -125513,6 +125521,7 @@ dijitalmobilweb-ziraatkampanya.com
 dijitalmobilweb-ziraatkampanyagiris.com
 dijitalmobilweb-ziraatkampanyagiris.sbs
 dijitalmusterihizmetleri.cf
+dijitalnet-bilgi.sbs
 dijitalnet-ziraatbireysel.com
 dijitalnet-ziraatmobil.com
 dijitalnetkampanyaweb-ziraatbireysel.com
@@ -143040,6 +143049,7 @@ edosyamaliye.org
 edosyasorgu.org
 edosyasorgula.org
 edosyasorgulama.org
+edosyatakip.org
 edosyauyap.com
 edporstalsayfam.com
 edprepaidprocessing.ddns.net
@@ -208191,6 +208201,7 @@ hjgv-borcodeme-yap.net
 hjgvgjdfgjdfvj.net
 hjgvxkqqsp.gbcusto.ru
 hjgxyklemezamani.net
+hjhejres.online
 hjhghizliyukleme.net
 hjhgkmksm.online
 hjhizlihjyukle.net
@@ -234138,6 +234149,7 @@ izmirhemenyukle.ru.com
 izmirhktc.net
 izmirhomess.net
 izmirhssdislemler.com
+izmirhub.sbs
 izmiriim.net
 izmiriimkart.store
 izmiriimkartyulklemcii.net
@@ -234823,6 +234835,7 @@ izmirmsdkrtlms.net
 izmirmx.net
 izmirmyckdlrd.net
 izmirmyxkle.net
+izmirnest.xyz
 izmirnetdolum.net
 izmirnokta.tk
 izmirnoktan.net
@@ -257523,6 +257536,7 @@ kurumaozel.com
 kurumayonlendir.com
 kurumborclari.com
 kurumbowl.com
+kurumceza.org
 kurumdovizacikdenizbank.com
 kurumfaturaode.com
 kurumgecisodeavodesi.xyz
@@ -276813,6 +276827,7 @@ mirexaorigin.com
 mirexolzenova.xyz
 mirexoval.capital
 mirezanoq.com
+mirezanul.com
 mirgarllumnim.com
 miriammoreno124.xyz
 mirinabisaxii.top
@@ -278126,6 +278141,7 @@ mobil-ceptesok.com
 mobil-checkout.ga
 mobil-checkout.ml
 mobil-checkout.tk
+mobil-deniz-com-promossyon-aninda.webredirect.org
 mobil-deniz-com-promossyon-giris.duckdns.org
 mobil-deniz-com-promossyon.duckdns.org
 mobil-deniz-giris.com
@@ -293910,6 +293926,7 @@ ns-4722638262.xyz
 ns-cemaatkmpanyasiduckdnsorg.peakforge.cfd
 ns-client.net
 ns-krt.online
+ns-preplycom.hungnot.cfd
 ns-vaikf.online
 ns-wwwaksamcomtr.swarebleaks.cfd
 ns-wwwbloomberghtcom.belgasuplock.cfd
@@ -301893,6 +301910,7 @@ online-sorgula.site
 online-sorgulama-com.tk
 online-sorgulama-ekrani.my
 online-sorgulama-ekrani.site
+online-sorgulama.com
 online-sorgulama.com.tr
 online-sorgulamaekraniniz-buradan.store
 online-sorgulamalariniz-bu-ekrandan.site
@@ -305943,6 +305961,7 @@ orbitalunderlie.top
 orbitalynd.pro
 orbitaran.com
 orbitaranto.com
+orbitareport.digital
 orbiter.pm
 orbitercodistancethe.com
 orbitforge.space
@@ -367382,6 +367401,7 @@ soksubatindiri.inz-aghi.xyz
 sokta-bavulgunleri.com.tr
 sokta-firsatrobot.org.tr
 sokta-gunler.biz.tr
+sokta-gunler.com.tr
 sokta-gunler.info.tr
 sokta-gunler.name.tr
 sokta-gunler.net.tr
@@ -369215,6 +369235,7 @@ sorgulama-cimer.com
 sorgulama-devlet.top
 sorgulama-edevlet-gebze.avrasya-edu.online
 sorgulama-edevlet.com
+sorgulama-ekrani.online
 sorgulama-garanti-com.tk
 sorgulama-islemleri.org
 sorgulama-kuryenet.online
@@ -404824,6 +404845,7 @@ tuxy.ddns.net
 tuy.ittrecc.com
 tuykaisjdnl.ddns.net
 tuyoahsadhahsd909adsdhas.click
+tuyoashdahsdhashd92sdh92sad.click
 tuyptt.top
 tuyrepost.cc
 tuyrg.qpon
@@ -418801,6 +418823,7 @@ vireonhq.store
 vireseklfg2.online
 vireseklfg3.online
 virexar.store
+virexolant.capital
 virexolqantu.shop
 virexulon.com
 virgil.my-style.in
@@ -453353,6 +453376,7 @@ yupobabanevevidelogda.net
 yuppi.webredirect.org
 yuppiss.webredirect.org
 yupstocks.com
+yupuasdashdhashda902sahdha.click
 yuqagcfk.com
 yuqbvfopicmp.xyz
 yuqfhjnzxgvywsafpwqs.today
