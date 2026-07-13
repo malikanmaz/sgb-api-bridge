@@ -122825,6 +122825,7 @@ devlet-kredikartlar-aidatsorgulama.app
 devlet-kredisi.com
 devlet-krediyardimi.com
 devlet-kurul-kararname.epizy.com
+devlet-mhrs-randevu.com
 devlet-mobilsosyaldestek.com
 devlet-odeme.com
 devlet-odeme.org
@@ -336779,6 +336780,7 @@ receivables-oceantomo.com
 receiveables-crowe.com
 receiveables-oceantomo.com
 receiveconsiderable.top
+received-gr-sende.biz
 receivegiftsinjoinnowandfebruaryto.cloud
 receivepayments-interac.com
 receivequiz.top
