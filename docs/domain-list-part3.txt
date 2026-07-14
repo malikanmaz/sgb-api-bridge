@@ -1,3 +1,6 @@
+henry123111.hopto.org
+henry1234.zapto.org
+henry180.ddns.net
 henryford.app
 hensoothe.top
 henstoun.com
@@ -55672,6 +55675,7 @@ kredi-basvur-online.sbs
 kredi-basvur-portal.sbs
 kredi-basvur.pages.dev
 kredi-basvuru-formu.ml
+kredi-basvuru-merkezi.ooguy.com
 kredi-basvuru-online-portal.sbs
 kredi-basvuru-online.lat
 kredi-basvuru-online.sbs
@@ -99994,7 +99998,3 @@ onay-giris.xyz
 onay-guvenli-param-odeme.xyz
 onay-hizlimobildenizgiris.com
 onay-ile-ode.com
-onay-ile-odeme.com
-onay-iscepaynigun.vercel.app
-onay-iscepteonay.vercel.app
-onay-limit.xyz
