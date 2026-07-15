@@ -54938,6 +54938,7 @@ avmagustosdepolari.online
 avmalisverisleri-hizli-siparis.online
 avmbakiyem.xyz
 avmbireysel.com
+avmbireyselsatis.com
 avmbireyselsepet.com
 avmgirisyap.biz.tr
 avmgirisyap.org.tr
@@ -59804,6 +59805,7 @@ basladi-giripbak.xyz
 basladi-guzellik-dolusu-neseli-etkinlik.com
 basladi-heyecan-dolusu-yenilikler-sizlere.com
 basladi-onaulibasvurumistecep.vercel.app
+basladikla4.sbs
 basladimgeldim.hopto.org
 basladimibasvuralari.cloud
 basladiyalamya.net
@@ -99996,5 +99998,3 @@ ci-mermer.com
 ci-yuklemesi.22web.org
 ci01secured.ddns.net
 ci1tiein1sec-auth.duckdns.org
-ci26ffr4.duckdns.org
-ci2aaux.duckdns.org
