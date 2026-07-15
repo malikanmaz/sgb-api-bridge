@@ -25599,6 +25599,7 @@ dijitalmusterihizmetleri.cf
 dijitalnet-bilgi.sbs
 dijitalnet-ziraatbireysel.com
 dijitalnet-ziraatmobil.com
+dijitalnetbilgi-giris.sbs
 dijitalnetform.sbs
 dijitalnetkampanyaweb-ziraatbireysel.com
 dijitalnetkobi-ziraatbireysel.com
@@ -82195,6 +82196,7 @@ gostakipin.fun
 goster-l-g-r-n-l.myonlineportal.ch
 goster-sayfalari-trweb-en.za.com
 gosteriler.name.tr
+gosterim-harcama.xyz
 gosterkeset.click
 gostermelikdiplomaal.github.io
 gostmarest.ga
@@ -99996,5 +99998,3 @@ hemisphererelic.top
 hemispherexz.top
 hemispherious.com
 hemisreslesmes.com
-hemkatlkampanyabura.space
-hemlittratdidn.com

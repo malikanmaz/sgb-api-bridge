@@ -125599,6 +125599,7 @@ dijitalmusterihizmetleri.cf
 dijitalnet-bilgi.sbs
 dijitalnet-ziraatbireysel.com
 dijitalnet-ziraatmobil.com
+dijitalnetbilgi-giris.sbs
 dijitalnetform.sbs
 dijitalnetkampanyaweb-ziraatbireysel.com
 dijitalnetkobi-ziraatbireysel.com
@@ -182195,6 +182196,7 @@ gostakipin.fun
 goster-l-g-r-n-l.myonlineportal.ch
 goster-sayfalari-trweb-en.za.com
 gosteriler.name.tr
+gosterim-harcama.xyz
 gosterkeset.click
 gostermelikdiplomaal.github.io
 gostmarest.ga
@@ -321158,6 +321160,7 @@ portaluyapuzlasma.com
 portaluzlasmauyap.com
 portalv1garaxntibbvatr.site
 portalvatandasedevlet.com
+portalvatandasmhrsz.duckdns.org
 portalweb-password-security.myonlineportal.ch
 portalweb-tr.my-homeip.com
 portalxodeme.net
