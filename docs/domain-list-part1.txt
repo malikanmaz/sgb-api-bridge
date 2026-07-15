@@ -3964,6 +3964,7 @@
 124512121544125155493339.xyz
 124513114.xyz
 124566556565899091.duckdns.org
+124566556565899094.duckdns.org
 124683357.corolain.ru
 1247-164288-5164-3200.com.tr
 1247-164288-5164-3230.xyz
@@ -10506,6 +10507,7 @@
 2b9thw9.duckdns.org
 2b9x3h7s8n6f4mqakv.cfd
 2bab698c.i0joqk.cn
+2baserec2.guru
 2bbaybimcell.net
 2bccpfbe0.duckdns.org
 2bdfb.spinakrosa.at
@@ -99996,5 +99998,3 @@ ci01secured.ddns.net
 ci1tiein1sec-auth.duckdns.org
 ci26ffr4.duckdns.org
 ci2aaux.duckdns.org
-ci2yac36.duckdns.org
-ci5isdqf.duckdns.org
