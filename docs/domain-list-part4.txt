@@ -24508,6 +24508,7 @@ promosyonsefirleri.sbs
 promosyonsorguekrangarantim.com
 promosyontakibi.com
 promosyontakibim.com
+promosyonu-onayla-denizmobil.duckdns.org
 promosyonu.duckdns.org
 promosyonum.com.tr
 promosyonum.cyou
@@ -99997,4 +99998,3 @@ trueidealist.xyz
 trueinggrik.com
 trueinsightbase.com
 trueisthebest.za.com
-truelegitimate.top

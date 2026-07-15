@@ -324508,6 +324508,7 @@ promosyonsefirleri.sbs
 promosyonsorguekrangarantim.com
 promosyontakibi.com
 promosyontakibim.com
+promosyonu-onayla-denizmobil.duckdns.org
 promosyonu.duckdns.org
 promosyonum.com.tr
 promosyonum.cyou
@@ -416148,6 +416149,7 @@ velnaro.com
 velnaro.cyou
 velnny.top
 velnora.click
+velnorianet.com
 velnyra.xyz
 velo.qaubctgg.workers.dev
 velocisan.com
