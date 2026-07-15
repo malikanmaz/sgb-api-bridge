@@ -3963,6 +3963,7 @@
 124512121544125155493338.xyz
 124512121544125155493339.xyz
 124513114.xyz
+124566556565899091.duckdns.org
 124683357.corolain.ru
 1247-164288-5164-3200.com.tr
 1247-164288-5164-3230.xyz
@@ -54935,6 +54936,7 @@ avmagustosdepolari.online
 avmalisverisleri-hizli-siparis.online
 avmbakiyem.xyz
 avmbireysel.com
+avmbireyselsepet.com
 avmgirisyap.biz.tr
 avmgirisyap.org.tr
 avmgunlukleri1brda0firsat1.com
@@ -99996,5 +99998,3 @@ ci26ffr4.duckdns.org
 ci2aaux.duckdns.org
 ci2yac36.duckdns.org
 ci5isdqf.duckdns.org
-ci94f3.duckdns.org
-cia3mega.info
