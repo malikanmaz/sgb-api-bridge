@@ -63543,8 +63543,10 @@ baykarforge.xyz
 baykarform.com
 baykarfrance.shop
 baykarfuture.com
+baykargazete.info
 baykarglobal.info
 baykarglobal.pro
+baykargundem.info
 baykarhisseleri.com
 baykarhold.space
 baykarhorizon.com
@@ -63573,6 +63575,7 @@ baykaritalia.shop
 baykarkatilim.com
 baykarlabs.com
 baykarlanding.vicchk.com
+baykarledger.info
 baykarmagaza.adobeaemcloud.com
 baykarmagaza.aem.live
 baykarmagaza.aem.page
@@ -85680,6 +85683,7 @@ branr.com.tr
 branrce.com.tr
 bransfen.com
 brantasmi.ddns.net
+branteloq.com
 branter.tk
 branthor.mom
 brantilos.top
@@ -99994,7 +99998,3 @@ chyporus.online
 chyprediction.com
 chyvumbnl.com
 ci-meraidad.com
-ci-mermer.com
-ci-yuklemesi.22web.org
-ci01secured.ddns.net
-ci1tiein1sec-auth.duckdns.org
