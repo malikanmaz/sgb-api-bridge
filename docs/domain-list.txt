@@ -146205,6 +146205,7 @@ ekranmerkez-tr-web.space
 ekranmhrsvatandasbasvuru.duckdns.org
 ekranodem.sg-host.com
 ekranonayidenizde.duckdns.org
+ekranportalmhrsgirisvatandas.duckdns.org
 ekransorgulama-sistemiveonlline.cyou
 ekransrgulaveaktar.cyou
 ekranzirgirislerinle.sbs
@@ -299295,6 +299296,7 @@ ogreninrandevunuzu.com
 ogrenme-vesorgu-merkezsisstemi.sbs
 ogrenme.app
 ogrenmeasamasiekranlariniz.sbs
+ogrenmesorgulamaislerinz.sbs
 ogretmenbonus.b-cdn.net
 ogretmendensikayetimvar.com
 ogretmenimdensikayetlers.com
@@ -381753,6 +381755,7 @@ tamamla-onay.xyz
 tamamla-onayla.xyz
 tamamla-sip.com
 tamamla-siparislerini.com
+tamamla-sipars.com
 tamamla.misecure.com
 tamamlabasvurunudestekal.com
 tamamladim.click
