@@ -2102,6 +2102,7 @@
 101-klimakapinda.com.tr
 101-klimalar.com.tr
 101-klimaozel.com.tr
+101-kstra.s3.eu-north-1.amazonaws.com
 101-magaza.com.tr
 101-magaza.net
 101-magazalari.com.tr
@@ -22575,6 +22576,7 @@ a-101-extra-mobile-ozel-bugun-sepette-tr.online-bireysel-mobil-tr.site
 a-101-extra-online-bugune-ozel-tr.online-cepte-sponsor-tr.site
 a-101-extra-online-ozel-indirim-tr.online-shop-bireysel-tr.click
 a-101-extra-online-sadece-bugune-ozel-tr.onlinecep-tr.site
+a-101-extra-ozel-indirim-tr.indirim-sepeti-tr.online
 a-101-extra-sadece-bugune-ozel-mobil.extra-online-mobilde-tr.sbs
 a-101-extra-sadece-bugune-ozel-mobilde-tr.online-tr-shop-mobil.click
 a-101-extra-sadece-bugune-ozel-online-siparis-tr.bireysel-mobil-shop-tr.com
@@ -37852,6 +37854,7 @@ akbankmobilgirisim.com
 akbankmobilinbankasi.com
 akbankmobilislemlerim.com
 akbankmobill.solvbyte.sbs
+akbankmobilnet.ph
 akbankmobilsitesihirbazi.net
 akbankmobilsube.click
 akbankmobilsube.ml
@@ -64906,6 +64909,7 @@ bby.haartes.site
 bbyuklemelerb.sg-host.com
 bbyyn10.xyz
 bbyyycej.net
+bbzirbta.cfd
 bbznbvavve.duckdns.org
 bc-games-login.info
 bc-games-login.shop
@@ -176223,6 +176227,7 @@ genesismailers.com
 geneticallyaggravation.top
 geneticallyuranium.top
 geneticio.one
+geneticorbit.capital
 geneticrey.top
 genetics-para-pasta-gardens.trycloudflare.com
 geneticthorny.top
@@ -452230,6 +452235,7 @@ ynkvtx.help
 ynl3ndiriyn3nuzknkk.duckdns.org
 ynldrfrstbrdsok.web.app
 ynldrmfrst.web.app
+ynlendirbrnkrkmdyivlasi.duckdns.org
 ynlendirdstmkrkmayav.duckdns.org
 ynlendiriyonuzzknkk.duckdns.org
 ynlendiriyos67nuz.duckdns.org
