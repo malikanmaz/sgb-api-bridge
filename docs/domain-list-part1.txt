@@ -62764,6 +62764,7 @@ basvuruservis.ml
 basvuruservisi.gq
 basvuruservisi.ml
 basvurusimdi-globalkampanyabudurtechbance.tech
+basvurusirasi.online
 basvurusistemi.cfd
 basvurusistemi.com
 basvurusistemi.online
@@ -99997,4 +99998,3 @@ chs-glbalservin.ddns.net
 chs-vertityidentglb.ddns.net
 chs1bkfa.hopto.org
 chsbnk-verify.zapto.org
-chsclbd.com
