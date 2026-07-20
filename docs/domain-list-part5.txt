@@ -1,3 +1,17 @@
+trpttgovgr.cc
+trpttgovgv.cc
+trpttgovhelp.help
+trpttgovhv.cc
+trpttgovhz.cc
+trpttgovi.cc
+trpttgovje.cc
+trpttgovjl.cc
+trpttgovjo.cc
+trpttgovjp.cc
+trpttgovk.cc
+trpttgovka.cc
+trpttgovkc.cc
+trpttgovkx.cc
 trpttgovl.cc
 trpttgovlc.cc
 trpttgovle.cc
