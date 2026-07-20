@@ -3975,6 +3975,7 @@
 12457889989991.duckdns.org
 12457889989992.duckdns.org
 12457889989993.duckdns.org
+12457889989994.duckdns.org
 124683357.corolain.ru
 1247-164288-5164-3200.com.tr
 1247-164288-5164-3230.xyz
@@ -37703,6 +37704,7 @@ akbankdirects.com
 akbankdirek-firsat-kampanyasi-mobilsube-tr.club
 akbankdirek-t.com
 akbankdirekislemlerii.com
+akbankdirekmobil.ph
 akbankdirekonline.com
 akbankdireksube.com
 akbankdirekt--cekilisler.com
@@ -54688,6 +54690,8 @@ avisfilokurumsal.com
 avisfilom.tk
 avisfilorent.com
 avisfilorental.com
+avisfilotr.com
+avisfilotr.net
 avisglobal.com.tr
 avisgonder.com
 avisgroup.com.tr
@@ -54816,6 +54820,7 @@ avisoimportante2022.ddns.net
 avisonliine.com
 avisonline-arackirala.com
 avisonline-tr.site
+avisonline.net
 avisonlinearacfilosu.com
 avisonlinearackirala.com
 avisonlinearackiralama.com
@@ -54891,6 +54896,7 @@ avisrenttacarr.com
 avisrezarvasyon.com
 avisrezerv.com
 avisrezerv.online
+avisrezervasyon.net
 avisrezerve.com.tr
 avisrezerve.online
 avisrezervee.online
@@ -54939,6 +54945,7 @@ avistrkiye.online
 avistroto724.online
 avisturkey.vercel.app
 avisturkiye.com
+avisturkiye.net
 avisturkiye.online
 avisturkiye.org
 avisturkiye.website
@@ -55105,6 +55112,7 @@ avsarotomobil.online
 avsbayi.com
 avscar.kiralamaonlinee.com.tr
 avscar.onlinebireysel.com.tr
+avscarfilo.net
 avscarrent.avsonlinee.xyz
 avscarrent.genel-merkez.com.tr
 avscarrent.onlinebireysel.com.tr
@@ -55118,6 +55126,7 @@ avsfilokirala.net
 avsfilokiralama.com
 avsfilokurumsal.online
 avsfilorent.net
+avsfilorental.com
 avsfilosu.com
 avsglobalkiralama.xyz
 avsiad.com
@@ -55127,6 +55136,7 @@ avskapida.com.tr
 avskapinda.com.tr
 avskirala.com
 avskirala.com.tr
+avskirala.net
 avskiralaaracmahizmet.com.tr
 avskiralama.online
 avskiralama.rent
@@ -55137,21 +55147,28 @@ avskiralik.com
 avskiralikaraclar.com.tr
 avskiralikaraclar.xyz
 avskoc.com
+avskocfilo.com
 avskocfilo.net
 avsonline.com.tr
 avsonline.net
 avsonlinee.com.tr
 avsonlinee.xyz
 avsonlinefilom.me
+avsoto.com
 avsotofly.com
+avsotokoc.net
 avsotomobilkiralama.com
 avsrent.com.tr
 avsrentacar.com.tr
 avsrentacar.genel-merkez.com.tr
+avsrentacar.net
 avsrentacar.online
 avsrentacar.org
 avsrental.com
+avsrental.net
 avsrentalcar.net
+avsrentcar.net
+avsturkiye.com
 avsvmcloud.com
 avsyanimda.com
 avtajlisubegiris.org
@@ -124652,6 +124669,7 @@ digitalwebpages.net
 digitalwebpages.org
 digitalwebsites-status.com
 digitalwebsites.store
+digitalwinter.vip
 digitalwlletparbuu.com
 digitalwordpress.site
 digitalworkdata.com
@@ -242892,6 +242910,7 @@ kampanyagaranti1.sa.com
 kampanyagaranti1.za.com
 kampanyagecesifirsatibance.tech
 kampanyagecis3d.xyz
+kampanyagel101.duckdns.org
 kampanyageldi.com.tr
 kampanyagiris.com
 kampanyagiris.website
@@ -255873,6 +255892,7 @@ kratoslen.net
 kratyeni2024.com
 kraudtest.ddns.net
 krauskade.xyz
+kravisonline.net
 krayllrihgsyle.cfd
 kraylode.net
 krazalzutt.xyz
