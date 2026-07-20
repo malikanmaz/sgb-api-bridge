@@ -1,3 +1,5 @@
+chromaheirloom.store
+chromax123.ddns.net
 chrome-chrome.ddns.net
 chrome-error.co
 chrome-extension-nkbihfbeogaeaoehlefnkodbefgpgknn.apestakes.cf
@@ -46318,6 +46320,7 @@ ekrani.net
 ekraniadeonay.onthewifi.com
 ekranigiris.sbs
 ekranii.net
+ekranim.turkcell-magaza.com
 ekraniniz-kontroledip-aktarin.sbs
 ekraninizaktif-ogrenmesikolay.sbs
 ekraninizdan-kontrol-ve-sorgu-saglayin.sbs
@@ -99995,6 +99998,3 @@ hemenkiralarim.com
 hemenkiralarim.online
 hemenkiralarim.xyz
 hemenkiralariz.com
-hemenkiralikaraban.com.tr
-hemenkiralikaracim.com.tr
-hemenkmaraba.com
