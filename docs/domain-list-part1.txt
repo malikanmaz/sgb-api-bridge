@@ -3945,6 +3945,7 @@
 124-125-1-2-1.shop
 124-178-157-1-2.online
 124123451256789.online
+124124121.sbs
 12412414.duckdns.org
 1242142121sdg.cfd
 12421551236223.online
@@ -11526,6 +11527,7 @@
 31etkhgsturkiye.com
 31iade-hizmetleri.com
 31its.com
+31jctjk3k1l2z12lk3c12k312.cfd
 31ldto.duckdns.org
 31martdenizleramazanfirsatlar.online
 31mayisakfirsatlarimla.online
@@ -23397,6 +23399,7 @@ a101-ekstra-firsatlar-burada-onlinen.nb9.app
 a101-ekstra-firsatlar-burada-onlinenen.nb9.app
 a101-ekstra-firsatlar-burada-onlinenene.nb9.app
 a101-ekstra-firsatlar-hic-bitmez-burada-bitmez.lc3.xyz
+a101-ekstra.s3.eu-north-1.amazonaws.com
 a101-ekstrakapinda.top
 a101-extra-alisverisyap.com
 a101-eylul-firsatlari.duckdns.org
@@ -45136,6 +45139,7 @@ anadolugelecekas.blog
 anadolugenclikkurumu.com
 anadolugenclikkurumu.org
 anadolugenclikurumu.com
+anadolugenis.com
 anadolugozlem.com
 anadoluguvenligiris.top
 anadoluhaber724.net
@@ -99994,7 +99998,3 @@ chrome-extension2.ddns.net
 chrome-info.com
 chrome-update.ddns.net
 chrome-web.com
-chrome134313.gleeze.com
-chrome2018.zapto.org
-chrome2black.website
-chromecast.hopto.org
