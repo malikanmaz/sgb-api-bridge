@@ -46313,6 +46313,7 @@ anlik-aktarmalar-baslamistir.store
 anlik-basvuruyap.com
 anlik-bildirim.sbs
 anlik-faizsiz-basvuru.com.tr
+anlik-ilan-odemesi.com
 anlik-islem-size-ozel-kvytrk.online
 anlik-islem.com
 anlik-islem.net
@@ -84083,6 +84084,7 @@ bombast.volleyballsipsmart.cc
 bombatwill.ru
 bombclick.net
 bombclick.org
+bombclick.pro
 bombe.in
 bombfrantically.top
 bombik.store
@@ -99996,5 +99998,3 @@ christyrusike21.duckdns.org
 chrisupdated.xyz
 chrjjvivfr.net
 chrleesgifts.net
-chrnzm.online
-chrnzm.shop
