@@ -77908,6 +77908,7 @@ bizimle-zor-yarisirlar.sbs
 bizimle.online
 bizimle1o1len.online
 bizimlebasvurunuzyaspn.store
+bizimleberaber.sbs
 bizimleberaberbakinnelervar.shop
 bizimleberaberbuhaftagelin.net
 bizimleberabergelmelisiniz.net
@@ -89130,6 +89131,7 @@ buildingstroll.top
 buildingstrong.net
 buildman.courses
 buildneeds.net
+buildnexa.study
 buildnoria.space
 buildoc.co.jp
 buildstorepro.com
@@ -99996,5 +99998,3 @@ chpfact.top
 chphepburdaaa.blogspot.com
 chphgss.com
 chphizlionline.web.app
-chpimzakampanyasi.shop
-chpimzakampanyasi.site
