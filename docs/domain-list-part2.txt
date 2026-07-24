@@ -1,3 +1,4 @@
+choosenitrogen.top
 choosenotoriety.top
 choosescramble.top
 choosetotruck.com
@@ -1939,6 +1940,7 @@ claude-code-macos.com
 claude-code-update.squarespace.com
 claude-desktop-lm.gitlab.io
 claude-desktop.gitlab.io
+claude-pro.com
 claude.update-version.com
 claudeapp.gitlab.io
 claudecode-desktop.gitlab.io
@@ -27483,6 +27485,7 @@ dlpjgs.top
 dlpmmlbyij.duckdns.org
 dlpossie.ddnsfree.com
 dlrmxwiple.duckdns.org
+dlrz-web.oss-cn-beijing.aliyuncs.com
 dls-gov.firstcloudit.com
 dlscoord.ddns.net
 dlscord.ddns.net
@@ -82697,6 +82700,7 @@ gourmet-getaways.webflow.io
 goutmed-hq.com
 gouv-lmpot.ddns.net
 gouvn.me
+gouvvbo.top
 gov-atr.top
 gov-az.herokuapp.com
 gov-bankaiade.com
@@ -99994,7 +99998,3 @@ hemengeriadeportali.xyz
 hemengeriaktar3.b-cdn.net
 hemengeriodemesistemi.com
 hemengir.lol
-hemengir.pw
-hemengirenler.com.tr
-hemengiris-akbnkk.ip-ddns.com
-hemengiris-garantibnkk.ip-ddns.com
