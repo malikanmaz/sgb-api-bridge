@@ -37706,6 +37706,7 @@ akbankbayramfirsati.com
 akbankbayramkredisi.vercel.app
 akbankbireysel-kampanyalar.com
 akbankbireysel-sube.com
+akbankbireysel-sube.ph
 akbankbireyselgiris.com
 akbankbireyselhizmetler.tk
 akbankbireyselsubeniz.com
@@ -54209,6 +54210,7 @@ avanshesap-vakf.cfd
 avanshesap-vakf.icu
 avanshesap-vakf.rest
 avanshesap-vakf.sbs
+avansy-web.ink
 avant-garde64.xyz
 avanta-a1o1.net
 avantageziraatim.blogspot.com.tr
@@ -68931,6 +68933,7 @@ bilgikapisi.online
 bilgikapisiform.blog
 bilgikapisiform.com
 bilgikarnesi.xyz
+bilgikayit.abrdns.com
 bilgikayna.info
 bilgikaynagi.cfd
 bilgikaynagi.info
@@ -90670,6 +90673,7 @@ buyatlu61.xyz
 buyatlu62.xyz
 buyatlu63.xyz
 buyaza.html-5.me
+buyazapp1-43a83c3c83a4.herokuapp.com
 buyazbitmedenfirsatlarikacirma.sbs
 buyazcokbaska10.com
 buyazcokbaskaolacak.com
@@ -92365,6 +92369,7 @@ bzzuplfaur.duckdns.org
 c-1-1l04ck00r.vercel.app
 c-101.com.tr
 c-1o1c0mtr.shop
+c-8796086020260726-019d4d23-f9e1-7d22-bcd6-535b8233ac63.codepen.dev
 c-and-a-turkiye.com
 c-bacterial.gl.at.ply.gg
 c-bntdestektr.com
@@ -172502,6 +172507,7 @@ garantibbvakredi.vercel.app
 garantibbvakredibasvuru.com
 garantibbvakredibasvurumerkezi.mefound.com
 garantibbvakredibasvurusu.com
+garantibbvakredibasvurusu.info
 garantibbvakredibasvurusu.online
 garantibbvakredileriall.com
 garantibbvakredim.ml
@@ -276451,8 +276457,10 @@ mhrrsserndvsal.net
 mhrs-2.digital
 mhrs-app.online
 mhrs-d.digital
+mhrs-giris.blog
 mhrs-gov-randevu.cfd
 mhrs-guvenli-hastane-randevu.click
+mhrs-hastane.digital
 mhrs-randevu-e-devlet.blogspot.com
 mhrs-randevu-online.cfd
 mhrs-randevu.net
@@ -276541,6 +276549,7 @@ mhrsrandevuportalimizzx.duckdns.org
 mhrsrandevusisteminiza.duckdns.org
 mhrsrandevuvatandaslarimizin.duckdns.org
 mhrsrandvlrmzbrasi.sbs
+mhrsrarandvlrmbrda.sbs
 mhrsrndvislmlerin.online
 mhrsrndvr.blogspot.com
 mhrsrsrs.cfd
@@ -328192,6 +328201,7 @@ pttavmhgsbakiyebayi.web.app
 pttavmhgsbakiyebayis.web.app
 pttavmhgsbakiyecnokatasi.firebaseapp.com
 pttavmhgsbakiyecnokatasi.web.app
+pttavmhgsbakiyedoldur.web.app
 pttavmhgsbakiyenokatasi.web.app
 pttavmhgsbakiyeyuklme.web.app
 pttavmhgsborcodeme.org
@@ -344554,6 +344564,7 @@ s-paramguvende.sahibinden-s.ml
 s-paramguvende.sahibinnden-org.tk
 s-paramguvende.satin-al-tr.com.tr
 s-paramguvende.servis-hizmetleri.online
+s-paramguvende.servisbilgi-tr.online
 s-paramguvende.shop
 s-paramguvende.site
 s-paramguvende.store
@@ -349399,6 +349410,7 @@ sahibinden.siparisinizonline.com.tr
 sahibinden.siparislerim-onayli-127452.com
 sahibinden.siparislerim.net
 sahibinden.siparissatin-al.com
+sahibinden.siparisver-hemen.com
 sahibinden.siparisveriniz.com.tr
 sahibinden.siparisyolda.site
 sahibinden.sistemi-tamamla.com
@@ -418678,6 +418690,7 @@ verify-account02.duckdns.org
 verify-account1.ddns.net
 verify-accounts3.ddns.net
 verify-accountusaa.ddns.net
+verify-akbank.testyourphishing.com
 verify-apple.com-ae.net
 verify-appleaccount.hopto.org
 verify-auth.hopto.org
