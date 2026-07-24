@@ -6463,6 +6463,7 @@
 1cchat.blogspot.com
 1ccuverify.ddns.net
 1cdusb9.duckdns.org
+1ceptesokindirim-liurunler.duckdns.org
 1cf5heq.duckdns.org
 1cfyf8c.duckdns.org
 1chadh.duckdns.org
@@ -59880,6 +59881,7 @@ basitbitest-61271f70964a.herokuapp.com
 basitbitest-888add8d095b.herokuapp.com
 basitce-ptt-kargo-kapilara-gelir.com
 basitce-ptt-kargo-kapilara-geliyor.com
+basitdom.click
 basitgecisler.22web.org
 basithaberci.com
 basitislem.ml
@@ -99996,5 +99998,3 @@ choledocholithotomy.com
 cholesteroletiquette.top
 cholesterolshipyard.top
 cholitoloco.ddns.net
-cholorrhea.com
-chommyflozy.duckdns.org
