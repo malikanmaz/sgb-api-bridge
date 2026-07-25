@@ -63649,6 +63649,7 @@ baykar-tr.click
 baykar-tr.com
 baykar-tr.news
 baykar-tr.online
+baykar-turkish.com
 baykar-turkiye2024.com
 baykar-yatirim.com
 baykar-yatirim.com.tr
@@ -63821,6 +63822,7 @@ baykarmtal.cloudns.eu
 baykarmtal.cloudns.in
 baykarmtal.cloudns.info
 baykarmtal.codeberg.page
+baykarmtal.com.ph
 baykarmtal.cyon.link
 baykarmtal.ddns-ip.net
 baykarmtal.definima.net
@@ -99996,5 +99998,3 @@ choiremigration.top
 choirirritate.top
 choithramsorg.com
 chokatawan.com
-chokdigit.pics
-chokedodge.top

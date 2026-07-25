@@ -63649,6 +63649,7 @@ baykar-tr.click
 baykar-tr.com
 baykar-tr.news
 baykar-tr.online
+baykar-turkish.com
 baykar-turkiye2024.com
 baykar-yatirim.com
 baykar-yatirim.com.tr
@@ -63821,6 +63822,7 @@ baykarmtal.cloudns.eu
 baykarmtal.cloudns.in
 baykarmtal.cloudns.info
 baykarmtal.codeberg.page
+baykarmtal.com.ph
 baykarmtal.cyon.link
 baykarmtal.ddns-ip.net
 baykarmtal.definima.net
@@ -348217,6 +348219,7 @@ sahibinden-pay-guvende.com.ru
 sahibinden-payment.com
 sahibinden-payment.net
 sahibinden-pays.tk
+sahibinden-police.ozel-hizmet-islemleri.com
 sahibinden-pro.guvenli-tr.online
 sahibinden-rezerve.com.tr
 sahibinden-s-bireysel-get-pa.ram-guvende-alisverisi.com
@@ -348274,6 +348277,7 @@ sahibinden-sepet.guvendeticaretlerim.shop
 sahibinden-sepet.guvenliticaretlerim.shop
 sahibinden-sepet.sepetimdeonay.shop
 sahibinden-sepet.sepetimdeonline.click
+sahibinden-sepet.sepetimdeonline.shop
 sahibinden-sepet.sepetimonay.click
 sahibinden-sepet.sepetimonay.lat
 sahibinden-sepet.sepetimonay.surf
@@ -350469,6 +350473,7 @@ sahibindenparamguvendeodemesi.com
 sahibindenparamguvendeodemesistem.tk
 sahibindenparamguvendeodemesistemi.tk
 sahibindenparamguvendeodemesistemleri.tk
+sahibindenparamguvendeonay.com
 sahibindenparamguvendeonline.com
 sahibindenparamguvendeonline.online
 sahibindenparamguvendeozel.com
@@ -350604,6 +350609,7 @@ sahibindensaticionay.com
 sahibindensatilik.net.tr
 sahibindensatis.click
 sahibindensatis.online
+sahibindensatis.org
 sahibindensatis.shop
 sahibindensatisget.com
 sahibindensatisilan.com
