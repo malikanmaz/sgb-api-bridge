@@ -66011,6 +66011,7 @@ bedavapakett.online
 bedavapanel.com
 bedavapanel.org
 bedavapanel.site
+bedavapanelimizyeniden.gt.tc
 bedavasorgu.com
 bedavasorgu.org
 bedavasorgula.com
@@ -370849,6 +370850,7 @@ sorgupaneli.live
 sorgupaneli.me
 sorgupaneli.online
 sorgupaneli.org
+sorgupaneli.ph
 sorgupaneli.pw
 sorgupaneli.shop
 sorgupaneli.site
@@ -412047,6 +412049,7 @@ uyapuzlasmasorgusuportali.com
 uyapuzlasmavedosyasorgu.com
 uyapuzlastirma.org
 uyapvatandas-giris.com
+uyapvatandas-sorgu.com
 uyapvatandas.com.tr
 uyapvatandas.net
 uyapvatandasgiris.com
