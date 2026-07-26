@@ -93734,6 +93734,7 @@ halkiadezamanin.ml
 halkibank.com
 halkibank.org
 halkibankasii.com
+halkicanocan.co
 halkile-80yil.com
 halkile.ml
 halkile80yil.com
@@ -99997,4 +99998,3 @@ hemenebasvuruuyaps.co.vu
 hemenebels.club
 hemenebels.net
 hemenebels.store
-hemenebels.xyz
