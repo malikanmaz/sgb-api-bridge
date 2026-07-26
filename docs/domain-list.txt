@@ -3961,6 +3961,8 @@
 124451545544554888787990.duckdns.org
 124451545544554888787991.duckdns.org
 124451545544554888787992.duckdns.org
+124451545544554888787993.duckdns.org
+124451545544554888787994.duckdns.org
 1245115544166558998990.duckdns.org
 1245115544166558998991.duckdns.org
 1245115544166558998992.duckdns.org
@@ -60632,6 +60634,7 @@ basvurbnnbaki-yeiadesi.net
 basvurbnvscgirisler.com
 basvurbonusbbva.top
 basvurbrd.com.tr
+basvurbrd.sbs
 basvurbrd.xyz
 basvurbyr.com.tr
 basvurbyr.online
@@ -61019,6 +61022,7 @@ basvursmc.xyz
 basvursmd.com.tr
 basvursmn.com.tr
 basvursmn.cyou
+basvursmn.sbs
 basvursmn.xyz
 basvursmr.com.tr
 basvursmr.cyou
@@ -86093,6 +86097,7 @@ brdn-yendn-al.com
 brdnalmssnbskytrdnak.ignorelist.com
 brdnalnbnceded.mooo.com
 brdnalnbzbrdnalyrz.com
+brdnbrangtmtsneeee.com
 brdnbrlrgcblrs.com
 brdnbsfrynlandas.bond
 brdngdrsnorya.mooo.com
@@ -113409,6 +113414,7 @@ dailyturklive.online
 dailyua.com
 dailyupdate-wise.com
 dailyvector.company
+dailyverna.com
 dailyvertex.online
 dailyvista.world
 dailywellnesstips.fun
@@ -115616,6 +115622,7 @@ degerlicampanya.com
 degerlikonutvergisiiade.com
 degerlimusterilerinadesi.club
 degerlimusterilerinadesi.pics
+degerodaklari.com
 degerodasi.com
 degerplatformu.com
 degersk.ml
@@ -160798,6 +160805,7 @@ fenceslabs.com
 fencespectacular.top
 fencetexture.top
 fencscreen.com
+fendril.rest
 fenduriq.live
 feneazeriyemenkayenes.site
 fenebonycensi.site
@@ -175779,6 +175787,7 @@ gecyjechwq.info
 gecyniylotovsss.xyz
 geczs.xyz
 ged-paraguvendesahibnden.com
+gedewadgsqa.duckdns.org
 gedid65877-40373.portmap.host
 gedikegitimvakfi.org
 gedikhalkaarz.app
@@ -178839,6 +178848,7 @@ gilatskysurfer.ddns.net
 gilbertantonio.com.br
 gilbreotero.top
 gildedsanctuary.one
+gildrak.forum
 gilfonts.com
 gilgroup.com
 giliandersi.top
@@ -188490,6 +188500,7 @@ guzeladim.b-cdn.net
 guzelalisverishemen.xyz
 guzelalisverisler.xyz
 guzelanilarbiriktirdik.com
+guzelapp1-fd4eb5ee687a.herokuapp.com
 guzelaylar.sbs
 guzelaylisubelerindeinanilmazdeveller.com
 guzelbasliyorhersey.com
@@ -190169,6 +190180,7 @@ haberler48751.sbs
 haberler54232.shop
 haberler554.shop
 haberler56755712366.com
+haberler6723236.sbs
 haberler78912.sbs
 haberler8.club
 haberler8.online
@@ -196730,6 +196742,7 @@ hayat-finans.net
 hayat-firsata-mutlu-zamanin.com
 hayat-iyileri-sever-kotuleri-sevmez.tk
 hayat-sadece-denizle-guzell.net
+hayat-seninle-guzel.casa
 hayat-vodafonered.com
 hayat.destek.sorgulamak.site
 hayat1gecis.is-best.net
@@ -207302,6 +207315,7 @@ hizligecisbakiyerdm.firebaseapp.com
 hizligecisbakiyesistemi.firebaseapp.com
 hizligecisbakiyesistemi.web.app
 hizligecisbakiymerkezi.web.app
+hizligecisbakyeyuklme.web.app
 hizligecisbakynsi.lat
 hizligecisbakysi.lat
 hizligecisbays.lat
@@ -231904,6 +231918,7 @@ istekuzerineistanbul.xyz
 istekyapmalisiniz.com
 istel-islemminiz.xyz
 istelebnk.online
+istelmancankart.xyz
 istemaxi-saati.com
 istemaxibireysellzamani.com
 istemaxicumartesi.com
@@ -247090,6 +247105,7 @@ karun-diyaneti.com
 karun-vakfi.com
 karundestek.org
 karundestekleri.org
+karvend.courses
 karvenil.com
 karwan123.zapto.org
 karwayollarimiz.shop
@@ -248175,6 +248191,7 @@ kayitlar-webbit-try1.info
 kayitlar-yapikredi.com
 kayitlarbasladi-500bintoki.sbs
 kayitlarbasladi-toki.sbs
+kayitlibilgi.abrdns.com
 kayitlibilgiler.com
 kayitmekani.com
 kayitokigovtr.com
@@ -257713,6 +257730,7 @@ krontoroplastoraforti.net
 krorm65he8kfkfy.ddns.net
 krosapcsaeceka.cfd
 kroshitnameniazachemtomu.com
+krostel.best
 krot.ddns.net
 krotvejuvt.espressobik.ru
 krovazeli.media
@@ -279224,6 +279242,8 @@ mobil-carrefourssa.vercel.app
 mobil-cekilisonlinebasvuru.com
 mobil-cep-internet-ozel-siparis-ver.mooo.com
 mobil-cep-kapinda-marketi-tr.online
+mobil-cep-online-tr.site
+mobil-cep-ozel.online
 mobil-cep-shop-tr.sbs
 mobil-cepsube.com
 mobil-cepte-basvuru-online.app
@@ -279329,6 +279349,7 @@ mobil-entry9.site
 mobil-eparibu.com
 mobil-epttavm.com
 mobil-erisim.my-homeip.com
+mobil-erisim.my-homeip.de
 mobil-eservisin.com
 mobil-esubemdijitalsube-girisvakif.ml
 mobil-extra-alisveris-tr.online
@@ -279526,6 +279547,7 @@ mobil-online-siparis-101-tr.duckdns.org
 mobil-online-sube-yapikredi-tr.ga
 mobil-onlinekanal.click
 mobil-onlinekurumodemelergovtr.tk
+mobil-ozel-tr.site
 mobil-pandemi-duyuru.com
 mobil-pandemi-duyuru.ml
 mobil-pandemi.com
@@ -309586,6 +309608,7 @@ ozel-indie-barvulariniz-bireysel.tk
 ozel-indirim-burda.com
 ozel-indirim-gunlerim-turkcell.com
 ozel-indirimgunleri-turkcell.com
+ozel-indirimler.online
 ozel-indirimlerin-burda.com
 ozel-indrmler-buradan.blogspot.com
 ozel-islemonaybasvurudeniz.com
@@ -365220,6 +365243,7 @@ sivjo6ht.top
 sivo.g07x2.com
 sivokarelun.com
 sivonsaki.com
+sivri.ezpizi.click
 sivtekte.xyz
 sivvino.com
 siwbegazc.com
@@ -367589,6 +367613,7 @@ snk-guncelkampanyaniz.net
 snklrdenbrdayzbr.bond
 snkozhkr.zapto.org
 snkrcylsn.com
+snksnctysnysnns.com
 snkz101brdanclsyr.mooo.com
 snkzalyrmbrdan.mooo.com
 snkzalyrmbsfer.bond
