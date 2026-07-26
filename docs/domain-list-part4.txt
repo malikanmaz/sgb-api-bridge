@@ -1,3 +1,4 @@
+ogrenimdestekpaketi.com
 ogreninrandevunuzu.com
 ogrenme-vesorgu-merkezsisstemi.sbs
 ogrenme.app
@@ -99997,4 +99998,3 @@ trlb2c.duckdns.org
 trlbiance.com
 trlbinanance.com
 trlbinance.com.tr
-trlbinance.org
