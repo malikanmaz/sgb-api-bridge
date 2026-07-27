@@ -58,6 +58,7 @@
 000000001.host
 000000008.cloud
 000000027.xyz
+000000044444.duckdns.org
 00000100001.shop
 0000010100100200301.cloud
 000001010010103.cloud
@@ -3964,6 +3965,8 @@
 124451545544554888787993.duckdns.org
 124451545544554888787994.duckdns.org
 124451545544554888787995.duckdns.org
+124451545544554888787996.duckdns.org
+124451545544554888787997.duckdns.org
 1245115544166558998990.duckdns.org
 1245115544166558998991.duckdns.org
 1245115544166558998992.duckdns.org
@@ -22703,6 +22706,7 @@ a-101-stanley.sa.com
 a-101-tektikla.cfd
 a-101-tektiklasepette.me
 a-101-tr-de-sadece-bugune-ozel-mobil.onlinecep-tr.site
+a-101-tr-online-sadece-bugune-ozel-indirim.sepete-ozel.online
 a-101-tr.com
 a-101-yilbasi-indirimleri.com
 a-101.alisveris-tr.online
@@ -99994,7 +99998,3 @@ chitchatone.blogspot.com
 chitrakoota.com
 chivalkarstone.com
 chivasregal2019.com
-chivazgotu.ddns.net
-chiwork.ddns.net
-chjngyg.ddns.net
-chjrqlbdxi.duckdns.org
