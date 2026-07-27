@@ -22623,6 +22623,7 @@ a-101-extra-ozel-indirim-tr.indirim-sepeti-tr.online
 a-101-extra-sadece-bugune-ozel-mobil.extra-online-mobilde-tr.sbs
 a-101-extra-sadece-bugune-ozel-mobilde-tr.online-tr-shop-mobil.click
 a-101-extra-sadece-bugune-ozel-online-siparis-tr.bireysel-mobil-shop-tr.com
+a-101-extra-sadece-bugune-ozel-sepette-indirim-tr.ozel-tr.online
 a-101-extra-sadece-online-mobile-ozel-tr.online-shop-bireysel-tr.online
 a-101-extra-sadece-online-ozel-mobil-indirim-tr.online
 a-101-extra-sadece-online-ozel-mobil-tr.bilgi-mobil-shop-ozel-tr.sbs
@@ -39032,6 +39033,7 @@ akmhgsm.com
 akmhgss.com
 akmobiildestek.co.vu
 akmobil-kredimcebimde.duckdns.org
+akmobil-onlineislem-ekrani.duckdns.org
 akmobil-onlineislemler-com.duckdns.org
 akmobil-onlineislemlerim-com.duckdns.org
 akmobil-onlineislemlerim-guncel.duckdns.org
@@ -55242,6 +55244,7 @@ avskiralik.com
 avskiralikaraclar.com.tr
 avskiralikaraclar.xyz
 avskoc.com
+avskoc.org
 avskocfilo.com
 avskocfilo.net
 avsonline.com.tr
@@ -98263,6 +98266,7 @@ cepteteb-internetsubem.com
 cepteteb-kampanya.com
 cepteteb-kazan.com
 cepteteb-kazanmavakti.com
+cepteteb-merkeziislemler.my-homeip.de
 cepteteb-mobil-giris.com
 cepteteb-mobil.ml
 cepteteb-mobilsube-com-tr.tk
@@ -99994,7 +99998,3 @@ chjxazim.com
 chk.wtf
 chkactive.online
 chkatcam.pw
-chkjpchse.ddns.net
-chkjpmscma.ddns.net
-chklinkdeacesso.ddns.net
-chkoaeddsc.ddns.net
