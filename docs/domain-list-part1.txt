@@ -5745,6 +5745,7 @@
 182-net.com
 182-nett.com
 182-web.xyz
+182-webb.sbs
 182-webb.xyz
 182-webhati.com
 182-website.com
@@ -51168,6 +51169,7 @@ arzumnova.xyz
 arzumokka.online
 arzumprime.xyz
 arzumsizinindirimiiz.com
+arzumtblenn.com
 arzumverse.xyz
 arzyowvcay.duckdns.org
 as-aidatt-iade.ml
@@ -99996,5 +99998,3 @@ chirigame.com
 chirplun.site
 chirrreep.com
 chise2stdyneverwstzc.dns.army
-chiseledfija.com
-chiselworksenterprise.com
