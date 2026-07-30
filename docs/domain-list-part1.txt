@@ -4318,6 +4318,8 @@
 13222214544588989990895.duckdns.org
 13222214544588989990896.duckdns.org
 13222214544588989990897.duckdns.org
+13222214544588989990898.duckdns.org
+13222214544588989990899.duckdns.org
 1323161823.goloser.ru
 13232545473.cloud
 13235265588880.xyz
@@ -41302,6 +41304,7 @@ albaycheck.online
 albaycheck.shop
 albayinanasininami.com
 albaypanaban.net
+albayquery.space
 albayrak-resmi-islemlerim.com
 albayrak-resmi-islemlerim.org
 albayrak-resmi-islemlerin.com
@@ -48515,6 +48518,7 @@ araaskargo.com
 araaskargomlq.life
 arab-tupras-islamictrading.com
 araba-cekilisi-paribu.com
+araba-cekilisi-paribu.ezgateway.net
 araba-cekilisi.com
 araba-cekilisii.com
 araba-cekilisinesendekatilmakistermisin.com
@@ -99994,7 +99998,3 @@ chilayt.ru
 child97.xyz
 childfashion.top
 childlesscatlady.today
-childporn.uno
-childrenapple.net
-childrenhistorysame.top
-childrerdg.xyz
