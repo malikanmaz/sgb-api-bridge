@@ -1,3 +1,6 @@
+hemen.rentlearac.com.tr
+hemen.sbs
+hemen.sigoortacinet.com.tr
 hemen.sigortaamnnetd.com.tr
 hemen.sigortaamnnete.com.tr
 hemen.sigortacinnet.com.tr
@@ -570,6 +573,7 @@ hemenislemsnonk.net
 hemenislemsonktn.net
 hemenisllmsnconline.online
 hemenislmankta.net
+hemenislmatknas.net
 hemenislmkntokas.net
 hemenislmlmsonsa.online
 hemenislmnktnas.net
@@ -9919,6 +9923,7 @@ hmnislmnkta.net
 hmnislmnktans.net
 hmnislmnktbas.net
 hmnislmnktnas.net
+hmnislmnktnasnn.net
 hmnislmnktnsi.net
 hmnislmnkts.net
 hmnislmnktsan.net
@@ -30022,6 +30027,7 @@ islemkapisi-sorgu-tr.org
 islemkapisi.app
 islemkayit-ailevgenc.pw
 islemkayital.xyz
+islemkhemennktasi.net
 islemkmptt.com
 islemkolayappgiris.app
 islemkolayi.app
@@ -99992,9 +99998,3 @@ odricatt.live
 odry.london
 odryogu.press
 odryoru.press
-odrypyhpgs.storage.googleapis.com
-odryreo.site
-odryreou.press
-ods5654.nicepage.io
-ods5654asd.nicepage.io
-odsakjmdnhsaj.com
