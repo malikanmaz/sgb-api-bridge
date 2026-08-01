@@ -1,3 +1,5 @@
+chi.hopto.org
+chiado-id19383.world
 chiararoblox.com.tr
 chiararoblox.xyz
 chiaseti.life
@@ -25844,6 +25846,7 @@ dijitalhizmetmerkezi-ziraatweb.com
 dijitalhizmetmobil-ziraatbireysel.com
 dijitalhizmetweb-ziraatbireysel.com
 dijitalhizmetweb-ziraatmobil.com
+dijitalhizzlihizmet.duckdns.org
 dijitali-web.org
 dijitalibb.net
 dijitaliistanblkart.net
@@ -99995,6 +99998,3 @@ hemen-simdi-al.net
 hemen-simdi.online
 hemen-siparis-ver-kapinda-tr.online
 hemen-siparisver.com
-hemen-sizlerle.com
-hemen-sor-ve-aktr.cyou
-hemen-ucuza-kapinda.top
