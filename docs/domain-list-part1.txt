@@ -11483,6 +11483,8 @@
 312222545548789988991.duckdns.org
 312222545548789988992.duckdns.org
 312222545548789988993.duckdns.org
+312222545548789988994.duckdns.org
+312222545548789988995.duckdns.org
 31231231251321-1213.cloud
 312312321321.cloud
 31231313.duckdns.org
@@ -16889,6 +16891,7 @@
 615ys4yua.duckdns.org
 61607609.hakold.ru
 61611095.com
+6161616161.duckdns.org
 6161616324.duckdns.org
 616166145456-2025.xyz
 616571056.cloud
@@ -93985,6 +93988,7 @@ canimturkiye.cyou
 canimulkemturkiyem.com
 canimyrkmycc.com
 canine-vers.xyz
+caninelab.co
 caninelerister.ga
 canislem.22web.org
 canister7.xyz
@@ -99994,7 +99998,3 @@ chevuyarap.app
 chewpartition.top
 chexfotii.ddns.net
 chexnut.hopto.org
-chezchantilly.com
-chezhiyasweheropasl.su
-chfhasewfhhfohod.com
-chftibatyr.duckdns.org
