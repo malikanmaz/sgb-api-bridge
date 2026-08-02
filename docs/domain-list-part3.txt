@@ -836,6 +836,7 @@ hemensepetteaktuellerim.online
 hemensevilengunler.online
 hemensevilengunler.xyz
 hemensevilenkampanyalar.com.tr
+hemensielmkntasi.net
 hemensielmnokta-islnakt.net
 hemensigorta.net.tr
 hemensigorta.online
@@ -62235,6 +62236,7 @@ ledekranikimyapar.com
 ledekrankimyapar.com
 ledenizbank.com
 lederhoise.info
+ledferesaxxaw.duckdns.org
 ledferlivelogin.webflow.io
 ledgarliveloogen.webflow.io
 ledger--logen-helps.webflow.io
@@ -99996,5 +99998,3 @@ odinbabamyerin.shop
 odinbaber.click
 odinbomlendin.wiki
 odincafertivm.cfd
-odincafertivm.cyou
-odincafertivm.my
