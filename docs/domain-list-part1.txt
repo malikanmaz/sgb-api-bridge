@@ -11487,6 +11487,7 @@
 312222545548789988995.duckdns.org
 312222545548789988996.duckdns.org
 312222545548789988997.duckdns.org
+312222545548789988998.duckdns.org
 31231231251321-1213.cloud
 312312321321.cloud
 31231313.duckdns.org
@@ -55193,6 +55194,7 @@ avm-gecisodemesi.com
 avm-guvenliodeme.com
 avm-kampanya-agustos.online
 avm-market-ptt-avm.online
+avm-satinal.com
 avm-siparislerim.com
 avm-urunler.com.tr
 avm24online.com
@@ -99996,5 +99998,3 @@ chestoval.top
 chesttug.top
 chet.zapto.org
 chetanh.zapto.org
-chetime.xyz
-cheval-ocean-indien.com
