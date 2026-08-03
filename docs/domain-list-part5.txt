@@ -1,3 +1,6 @@
+trendyol.homes
+trendyol.ilan-alisveris-get.com
+trendyol.ilanpaylas.net
 trendyol.ilanservis-odemen.online
 trendyol.ile-alimin.com
 trendyol.in
@@ -55057,6 +55060,7 @@ yonld-hzs-bni.store
 yonlen-2010201.art
 yonlen-artik-310131.com
 yonlen-buradan-anlik.sbs
+yonlen-toplan-security.ink
 yonlen.click
 yonlen.duckdns.org
 yonlenci.webredirect.org
