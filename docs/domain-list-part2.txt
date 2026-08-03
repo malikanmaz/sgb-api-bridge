@@ -71720,6 +71720,7 @@ garanti-bbwa.net
 garanti-bddv-mobil-giris.com
 garanti-bildirim-com-tr.cf
 garanti-bireyseisube-tr.com
+garanti-bireysel-basvurular-com.webredirect.org
 garanti-bireysel-basvurunuz-com.webredirect.org
 garanti-bireysel-formu-kayit-online.ml
 garanti-bireysel-islem.com
@@ -99997,4 +99998,3 @@ hemen-aldin-aldin.online
 hemen-aldin-aldin.xyz
 hemen-alisveris-al.online
 hemen-alisveris-al.xyz
-hemen-alisveris.online
