@@ -1,3 +1,11 @@
+trendyol.ilanservis-odemen.online
+trendyol.ile-alimin.com
+trendyol.in
+trendyol.iranshik.com
+trendyol.islem-hizmetlerim-mobil.com.tr
+trendyol.it.com
+trendyol.jeabynews.com
+trendyol.korayturk.com
 trendyol.lat
 trendyol.manuel-alim.net
 trendyol.mobil-servis.store
@@ -26259,6 +26267,7 @@ web-kuveyt.com
 web-kuveytturk.com
 web-landmonitor-tr.click
 web-landtr.click
+web-lanse.ink
 web-likidite.xyz
 web-links-mobil-tr.click
 web-links-mobil-tr.sbs
@@ -49220,6 +49229,7 @@ yardimpaketi.cf
 yardimpaketi.net
 yardimpaketi.tk
 yardimpaketim.com
+yardimpaketim.org
 yardimpaketinizbizde.com
 yardimpandemi.com
 yardimpapara.com

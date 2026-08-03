@@ -8893,6 +8893,7 @@
 2121232323232.cloud
 2121431312.duckdns.org
 2121454457788785522590.duckdns.org
+2121454457788785522591.duckdns.org
 2121quasar.ddns.net
 212224252.cloud
 21231321321313213213132.duckdns.org
@@ -111205,6 +111206,7 @@ cuetheconnect.com
 cufdenwyirgzgx.com
 cuffircous.xyz
 cugarmachine.com
+cugeredesede-sederese.lol
 cugfertde.site
 cugivxe.duckdns.org
 cugubabaswass.best
@@ -122933,6 +122935,7 @@ destekyardimerkezi.ml
 destekyardimlari.com
 destekyardimlarim.com
 destekyardimmerkezi.tk
+destekyatirimmenkuldegerler.com
 destekyonlendirme.com.tr
 destekyrdm.org
 destekyurdu.com
@@ -220360,6 +220363,7 @@ ilgenelitoplubasvuru.online
 ilgibilgi.info
 ilgileniyoruz.com
 ilgili-basvuru-ekrani.com
+ilgili-disp-asist.ink
 ilgili-e-basvuru-ekrani.com
 ilgiliurnler01.shop
 ilgim.site
@@ -345868,6 +345872,7 @@ s-urunler.com.tr
 s-urunler.net
 s-urunlerim-guvende-islemler.com.tr
 s-wagardw.app
+s-yetenek.org.tr
 s.6srvfcm.com
 s.adslinkup.com
 s.appjiagu.com
@@ -351517,6 +351522,7 @@ sahibindenpay.com.tr
 sahibindenpay.net
 sahibindenpay.ru.com
 sahibindenpay.sa.com
+sahibindenpay.shop
 sahibindenpayget.com
 sahibindenpaygett.com
 sahibindenpayguvende.com.pl
@@ -364827,6 +364833,7 @@ simdisiparsver.click
 simdisofradahayverparmesan.sbs
 simdisorgulayin.com
 simdisormaklazrede.online
+simdissenalimyapal.cloud
 simdistediginindirimlier.shop
 simdisversiparis.click
 simditakipcikazan.org
@@ -369869,6 +369876,7 @@ soktanindirim.com
 soktanindirimler.com
 soktanindirimlercepte.site
 soktansiparilere.cloud
+soktansiparilerinitamamlar.cloud
 soktantemmuzagirisklimasi.com
 soktaozel-kliman.com
 soktasokfirsatlar.com
@@ -426259,6 +426267,7 @@ web-kuveyt.com
 web-kuveytturk.com
 web-landmonitor-tr.click
 web-landtr.click
+web-lanse.ink
 web-likidite.xyz
 web-links-mobil-tr.click
 web-links-mobil-tr.sbs
@@ -449220,6 +449229,7 @@ yardimpaketi.cf
 yardimpaketi.net
 yardimpaketi.tk
 yardimpaketim.com
+yardimpaketim.org
 yardimpaketinizbizde.com
 yardimpandemi.com
 yardimpapara.com
