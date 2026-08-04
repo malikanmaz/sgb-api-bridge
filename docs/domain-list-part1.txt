@@ -22637,6 +22637,7 @@ a-101-balahar.lol
 a-101-bireysel-extra-indirimler.online-tr-shop.site
 a-101-bugune-ozel-cepte-mobil-extra.indirim-mobil.site
 a-101-bugune-ozel-cepte.ozel-sponsor.com
+a-101-bugune-ozel-indirim-sepeti-mobil-cep.pay-tr.online
 a-101-bugune-ozel-indirim-tr-sepette-mobil.online-ozel-siparis.online
 a-101-bugune-ozel-mobilde.sepette-shop-online.rest
 a-101-c-om-t-r.sbs
@@ -22761,9 +22762,11 @@ a-101-onlineislem.net.tr
 a-101-onlineislemler.com.tr
 a-101-perakende.online
 a-101-s-nal.cfd
+a-101-sadece-bugune-ozel-extra-indirimleri-tr.ozel-shop.site
 a-101-sadece-bugune-ozel-mobil-indirim-tr.internet-mobil.online
 a-101-sadece-bugune-ozel-mobil.online-tr-shop-mobil.site
 a-101-sadece-bugune-ozel-sepette-indirim-online-mobil-cep-tr.360-plus.com
+a-101-sadece-online-bugune-ozel-sepet-indirimleri-tr.shop
 a-101-sadece-online-ozel-firsat-tr.store-sepette-tr.online
 a-101-san-al-mar-ket.sbs
 a-101-sanal.com.tr
@@ -99995,6 +99998,3 @@ cheldranx.net
 cheleseafc82.info
 chellor.cfd
 chelonidae.com
-chelotec.quest
-chelylx.com.tr
-chemberekend.xyz
