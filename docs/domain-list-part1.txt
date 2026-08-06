@@ -8956,6 +8956,7 @@
 21455452222255899892.duckdns.org
 21455452222255899893.duckdns.org
 21455452222255899894.duckdns.org
+21455452222255899896.duckdns.org
 21461sndmsndsasd.com
 21499782132964.net
 215.alcrof.net
@@ -39136,7 +39137,9 @@ akmhgsm.com
 akmhgss.com
 akmobiildestek.co.vu
 akmobil-bireysel-com.duckdns.org
+akmobil-ceptebasvuru-ekrani-com.duckdns.org
 akmobil-ceptebasvuru-ekrani-com.webredirect.org
+akmobil-cepteislemler-ekrani-com.webredirect.org
 akmobil-kredimcebimde.duckdns.org
 akmobil-onlinebasvuru-ekrani-com.webredirect.org
 akmobil-onlineislem-ekrani.duckdns.org
@@ -67110,6 +67113,7 @@ benz-rezervasyon.online
 benz-siparis.online
 benz-siparislerim.online
 benz-turkiyeleri.online
+benz2.turkey-benz.com
 benzalphthalide.com
 benzbayi.online
 benzbayim.online
@@ -99994,7 +99998,3 @@ checksum.ringfindmyphone.com
 checksum.yasuapanitanaik.cfd
 checksystem-online.com
 checktodrivers.com
-checkvergiserv.tk
-checkverifcation.ddns.net
-checkvim.com
-checkviolations1093821.duckdns.org
