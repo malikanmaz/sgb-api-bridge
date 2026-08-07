@@ -1,3 +1,7 @@
+helpdepreciation.top
+helpdesk-apple.com
+helpdesk-gemini.com
+helpdesk-google.com
 helpdesk-icloud.com
 helpdesk-lab.site
 helpdesk.autodefragapp.com
@@ -7154,6 +7158,7 @@ hizli-gov-tr.shop
 hizli-gs.app
 hizli-guvenli-alisveris-yap.online
 hizli-guvenli-satin-alim.online
+hizli-havale.com
 hizli-hemengelsinaktivasyonkvyt.click
 hizli-hemengelsinaktivasyonkvyt.com
 hizli-hemengelsinaktivasyonkvyt.space
@@ -29577,6 +29582,7 @@ iscep.finance
 iscep.firsatbildirimileri.online
 iscep.kazan.cam
 iscep.netsube.com
+iscep.nt-fans.com
 iscep.online
 iscep.site
 iscep.trbilgiform.com
@@ -50399,6 +50405,7 @@ kepguncel-hepsiburada.com
 kepguncel.com
 kepguncel.net
 kepguncelleme.com
+kephepsiburada.com
 kepim-aktiflestirme-guncel.com
 kepim.com
 kepim.net
@@ -54563,6 +54570,7 @@ kmpnyhmnbrd1o1.online
 kmpnylrbrdsizlerle.space
 kmpnylrrbsvrrsnfrstlrrr.info
 kmpnylrrbsvrrsnfrstlrrr.live
+kmpnylrrsnffrsttbsvrrr.click
 kmpnylrrsnffrsttbsvrrr.info
 kmpnylrrsnffrsttbsvrrr.live
 kmpnylrrsnffrsttbsvrrr.pro
@@ -99990,11 +99998,3 @@ odeme-tr.sa.com
 odeme-trafikcezasiuygulamasi.online
 odeme-urunler.com.tr
 odeme-urunum.com.tr
-odeme-vergiportalii.com
-odeme-yap.com.tr
-odeme-yontemi.com
-odeme.aktuelonlinesatis.com.tr
-odeme.eaidatonlineiadebasvurumcom.com
-odeme.fun
-odeme.s-paramguvendesistemi.com
-odeme.s.paramguvende-odeme.net

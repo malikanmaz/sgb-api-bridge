@@ -1,3 +1,5 @@
+checkscreenit.com
+checksecur.hopto.org
 checkservicecustomerapi.azurewebsites.net
 checksofmahsen.strangled.net
 checksolutions.pw
@@ -22489,6 +22491,7 @@ destek-hizmetler-kart-iade-basvuru-sayfasi.xyz
 destek-hizmetler.icu
 destek-iade.com
 destek-iadehizmeti.com
+destek-ikame.ink
 destek-kacirma756.com
 destek-kampanya-basvur-bireysel.ga
 destek-kampanya-basvur-bireysel.tk
@@ -25303,6 +25306,7 @@ dij-ital.store
 dijdij33.ddns.net
 diji-bilgikampanya.sbs
 diji-is.blogspot.com
+diji-siparis.sbs
 diji-tal.net
 diji-tal.org
 diji-tebim.my-homeip.de
@@ -99994,7 +99998,3 @@ helpcopyright-fb.ml
 helpcopyright-tr.ml
 helpcopyrightsabout.tk
 helpcustomamaz0n.duckdns.org
-helpdepreciation.top
-helpdesk-apple.com
-helpdesk-gemini.com
-helpdesk-google.com
