@@ -1,3 +1,6 @@
+odeme-hgs-ptt.ml
+odeme-hizmeti.com.tr
+odeme-hizmeti.net
 odeme-hizmetleri.com
 odeme-hizmetleriniz.tk
 odeme-hizmetlrm.gq
@@ -17656,6 +17659,7 @@ parteners-girteka.com
 parteners-girteka.top
 parthait.com
 parti-kampanya.fun
+parti-kampanyasi.online
 parti100olasifirsatislemenu.com
 partialemi.com
 partialintermittent.top
@@ -75159,6 +75163,7 @@ sr55x.click
 sr63wx82.duckdns.org
 sr856r.duckdns.org
 sra6i5jmc.duckdns.org
+srabklmhrndval.com
 srandxuvkd.net
 sranksyz.net
 srarra.xyz
@@ -99993,8 +99998,3 @@ trbneventininsorgusunutamamla.com
 trbngirisbasvuru.com
 trbnincebasvurularim.duckdns.org
 trbnmdestek.com
-trbnn-girisonline.com
-trbnnaduyurugiris.com
-trbnnc-giris.com
-trbnncbtc.vercel.app
-trbnnccsegris.com.tr
