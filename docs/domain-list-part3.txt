@@ -1,3 +1,4 @@
+help-verified-badge-form-request.tk
 help-verified-badge-form-support.tk
 help-verified-badge-service.xyz
 help-verified-badges-application-form.xyz
@@ -99997,4 +99998,3 @@ odeme-guvenli.com
 odeme-hgs-ptt.ml
 odeme-hizmeti.com.tr
 odeme-hizmeti.net
-odeme-hizmetleri.com
