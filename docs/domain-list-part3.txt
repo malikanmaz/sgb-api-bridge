@@ -1,3 +1,4 @@
+helpdesk-icloud.com
 helpdesk-lab.site
 helpdesk.autodefragapp.com
 helpdesk.fxnxs.com
@@ -2419,6 +2420,7 @@ herzamancekilis.duckdns.org
 herzamanchpbababurda.blogspot.com
 herzamandestek.online
 herzamandevamediyoruzalisverise.shop
+herzamandevamsiparis.sbs
 herzamanfirsat.cfd
 herzamanfirsat.shop
 herzamanfirsatlari.shop
@@ -99996,5 +99998,3 @@ odeme.eaidatonlineiadebasvurumcom.com
 odeme.fun
 odeme.s-paramguvendesistemi.com
 odeme.s.paramguvende-odeme.net
-odeme.sanalhat.com
-odeme.tesvikprogrami.com
