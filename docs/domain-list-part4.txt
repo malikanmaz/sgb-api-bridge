@@ -1,3 +1,4 @@
+odeme-guvenli.com
 odeme-hgs-ptt.ml
 odeme-hizmeti.com.tr
 odeme-hizmeti.net
@@ -6804,6 +6805,7 @@ onlinetarifehizmetleribim.com
 onlinetasarruf-basvuru-yapicep.vercel.app
 onlinete-bfirsati.com
 onlinetebbasvurunuz.tk
+onlinetebmobil.sbs
 onlinetebsube.com
 onlinetechdesk.com
 onlinetemmuzfirsatlari.com
@@ -99996,5 +99998,3 @@ trbnduyurugiris.com
 trbnduyurugiristr.com
 trbneventininsorgusunutamamla.com
 trbngirisbasvuru.com
-trbnincebasvurularim.duckdns.org
-trbnmdestek.com
