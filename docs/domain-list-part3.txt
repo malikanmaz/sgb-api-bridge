@@ -1,3 +1,6 @@
+help-verified-badge-form-support.tk
+help-verified-badge-service.xyz
+help-verified-badges-application-form.xyz
 help-verified-badges-application.com
 help-verified-badges-confirm-form.tk
 help-verified-badges-service.xyz
@@ -57491,6 +57494,7 @@ kredi-basvuru-merkezi.click
 kredi-basvuru-merkezi.lat
 kredi-basvuru-merkezi.ooguy.com
 kredi-basvuru-merkezi.pics
+kredi-basvuru-merkezi.quest
 kredi-basvuru-online-portal.sbs
 kredi-basvuru-online.cfd
 kredi-basvuru-online.click
@@ -69571,6 +69575,7 @@ magazafirsatmarketleri.com
 magazagiris-hizmetlerim.com
 magazahizmetlerinoktasi.com
 magazahizmetuygunfiyat.xyz
+magazaindirimi.com
 magazakampanyalari.site
 magazakampanyalari.store
 magazakataloglarguzel.duckdns.org
@@ -94243,6 +94248,7 @@ nissrv.com
 nitalastarakalatacamataleritabakamaladures.net
 nitazi.click
 nitehushpro24.com
+nitelik-vasif.ink
 nitelikleriniz.online
 nitindhanji.com
 nitix.click
@@ -99992,9 +99998,3 @@ odeme-hgs-ptt.ml
 odeme-hizmeti.com.tr
 odeme-hizmeti.net
 odeme-hizmetleri.com
-odeme-hizmetleriniz.tk
-odeme-hizmetlrm.gq
-odeme-iadeleri-com-tr.com
-odeme-ilan-09240.com
-odeme-ilan.com
-odeme-ilan.sa.com
