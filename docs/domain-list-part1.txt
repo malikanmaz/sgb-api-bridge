@@ -20475,6 +20475,7 @@
 888809010100.cloud
 88881.pro
 888811111.duckdns.org
+8888188.duckdns.org
 8888448788.cloud
 8888525664458.cloud
 8888556658888.duckdns.org
@@ -99997,4 +99998,3 @@ checkpoint-vpn.com
 checkpoint10004743433.duckdns.org
 checkpointaccount-100946281947.duckdns.org
 checkpointviewzen.com
-checkpolicy.site

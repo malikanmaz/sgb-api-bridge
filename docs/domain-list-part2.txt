@@ -1,3 +1,4 @@
+checkpolicy.site
 checkra1n.hopto.org
 checkredirecrsrv.hopto.org
 checkredirector.ddns.net
@@ -37526,6 +37527,7 @@ e-mobilaidem-girismobildevlet.com
 e-mobilbilgilerim-onlineaidatlaredevlet.com
 e-mobilbilgilerimgirishizmetleraidatlargovtr.com
 e-mobilcimer.com
+e-mobilde-garantibbva.com
 e-mobildestekgirishizmetimgovtr.com
 e-mobildesubeniz.online
 e-mobildevlet-giris.com
@@ -99996,5 +99998,3 @@ helpauthopresupport.ddns.net
 helpbankofwest.ddns.net
 helpbecu-secure.duckdns.org
 helpbrother.com.tr
-helpbyangel0.wordpress.com
-helpcaseid10.cfd
