@@ -1,3 +1,7 @@
+help-lnstagram-copyright.cf
+help-lnstagram-copyrights.cf
+help-lnstagram-form.cf
+help-lnstagram-team.cf
 help-lnstagram-terms.com
 help-lnstagramofficial.ga
 help-microsoft.dnslive.net
@@ -30714,6 +30718,7 @@ islemoak.shop
 islemonay-acikdenizv2denizbank.com
 islemonay-tr.online
 islemonaylari2024.shop
+islemonaytr.online
 islemonline-ekrandan-kontrol.cyou
 islemonlinebudget.com
 islemonlinee.xyz
@@ -57549,6 +57554,8 @@ kredi-basvuru-online.sbs
 kredi-basvuru-portal.sbs
 kredi-basvuru-portali.sbs
 kredi-basvuru-sistemi.cfd
+kredi-basvuru-sistemi.cyou
+kredi-basvuru-sistemi.mom
 kredi-basvuru.short.gy
 kredi-basvuru.site
 kredi-basvuru.vercel.app
@@ -82500,6 +82507,7 @@ mobilservisin-10.sbs
 mobilservisin-15.sbs
 mobilservisin-20.sbs
 mobilservisin-22.sbs
+mobilservisin-32.sbs
 mobilservisin.com
 mobilservisiniz-10.sbs
 mobilservisler-23.sbs
@@ -99990,11 +99998,3 @@ odeabnkmobilsube.com
 odeaidatini.rf.gd
 odeal-yelvano.it.com
 odeamenkul.com
-odeatatilegonderiyormus.com
-odeavgecisodetr.icu
-odebayicezatahsilat.com
-odebayicisi.com
-odebayii.com
-odebayiii.com
-odebayiniztr.com
-odebayitahsilat.com
