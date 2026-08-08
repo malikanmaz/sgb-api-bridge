@@ -1,3 +1,5 @@
+help-try.xyz
+help-trzor--blog.webflow.io
 help-trzorstart.webflow.io
 help-ttreszorlogin.webflow.io
 help-turkey.org
@@ -99996,5 +99998,3 @@ odeme-gecissistemleri.com
 odeme-geribasvur-hizmetleri.shop
 odeme-get-param-guvende.tk
 odeme-gib-gov-tr.online
-odeme-giris-hgsonline.xyz
-odeme-guvende-e-hizmetler.com.tr
