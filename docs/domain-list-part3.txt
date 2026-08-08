@@ -80773,6 +80773,7 @@ mobil.acikdenizv2denizbank-ibasvuru.com
 mobil.denizbank-iadeformu.com
 mobil.gettrials.com
 mobil.ilkevimprojesidanismanlik.com
+mobil.obilet-tr.uk
 mobil.tebligyeri.com
 mobil.uyap-gov.com
 mobil.uyap-gov.icu
@@ -99997,4 +99998,3 @@ odeme-e-devlet.vatandashukuk.com.tr
 odeme-finansbank.ph
 odeme-gecissistemleri.com
 odeme-geribasvur-hizmetleri.shop
-odeme-get-param-guvende.tk

@@ -280773,6 +280773,7 @@ mobil.acikdenizv2denizbank-ibasvuru.com
 mobil.denizbank-iadeformu.com
 mobil.gettrials.com
 mobil.ilkevimprojesidanismanlik.com
+mobil.obilet-tr.uk
 mobil.tebligyeri.com
 mobil.uyap-gov.com
 mobil.uyap-gov.icu
@@ -409686,6 +409687,7 @@ ucuz-takipci.com
 ucuz.alim-verim.top
 ucuz.info
 ucuz.obilet-mobil.uk
+ucuz.obilet-tr.uk
 ucuz1-konto.22web.org
 ucuz101indirimmarket.com
 ucuzaaldin.online
@@ -455279,6 +455281,7 @@ yolcu.360-online.com.tr
 yolcu.360-vip.com.tr
 yolcu.360mobil.com.tr
 yolcu.obilet-mobil.uk
+yolcu.obilet-tr.uk
 yolcu360-arackiralama.com
 yolcu360-kiralama.online
 yolcu360-kiralama.store
@@ -455480,6 +455483,7 @@ yolcuhizmetlerivopex.net
 yolcuile360kiralamafilo.online
 yolcukiralama.com
 yolculuk.obilet-mobil.uk
+yolculuk.obilet-tr.uk
 yolculuk.tk
 yolculukist.click
 yolcum360.autos

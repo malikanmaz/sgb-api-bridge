@@ -1,3 +1,4 @@
+odeme-get-param-guvende.tk
 odeme-gib-gov-tr.online
 odeme-giris-hgsonline.xyz
 odeme-guvende-e-hizmetler.com.tr
@@ -99997,4 +99998,3 @@ trbnconlinegirisresmi.com
 trbncs.com.tr
 trbncsdestekgiris.com
 trbncsdestektr.com
-trbncsduyuru.com
