@@ -1,3 +1,5 @@
+help-insta.rf.gd
+help-instagram-complaints.com
 help-instagram-security.tk
 help-instagram-verified-badge-form.cf
 help-instagram-verified.cf
@@ -65913,6 +65915,7 @@ login-mail.online
 login-merkeztry.space
 login-microsft.online
 login-microsof-0nline.com
+login-microsoft-virtualpe.com
 login-navyfederal.ddns.net
 login-netflixsecure.ddns.net
 login-netsuite.com
@@ -99995,6 +99998,3 @@ odditybotanical.top
 oddlofty.top
 oddlysatis.xyz
 oddosataninanasinibacisiniarayacagiz.net
-oddscatastrophe.top
-oddscripple.top
-oddsdespatch.top
