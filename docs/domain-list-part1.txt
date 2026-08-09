@@ -2053,6 +2053,7 @@
 101-den-firsatlariniz-kacmasin.sbs
 101-efsane.shop
 101-eozel.xyz
+101-extra-da-sadece-bugune-ozel-firsat-mobilde-tr.indirimsepette.online
 101-extra-ozel-online-siparis-bugune-ozel.mooo.com
 101-eylulgecesi13.com
 101-eylulgecesi13.net
@@ -99997,4 +99998,3 @@ checkboomm.surf
 checkbuffer.com
 checkcard-via-booking.com
 checkcard1015-booking.com
-checkcard1715-booking.com
