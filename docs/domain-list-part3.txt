@@ -1,3 +1,4 @@
+help-copyright-lnstagram.com
 help-copyright-meta.ga
 help-copyright-meta.ml
 help-copyright-service.ml
@@ -10375,6 +10376,7 @@ hmnislemnktans.net
 hmnislemnktbas.net
 hmnislemnktsans.net
 hmnislemnoktnasn.net
+hmnislemntkas.net
 hmnislemonlniesonuc.net
 hmnislmbkntans.net
 hmnislmknat.net
@@ -53012,6 +53014,7 @@ kisiselwarrantybb.xyz
 kisisevgi.org
 kisisorgu.blogspot.com
 kisitkaldir.pro
+kisitkaldirmalinkibasvuru.duckdns.org
 kisiye-ozel-kampanyalar.com
 kisiyeozel.site
 kisiyeozelkampanya.com
@@ -99995,6 +99998,3 @@ od7tqh3h3pi01d3.ddns.net
 od84yjby.duckdns.org
 od9.us
 oda-liegr-l-n-l.myonlineportal.ch
-oda6y.is-best.net
-odabirmuneyli.b-cdn.net
-odakguncel.com
