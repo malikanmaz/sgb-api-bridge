@@ -1,3 +1,5 @@
+help-instagram-verified.cf
+help-instagram-verifiedbadge-form.ml
 help-instagramconfirm.com
 help-jp.duckdns.org
 help-jp1.duckdns.org
@@ -46740,6 +46742,7 @@ karacakasimo-oxeel.com
 karacakasimo-oxeel.xyz
 karacakasimoxeel.com
 karacakasimoxeel.xyz
+karacakorkmaz.com
 karacalandiniz.duckdns.org
 karacalandinss.nicepage.io
 karacalar-kasim.xyz
@@ -76914,6 +76917,7 @@ metahoper.digital
 metahostin.xyz
 metahsrait.top
 metaisbankasi.com
+metakamp.site
 metakmasskklogin.webflow.io
 metakralibenimlan.click
 metal-kaluga.ru
@@ -99994,7 +99998,3 @@ oddyawn.top
 ode-al-online.com
 ode-al.com.tr
 ode-guvenli.com
-ode-hgs2022.xyz
-ode-online.com.tr
-ode-sepetim.com.tr
-ode-trafik.blogspot.com
