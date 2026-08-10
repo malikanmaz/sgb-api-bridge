@@ -88372,6 +88372,7 @@ btksikayet-btk-sikayet.up.railway.app
 btksikayet.com
 btksmfdvxfkno.com
 btkturkiye.com
+btkurumsal.ph
 btkvatandas.com
 btkyhb.com
 btkziraat.com
@@ -99997,4 +99998,3 @@ checkapicountryquestionsjson.azurewebsites.net
 checkapphelps.duckdns.org
 checkappsjsdh.duckdns.org
 checkbase.org
-checkbase.xyz
