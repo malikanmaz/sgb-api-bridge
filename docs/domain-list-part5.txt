@@ -1,3 +1,5 @@
+tramer.services
+tramer.space
 tramer.work
 tramer1453x.b-cdn.net
 tramer2023onlined.com
@@ -56546,6 +56548,7 @@ yonlendinizkis.duckdns.org
 yonlendir-559125.strangled.net
 yonlendir-aktarma-sistem.cyou
 yonlendir-denizcekilisim-2022.com
+yonlendir-g.my-homeip.de
 yonlendir-reklam.com
 yonlendir.click
 yonlendir.dynamic-dns.net
