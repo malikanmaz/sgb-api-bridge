@@ -20207,6 +20207,7 @@
 850swt.duckdns.org
 851581002004332212.webredirect.org
 851581002004555.webredirect.org
+85208520520520520520520.club
 8523816.net
 852cvl.duckdns.org
 853059134.cloud
@@ -27956,6 +27957,7 @@ acentacim-online.web.tr
 acentafilo365.com
 acentaflypgs.net
 acentalarbirligi.org
+acentamerkezi.com
 acentamuygun.gen.tr
 acentamuygun.name.tr
 acentamuygun.org.tr
@@ -32229,6 +32231,7 @@ adliyedosyatrakip.org
 adliyeegm.org
 adliyekamusorgu.org
 adliyekontrol.com
+adliyekurum.net
 adliyekurum.org
 adliyemasak.org
 adliyesorgu.org
@@ -99995,6 +99998,3 @@ chauxincaidomainnua.icu
 chaveirourgente.com
 chavo.app
 chavobaba.net
-chaxxq32.hopto.org
-chayhang12.duckdns.org
-chaytel.com
