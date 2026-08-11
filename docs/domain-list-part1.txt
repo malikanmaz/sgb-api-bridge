@@ -23607,6 +23607,7 @@ a101-gecekampanyalari.com
 a101-geceyeozel.online
 a101-geridonus.duckdns.org
 a101-get.aldinaldinn.com.tr
+a101-girisfacebook.click
 a101-guncelkampanya.online
 a101-guvenli-indirim.com
 a101-guvenli-sepetim.com
@@ -99997,4 +99998,3 @@ chatprism.icu
 chatrash.cn
 chatsaigpt.com
 chattdeck.com
-chatterbuzz-media.com
