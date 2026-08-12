@@ -24986,6 +24986,7 @@ a101kapida.shop
 a101kapida.store
 a101kapidacep.com
 a101kapidamarket.com
+a101kapidamarketim.com
 a101kapidan.com.tr
 a101kapidan.online
 a101kapidaodemen.com
@@ -99997,4 +99998,3 @@ chatdeepseek.app
 chateamos-andreita.ddns.net
 chatexemption.top
 chatg-pt.net
-chatgamz.zapto.org
