@@ -13616,6 +13616,7 @@
 412221222145558999893.duckdns.org
 412221222145558999894.duckdns.org
 412221222145558999896.duckdns.org
+412221222145558999897.duckdns.org
 4122322.com
 41239521838512.cloud
 41241231548123124.online
@@ -23177,6 +23178,7 @@ a-visfilo.com.tr
 a-visfilo.xyz
 a-vmgunlukleri1brda0firsat-1.com
 a-yar2s-ml.cdn.ampproject.org
+a-yonlendir.ink
 a-zcati.com
 a.101-cumartesialdin.com
 a.101-ekstra.com
@@ -25211,6 +25213,7 @@ a101online.toyewgewkgdsk.click
 a101online.website
 a101online.xyz
 a101onlineaktuel.com
+a101onlineaktuelmarket.com
 a101onlineaktuelmobil.com
 a101onlinealisveris.com
 a101onlinealisveriseozelindirim.online
@@ -48953,6 +48956,7 @@ arac-dolum3.xyz
 arac-dolum4.xyz
 arac-dolum5.xyz
 arac-dolum6.xyz
+arac-gerec.cards
 arac-gtr.b-cdn.net
 arac-hasarnm.blogspot.com
 arac-hasrr.blogspot.com
@@ -49219,6 +49223,7 @@ aracimin.net
 araciminanesi.net
 aracimindetaylari.cfd
 aracimisigortala.net
+aracimizmuayenede.com
 aracimizmuayeneli.net
 aracimizsorgulayin.net
 aracimkapimagelir.store
@@ -99993,8 +99998,3 @@ chasse.hopto.org
 chassebank.duckdns.org
 chassecure.hopto.org
 chassesupport.ddns.net
-chasteworld.com
-chat-gpt-5.ai
-chat-gpt-ai-pc.info
-chat-gpt-for-windows.com
-chat-gpt-online-pc.com
