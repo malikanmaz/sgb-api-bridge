@@ -29112,6 +29112,7 @@ isbak-yeniyil-kampanyalari-ozel.ml
 isbak-yilbasi-ozel-900tl-basvur-online.ml
 isbak-yilbasi-ozel-900tl-basvur-online.yeniyilsuprizkampanya-ozel.tk
 isbak.bireye-ozel-basvur-destek-kampanya.xyz
+isbak.online
 isbakasi.online
 isbakbasvrun.site
 isbake.online
@@ -60141,6 +60142,7 @@ kurumsalyumx.cfd
 kurumsatr.com.tr
 kurumsicil.org
 kurumsorgu.org
+kurumsorgulama.org
 kurumtrafikvergi.agency
 kurumxdao.cfd
 kurunsalfiba.cfd
@@ -99996,5 +99998,3 @@ obilok.xyz
 obimcell.net
 obimcelli.com
 obinance.exchange
-obinwa.ddns.net
-obiqwmdjs.com
