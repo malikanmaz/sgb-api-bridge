@@ -5768,6 +5768,7 @@
 182-net.com
 182-nett.com
 182-onlines.biz
+182-onlines.help
 182-web.sbs
 182-web.xyz
 182-webb.sbs
@@ -85737,6 +85738,7 @@ bot-trading.fr
 bot.156253-gemini.com
 bot.conectsul.com.br
 bot.ddosvps.cc
+bot.evsahibibasvuru.com
 bot.freemaple.net
 bot.layer7.top
 bot.merisprivate.net
@@ -99996,5 +99998,3 @@ chat-whatsappp.ddns.net
 chat.bntrxrp-basvuru.com
 chat.matchnewtoday.com
 chat.turkcellpasajsanalmagaza.com
-chat912.ddns.net
-chata2go.com.mx
