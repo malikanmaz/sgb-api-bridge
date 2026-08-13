@@ -13615,6 +13615,7 @@
 412221222145558999892.duckdns.org
 412221222145558999893.duckdns.org
 412221222145558999894.duckdns.org
+412221222145558999896.duckdns.org
 4122322.com
 41239521838512.cloud
 41241231548123124.online
@@ -48744,6 +48745,7 @@ araba-cekilisi-paribu.com
 araba-cekilisi-paribu.ezgateway.net
 araba-cekilisi-paribu.mywire.org
 araba-cekilisi.com
+araba-cekilisi.live
 araba-cekilisii.com
 araba-cekilisim.com
 araba-cekilisim.info
@@ -87277,6 +87279,7 @@ browserupdate.download
 browsr.nl
 browsses.com
 browzerexttention.com
+broxent.com
 brproxy.868id.com
 brqo0j.duckdns.org
 brqolmlzvt.duckdns.org
@@ -99995,6 +99998,3 @@ chat-gpt-for-windows.com
 chat-gpt-online-pc.com
 chat-gpt-pc.online
 chat-online.ml
-chat-whatsapp-andres-calamaro.duckdns.org
-chat-whatsapp-grup.duckdns.org
-chat-whatsapp8jhvztulp7ajofk9jua3jvgx3.duckdns.org
