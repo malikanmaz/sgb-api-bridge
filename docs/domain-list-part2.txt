@@ -1,3 +1,5 @@
+chasoc.quest
+chasonlinelogon.ddns.net
 chasse.hopto.org
 chassebank.duckdns.org
 chassecure.hopto.org
@@ -60643,6 +60645,7 @@ faturakdviadesi.net
 faturakdviadetalebi.com
 faturakdvleri-iade.com
 faturakesintiiadeleri.com
+faturakom-faskero.it.com
 faturalar-kdviade.com
 faturalarbimcelll.com
 faturalarda-kdviade.com
@@ -99995,6 +99998,3 @@ hediyevakifbireysel.gq
 hediyevakifgirisislemleri.cf
 hediyevakifgirisislemleri.ga
 hediyevakifgirisislemleri.ml
-hediyevakifgirisislemleri.tk
-hediyevaktiparibu.xyz
-hediyeverisi-trx.com
