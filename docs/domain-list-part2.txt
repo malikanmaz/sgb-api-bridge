@@ -1,3 +1,4 @@
+chaseverifyservice.hopto.org
 chasewebauthdn04.ddns.net
 chasexo.duckdns.org
 chasiinow.hopto.org
@@ -71703,6 +71704,7 @@ galuthabbey.sbs
 galxnetb.today
 galynuh.com
 gamaekb-pttavm.is-best.net
+gamaforge.com
 gamberys.site
 gambogic.com
 gamcji.duckdns.org
@@ -99996,5 +99998,3 @@ hediyesubem.com
 hediyesubesiacikdenizv2denizbankgiris.co.vu
 hediyetelekom.site
 hediyethesendgond.net
-hediyetoggbasvurunuyaptamamlaodulal.cloud
-hediyetoken.com

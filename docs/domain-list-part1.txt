@@ -24423,6 +24423,7 @@ a101aktuelcebimde.com
 a101aktuelcep.com
 a101aktuelcuma.online
 a101aktuelfirsatlar.online
+a101aktuelfiyatlari.com
 a101aktuelimcepte.com
 a101aktuelindirimgeceleri.com.tr
 a101aktuelindirimler.online
@@ -99997,4 +99998,3 @@ chaseverification02.hopto.org
 chaseverified.hopto.org
 chaseverify.hopto.org
 chaseverify.zapto.org
-chaseverifyservice.hopto.org
