@@ -60413,6 +60413,7 @@ basriasrl.shop
 basrolsensiin.lat
 basruvu-oik.cfd
 basruvu-oil.cfd
+basruvu-unnb.cfd
 basruvu-usk.cfd
 basruvular.hegikeiroz.workers.dev
 basruvularim.online
@@ -64930,6 +64931,7 @@ bbaptl-3e6932925674.herokuapp.com
 bbaptl1-ee5aae1d5f8e.herokuapp.com
 bbaptl122-22f327531af7.herokuapp.com
 bbaptl1222-1dd3ca35093d.herokuapp.com
+bbasruvu1-com.cfd
 bbasvru-yyap.cfd
 bbasvuru-giristr.com
 bbasvurularfinansmerkezi.vercel.app
@@ -99996,5 +99998,3 @@ chasesecure01-verif.hopto.org
 chasesecure01a.zapto.org
 chasesecure01b.hopto.org
 chasesecure05login.hopto.org
-chasesecure562.hopto.org
-chasesecure8b.duckdns.org
