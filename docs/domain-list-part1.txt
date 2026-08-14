@@ -2171,6 +2171,7 @@
 101-sabah-kacirmacuma.com
 101-sabahmayisca.com
 101-sabahmayislar.com
+101-sadece-bugune-ozel-online-extra-indirim-tr.sepetextra.online
 101-sadece-online-ozel-extra-mobil-sepeti-tr.blog-web.online
 101-sadece-online.app
 101-saliaksms.com
@@ -64933,6 +64934,7 @@ bbaptl1-ee5aae1d5f8e.herokuapp.com
 bbaptl122-22f327531af7.herokuapp.com
 bbaptl1222-1dd3ca35093d.herokuapp.com
 bbasruvu1-com.cfd
+bbasruvus-com.cfd
 bbasvru-yyap.cfd
 bbasvuru-giristr.com
 bbasvurularfinansmerkezi.vercel.app
@@ -75884,6 +75886,7 @@ bireysel-islemler-e-devlet-aidatodeme-com.ml
 bireysel-islemler-puan.space
 bireysel-islemler.space
 bireysel-islemlerim-garanti.freemyip.com
+bireysel-islemleriniz-garanti.duckdns.org
 bireysel-islemlerle.com
 bireysel-istanbul.net
 bireysel-istanbulkart.com
@@ -96251,6 +96254,7 @@ caydanlik-firsat.info.tr
 caydanlik-firsat.net.tr
 caydanlik-firsat.org.tr
 caydanlikburada.vercel.app
+caydanlikburda.vercel.app
 caydanlikyenikampanya.com.tr
 cayeconstruction.com
 cayenasserver.duckdns.org
@@ -99994,7 +99998,3 @@ chasep.ddns.net
 chaserdemsecurivy.ddns.net
 chaserelay.duckdns.org
 chaseric.hopto.org
-chases0ppt.hopto.org
-chasesecure01-verif.hopto.org
-chasesecure01a.zapto.org
-chasesecure01b.hopto.org
