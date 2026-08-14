@@ -5768,6 +5768,7 @@
 182-net.com
 182-nett.com
 182-onlines.biz
+182-onlines.cfd
 182-onlines.help
 182-web.sbs
 182-web.xyz
@@ -45259,6 +45260,7 @@ amplificationrefute.top
 amplifyadorable.top
 amplifyallotment.top
 amplifydebris.top
+amplifyko.com
 amplifyspectacular.top
 ampsenergia.org
 ampsqhrras.com
@@ -55533,6 +55535,7 @@ avrupadestekfonlari.org
 avrupadestekfonu.org
 avrupadestekleri.com
 avrupadesteklerim.com
+avrupadiyalog.net
 avrupafonudestek.org
 avrupagocmen.com
 avrupagoz.online
@@ -84724,6 +84727,7 @@ bonurcell.tk
 bonus-anket-parapuan.com
 bonus-binance.link
 bonus-bireyselmusteri-esube-firsat-kampanyasi.space
+bonus-btcreferans.com
 bonus-click.xyz
 bonus-denizbank-tr.com
 bonus-denizdea-2020.com
@@ -99994,7 +99998,3 @@ chasetechnical.ddns.net
 chasetime.top
 chaseupdated-auth.hopto.org
 chaseuseralrt.ddns.net
-chaseverification02.hopto.org
-chaseverified.hopto.org
-chaseverify.hopto.org
-chaseverify.zapto.org
