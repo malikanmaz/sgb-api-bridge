@@ -37844,6 +37844,7 @@ akbank.cepte-kredin.com
 akbank.club
 akbank.co.uk
 akbank.com.de
+akbank.com.ph
 akbank.com.sayfam.me
 akbank.com.sayfam.top
 akbank.data-tr.com
@@ -98274,6 +98275,7 @@ cepte-isbank.com
 cepte-isbankasi-bireysel.cf
 cepte-isbankasii.com
 cepte-islemler-giris-web.life
+cepte-islemleriniz-garanti.duckdns.org
 cepte-kacmaz.biz.tr
 cepte-kacmaz.net.tr
 cepte-kacmaz.org.tr
@@ -153195,6 +153197,7 @@ erkengelenyilbasisurprizleri2019.net
 erkengelenyilbasisurprizleri2019.org
 erkengeleralirfirsatlari.online
 erkenmartflrsatlariyla.com
+erkenmobilhizli.site
 erkenrandevuler.com
 erkenrezervasyonyapinizbize.net
 erkenyilbasikatilimkazanckampanyasifirsatindasimdi.cloud
@@ -255304,6 +255307,7 @@ kmpnyabasvursssprmsynn.pro
 kmpnyabnctrgiris.online
 kmpnyabsladibtctrkdagtyr.com
 kmpnyabsvbrrprmsynn147852.online
+kmpnyabsvbrrprmsynn147852.pro
 kmpnyabsvrgrntt.info
 kmpnyabsvronline.click
 kmpnyacklsbsvru.info
@@ -397310,6 +397314,7 @@ toplukopuvsqa.vercel.app
 toplukoruxrit.vercel.app
 toplukosunijc.vercel.app
 toplulasim.tk
+topluluk-t.garden
 toplulukdestekekibi.org
 toplulukdestekmerkezi.com
 toplulukdestekmerkezim-com.tk

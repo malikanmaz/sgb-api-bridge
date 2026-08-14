@@ -37844,6 +37844,7 @@ akbank.cepte-kredin.com
 akbank.club
 akbank.co.uk
 akbank.com.de
+akbank.com.ph
 akbank.com.sayfam.me
 akbank.com.sayfam.top
 akbank.data-tr.com
@@ -98274,6 +98275,7 @@ cepte-isbank.com
 cepte-isbankasi-bireysel.cf
 cepte-isbankasii.com
 cepte-islemler-giris-web.life
+cepte-islemleriniz-garanti.duckdns.org
 cepte-kacmaz.biz.tr
 cepte-kacmaz.net.tr
 cepte-kacmaz.org.tr
@@ -99996,5 +99998,3 @@ chaseonlinesupport.zapto.org
 chaseonlineweb.ddns.net
 chasep.ddns.net
 chaserdemsecurivy.ddns.net
-chaserelay.duckdns.org
-chaseric.hopto.org
