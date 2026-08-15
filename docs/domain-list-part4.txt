@@ -31082,6 +31082,7 @@ pttavmkmportal.web.app
 pttavmkmraporlama.com
 pttavmkmsorguladim.web.app
 pttavmkmsorgulama.com
+pttavmkmsorgum.com
 pttavmkmsorgumerkezi.web.app
 pttavmkolay.com
 pttavmkolayalisveris.com
@@ -99997,4 +99998,3 @@ tracershield.ca
 tracestory.top
 trachyline.one
 trachyphonous.com
-tracikdeniz-denizakademi.com
