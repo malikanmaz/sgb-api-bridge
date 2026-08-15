@@ -1,3 +1,5 @@
+chaseonlinesupport.zapto.org
+chaseonlineweb.ddns.net
 chasep.ddns.net
 chaserdemsecurivy.ddns.net
 chaserelay.duckdns.org
@@ -73331,6 +73333,7 @@ garantibbva-basvuru-kredionline.duckdns.org
 garantibbva-basvuru-online-kredi.duckdns.org
 garantibbva-basvuru-online-krediler.duckdns.org
 garantibbva-basvuru-onlinekredi.duckdns.org
+garantibbva-bell.com.ph
 garantibbva-bireyselhizmetim.com
 garantibbva-bonus250tl-com-tr.tk
 garantibbva-bonusiadesistemi.com
@@ -95239,6 +95242,7 @@ halklbanlk.com
 halklikazaniyor.com
 halklikazaniyor.org
 halklilarkazaniyor.com
+halklimit.homes
 halklimit.lat
 halklimit.my
 halklimit.online
@@ -99994,7 +99998,3 @@ hediyegapsinternet.com
 hediyegaranti.com
 hediyegarantili.com
 hediyegb-qnbfinansbank.com
-hediyegb-teb.com
-hediyegb-vakifbank.com
-hediyegb-yapikredi.com
-hediyegb.xyz
