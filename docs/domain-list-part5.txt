@@ -1,3 +1,13 @@
+tr156polis155.online
+tr16-guncelsikaytler.sbs
+tr17-guncelsikaytler.sbs
+tr18-guncelsikaytler.sbs
+tr19-guncelsikaytler.com
+tr1919010912090910.cloud
+tr1carkestr1sp.cloud
+tr1familia.biz.tr
+tr1familia.net.tr
+tr1familia.org.tr
 tr1ffy.ddns.net
 tr1sok.org.tr
 tr2-guncelsikaytler.com
@@ -57725,6 +57735,7 @@ yonlendir-aktarma-sistem.cyou
 yonlendir-denizcekilisim-2022.com
 yonlendir-g.my-homeip.de
 yonlendir-reklam.com
+yonlendir-secur-gr.my-homeip.de
 yonlendir-sifre-guncel.ink
 yonlendir.click
 yonlendir.dynamic-dns.net
