@@ -45036,6 +45036,7 @@ efsane-kasim.sbs
 efsane-kasimfirsatlari-basladi.shop
 efsane-kasimfirsatlaribasladi.shop
 efsane-kasimgeldi.shop
+efsane-lndirim-havasi-kapinda.com
 efsane-saat-ler-basladi.shop
 efsane-saatler-basladi.shop
 efsane-yeni-yil-firsatlari.shop
@@ -99997,4 +99998,3 @@ hediyedestekhizmetleri.xyz
 hediyedigitalkampanyadabugun.online
 hediyedogebasvuruprb-teknoloji-tr.tk
 hediyedogebasvuruprb-teknoloji-tr1.tk
-hediyedolumdevlett.xyz
