@@ -27328,6 +27328,7 @@ diploma.legal
 diploma360.live
 diplomaal.com
 diplomaal.online
+diplomaal.web.app
 diplomabasvuru.com
 diplomabul.com
 diplomaci.com
@@ -95319,6 +95320,7 @@ halklimit.lat
 halklimit.lol
 halklimit.my
 halklimit.online
+halklimitim.online
 halklimitim.xyz
 halklimizinbankasiyizhalkbankasi.com
 halkliyilbasinda.org
@@ -99996,5 +99998,3 @@ hediyebonus.online
 hediyebonusdunyasibu.link
 hediyebonusdunyasibu.online
 hediyebonuslar.online
-hediyebonuslari.link
-hediyebonuslaribinansbasvurusu.online
