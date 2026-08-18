@@ -1,3 +1,21 @@
+tr-web-giris-pages.org
+tr-web-hizmet.net
+tr-web-iade-erisim.net
+tr-web-iade-erisim.org
+tr-web-iade.net
+tr-web-iade.org
+tr-web-online-iade-erisim.org
+tr-web-pandemitr-giris.net
+tr-web-portal.online
+tr-web-sayfamiz-e-ticaret-bak.net
+tr-web-yapikredi-online.com
+tr-web-yillik-iade-erisim.net
+tr-webbing-say.click
+tr-webbing.sa.com
+tr-webden-online-erisim.net
+tr-webnb.cloud
+tr-website.online
+tr-website.site
 tr-webyapikrediiade.com
 tr-word-400tl-3sn.com
 tr-wvw-cimer.com
@@ -11379,6 +11397,7 @@ u62010142.ct.sendgrid.net
 u63r7o.duckdns.org
 u648984.softaculous.dev
 u649198.softaculous.dev
+u649786.softaculous.dev
 u65q96jp2.duckdns.org
 u6budf18dc4lotvampo1sym1sm.com
 u6e8a2e0cf3rqx1.ddns.net
@@ -54487,6 +54506,7 @@ yenilenensubevakif.ga
 yenilenensubevakif.gq
 yenilenensubevakif.ml
 yenilenensubevakif.tk
+yenilenenteklifzinciri.abrdns.com
 yenilenenuygulama.tk
 yenilenenvakifsube.co.vu
 yenilenenvakiifsube.co.vu
