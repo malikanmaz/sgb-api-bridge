@@ -88551,6 +88551,7 @@ bteundvk.info
 btexen-surprizleri.ga
 btexencekilisleri.cf
 btexendestektr.com
+btf-adalet-bakanligi.pages.dev
 btf6bvmi.duckdns.org
 btflxmarka.net
 btfxmedusa.net
@@ -97126,6 +97127,7 @@ cebteteb-tr-mobil-puan.com
 cebteteb.com
 cebteteb.my-homeip.de
 cebteteb.my-homeip.net
+cebteteb.myonlineportal.de
 cebtetebonline.com
 cebtetebonusu.com
 cebtetebsube.online
@@ -99333,6 +99335,7 @@ cezadavadosyalarim.com
 cezadavalarin.com
 cezadavalariniz.com
 cezadavam.com
+cezadavasorgu.org
 cezadenetimbirim.online
 cezadosya.net
 cezadosya.org
@@ -99995,6 +99998,3 @@ chase05verify.ddns.net
 chase08online.duckdns.org
 chase09verify.hopto.org
 chase0line1.ddns.net
-chase0nlinebnk.duckdns.org
-chase11.com
-chase1banik.ddns.net
