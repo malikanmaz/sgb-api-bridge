@@ -85072,6 +85072,7 @@ gratis-tr.craftyhour.com
 gratis-tr.ddnsfree.com
 gratis-tr.dynuddns.com
 gratis-tr.empordafibra.com
+gratis-tr.obliqueprism.com
 gratis-tr.optosupply.com
 gratis-tr.wikaba.com
 gratis-turk.duckdns.org
@@ -99997,4 +99998,3 @@ hediye-bayramcekilisonaysube.com
 hediye-bireysel-kampanya-esube-tr.club
 hediye-bireysel-kampanya-esube-tr.space
 hediye-bizden.com
-hediye-bonuspuan-bireyselmusteri-kampanya-tr.club
