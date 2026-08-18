@@ -1,3 +1,11 @@
+tr-tccbm-176tr.b-cdn.net
+tr-tccbm-198tr.b-cdn.net
+tr-tccbm-202tr.b-cdn.net
+tr-tccbm-207tr.b-cdn.net
+tr-tccbm-212tr.b-cdn.net
+tr-tccbm-275tr.b-cdn.net
+tr-tccbm-317tr.b-cdn.net
+tr-tccbm-433tr.b-cdn.net
 tr-tebbankasi.com
 tr-tebs.com
 tr-tekcekim.com
