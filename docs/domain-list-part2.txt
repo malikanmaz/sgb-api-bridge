@@ -1,3 +1,6 @@
+chase-support.hopto.org
+chase-userdb.hopto.org
+chase-validate.ddns.net
 chase05verify.ddns.net
 chase08online.duckdns.org
 chase09verify.hopto.org
@@ -99995,6 +99998,3 @@ hediye2023gb.cf
 hediye20bayramfirsati.com
 hediye20gb-internet-com.cf
 hediye20gb-kampanya.com
-hediye20gb.epizy.com
-hediye20gb.net
-hediye20gb.online
