@@ -1,3 +1,12 @@
+tr-sokarca.shop
+tr-sokmarket.com.tr
+tr-sokmarket.net.tr
+tr-sokmarket.org.tr
+tr-sokraca.shop
+tr-son-haberler.org
+tr-sonfirsaturunu.org
+tr-songuncelhaber.com
+tr-sonhaberler.com
 tr-sorgu.site
 tr-sorguekrani.online
 tr-sorgula.com
@@ -7837,6 +7846,7 @@ turkish-citizenship-database.blogspot.com
 turkish-finance.com
 turkish-flight-anniversary.com
 turkish-petrol.space
+turkish-petroleum.sbs
 turkish-sale.space
 turkish2023petrolbravelap.com
 turkish2210.com
@@ -8407,6 +8417,7 @@ turkiye-pandemidestek.com
 turkiye-pandemiyardimal.com
 turkiye-papara.com
 turkiye-paribu.com
+turkiye-petrolleri-hisseleri.com
 turkiye-petrolleri-platform.com
 turkiye-petrolleri.com
 turkiye-petrolleri.pages.dev
@@ -9229,6 +9240,8 @@ turkiyepetroleri.com
 turkiyepetrolleri-system.com
 turkiyepetrolleri-yatirim.com
 turkiyepetrolleri.info
+turkiyepetrolleri.pro
+turkiyepetrolleri.shop
 turkiyepetrolleriin.com
 turkiyeprojeleri2025.cfd
 turkiyeprojeleri2025.online
