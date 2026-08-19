@@ -4598,6 +4598,7 @@ hgs-tr.xyz
 hgs-turkiye.net
 hgs-turkiye.org
 hgs-ukleme.xyz
+hgs-v575.vercel.app
 hgs-varilik.com
 hgs-vezneleri1.com
 hgs-veznesi.ml
@@ -99997,4 +99998,3 @@ nvvvvviigovv.net
 nvvvvvirrredd.net
 nvvvyprd.net
 nvvvyprp.net
-nvvvyy-p.net
