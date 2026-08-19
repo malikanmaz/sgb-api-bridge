@@ -20807,6 +20807,7 @@ ilan-odemesi-778669.com
 ilan-onay-bilgi.online
 ilan-onay.com.tr
 ilan-onay.online
+ilan-onayla.online
 ilan-online.net
 ilan-ozel.com
 ilan-ozelsepetim.com
@@ -21138,6 +21139,7 @@ ilanvar-tr.com
 ilave-promosyn-kampanyamiz.net
 ilave-promosyn-kampanyamiz.org
 ilavedestekler-edevlet.epizy.com
+ilaynaturizm.com
 ilbahar-firsatlari-tr.ga
 ilbahar-firsatlari-tr.ml
 ilbahar-firsatlari-tr.tk
@@ -28046,6 +28048,7 @@ intrekatifvergindairesi.net
 intrekatifvergindaresi.net
 intrenet-basvur.click
 intrenet-basvur.info
+intrenet-basvurulari4.click
 intrenet-basvurulari5.click
 intrenet-basvurum.click
 intrenet-bsvr.click
@@ -77748,6 +77751,7 @@ merkezcicekevi.com
 merkezcicekevi.info
 merkezcimeri.com
 merkezdekayit.abrdns.com
+merkezdenguncel.abrdns.com
 merkezdernegi.com
 merkezdernegi.net
 merkezdesteksistemi.online
@@ -99994,7 +99998,3 @@ nvv-grpx.net
 nvv-oft.net
 nvv-yyyi.net
 nvv2asmuayene.net
-nvv2muayewne.net
-nvv3drrndvvmm.net
-nvvadrandeevvu.com
-nvvasdaradasdnvuu.com
