@@ -11406,6 +11406,7 @@ csfkrafeajio.duckdns.org
 csfmbnvhdg.site
 csfwfoxoffteam.zapto.org
 csgb-gob.tr
+csgb-gov-ct.com
 csgb-gov-tr.app
 csgb-gov-tr.com
 csgbgovtr.me
@@ -35028,6 +35029,7 @@ e-devlet-islemlerii.org
 e-devlet-islemlerim-uygulamalargovtr.com
 e-devlet-islemtr.com
 e-devlet-islemyap.com
+e-devlet-kap-s.vercel.app
 e-devlet-kapanma-sonrasi-pandemi-destek.testo.gq
 e-devlet-kapimiz-gov-tr.com
 e-devlet-kapisi-iadebasvuru.com
@@ -54791,6 +54793,7 @@ etbcmuygulamasi.com
 etbis.org.tr
 etbisgovtr.services
 etbmmaidatbasvurugovtr.tk
+etc-a67i.vercel.app
 etc-meisal.duckdns.org
 etc-pmtajing.hopto.org
 etc-tollad.xin
@@ -99995,6 +99998,3 @@ hediye-20gb-1000dk-katilimlari-aktivasyon-tanimlama.tk
 hediye-20gb-bayram.info
 hediye-20gb.cf
 hediye-20gbhayatevesigar.com
-hediye-acikbonusv2denizbank.com
-hediye-acikdenizbasvuru-onay.com
-hediye-acikdenizv2denizbank-2023.com
