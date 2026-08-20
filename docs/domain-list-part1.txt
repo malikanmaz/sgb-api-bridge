@@ -686,6 +686,7 @@
 0654961636.cloud
 0663725.win
 0666525660216.duckdns.org
+0668xh.com
 0675393840271107.cloud
 067usaa.duckdns.org
 068lvkfa.duckdns.org
@@ -16967,6 +16968,7 @@
 61322122214545578899893.duckdns.org
 61322122214545578899894.duckdns.org
 61322122214545578899895.duckdns.org
+61322122214545578899896.duckdns.org
 613236203.dfgqdsd.ru
 6134728541296136547110.duckdns.org
 6134728541296136547120.duckdns.org
@@ -49133,6 +49135,7 @@ aracbakim-bayisi.com
 aracbakimhizmeti.blogspot.com
 aracbakimhizmetin.blogspot.com
 aracbakimistasyon.blogspot.com
+aracbakimlarin.blogspot.com
 aracbakimrapor-bayi.com
 aracbakiyeyukle.world
 aracbakiyeyukle.xyz
@@ -87020,6 +87023,7 @@ briefingparadigm.top
 briefingpreside.top
 briefingrepress.top
 brieflance.media
+brieflio.info
 brieflume.com
 briefom.com
 briefonx.com
@@ -99994,7 +99998,3 @@ chargebass.top
 chargebleach.top
 chargefix2v.otompay.com
 chargelizard.top
-chargenbatteries.com
-chargeprobably.net
-chargesguestescenter.com
-chargewebpersoinc.ddns.net
