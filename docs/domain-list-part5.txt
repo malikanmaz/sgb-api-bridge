@@ -1,3 +1,8 @@
+tr-placeanorder.sbs
+tr-platform.com.tr
+tr-pococo.com
+tr-polis-155tr.online
+tr-polisi.online
 tr-porland.cfd
 tr-porland.shop
 tr-portal-herkezi-ilgilendiren.com
@@ -59262,6 +59267,7 @@ yukariga.top
 yukbibbisa.duckdns.org
 yukelmegecis.co
 yukeshapi.neocities.org
+yukifabrika.com
 yukifabrikasatis.com
 yukimator1.space
 yukj-e.blogspot.com
