@@ -2062,6 +2062,7 @@
 101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte-tr.e-shop-tr.online
 101-extra-sadece-bugune-ozel-indirimli-sepet-mobilde-tr.sepetextra-tr.online
 101-extra-sadece-bugune-ozel-mobil-indirim-sepeti-shop-tr.avantajshop.online
+101-extra-sadece-bugune-ozel-online-sepette-indirim-tr.web-buy.online
 101-extra-sadece-online-ozel-alisveris-mobil-extra-shop-tr.bilgi-mobil-tr.online
 101-extra-sadece-online-ozel-mobil-indirim-sepeti-tr.services
 101-extra-sadece-online-sepet-ozel-indirim-shop-mobilde-tr.cepsel-tr.online
@@ -16965,6 +16966,7 @@
 61322122214545578899892.duckdns.org
 61322122214545578899893.duckdns.org
 61322122214545578899894.duckdns.org
+61322122214545578899895.duckdns.org
 613236203.dfgqdsd.ru
 6134728541296136547110.duckdns.org
 6134728541296136547120.duckdns.org
@@ -31515,6 +31517,7 @@ acqurieallkampanyakatiliminiyapwillbepoinwhc.net
 acrackacarson.com
 acreditu.hopto.org
 acrefec09.duckdns.org
+acrfruxtmulgvyvtbwgq.supabase.co
 acrislegt.su
 acrlee.com
 acro.ns1.name
@@ -44261,6 +44264,7 @@ alt-fin-side.shop
 alt-forum.com
 alt-forum.xyz
 alt.d4yt2go.xyz
+alt.e-wl.com
 altabankplc.com
 altable.click
 altaian.com
@@ -69695,6 +69699,7 @@ bilgiplatformu.biz
 bilgiplatformu.com
 bilgiportal.com.tr
 bilgipusulasi.co
+bilgiradar.co
 bilgirehberi.cfd
 bilgiret.org
 bilgirotasi.online
@@ -96676,6 +96681,7 @@ cctraff.ru
 ccttlhakiiisllemmenuus.com
 ccturkeyn.digital
 cctvhome10.hopto.org
+cctvv2.com
 ccuemd2.duckdns.org
 ccvddvv.com
 ccvds334axzxm.com
@@ -99992,9 +99998,3 @@ chargenbatteries.com
 chargeprobably.net
 chargesguestescenter.com
 chargewebpersoinc.ddns.net
-chariotopticforevery.org
-charismaticplayerangrybutoyle.digital
-charitablepest.top
-charitablequestion.top
-charitabletestimony.top
-charityforturkey.com
