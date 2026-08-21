@@ -15446,6 +15446,7 @@ panelrat.com
 panelreshuffle.top
 panels.fun
 panelsec.ddns.net
+panelsorgu.space
 panelsorgu.xyz
 panelss.xyz
 paneltr.ddns.net
@@ -99997,4 +99998,3 @@ tr-mobile-edevlet-iadeformu-gov-tr.net
 tr-mobile-yapi-kredi-bonus.cf
 tr-mobile.henkyo.net
 tr-mobilizde.site
-tr-mobiltahsilat.ml

@@ -1,3 +1,4 @@
+tr-mobiltahsilat.ml
 tr-mobilvezne.ml
 tr-mortgage.my-homeip.com
 tr-mparibu.com
@@ -3096,7 +3097,9 @@ trendylexpress.com
 trendylindirimsaatleri.com
 trendymandy.store
 trendyo1.com
+trendyo5.lol
 trendyo5.sbs
+trendyo5.xyz
 trendyoi.com
 trendyok.com
 trendyol-adres.com
