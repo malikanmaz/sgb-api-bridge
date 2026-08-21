@@ -13700,6 +13700,7 @@
 41i9a.edata01.com
 41iade-hizmetleri.com
 41j8eb.duckdns.org
+41m4at124bsbs.com
 41mmp.xyz
 41nhy857h.duckdns.org
 41qguryz.duckdns.org
@@ -28231,6 +28232,7 @@ acik-deniz.com
 acik-deniz.denizbankagiris.com
 acik-deniz.denizramazaningunleri.com.tr
 acik-deniz.lequiva.com
+acik-deniz.my-homeip.de
 acik-denizbank-bireysel.com
 acik-denizbank-cepsubez.com
 acik-denizbank-giris-yap.kampanaya-aktif-hizmetler-s.com
@@ -51204,6 +51206,7 @@ ars-basvuru-iadeformu-edevlet.com
 arsabasvurutalep.net
 arsakonutbasvurusartlarimiz.net
 arsatakpleri.com
+arsbeyzfstt.com
 arscmmuaynm.net
 arscmuaynm.net
 arscmuaynnm.net
@@ -99995,6 +99998,3 @@ characterright.net
 chardylxl.net
 charecteristicdxp.shop
 chareo25252.com
-charge0x.at
-charge731.com
-charge731.icu
