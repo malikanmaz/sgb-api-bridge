@@ -98431,6 +98431,7 @@ cepte-isbank.com
 cepte-isbankasi-bireysel.cf
 cepte-isbankasii.com
 cepte-islemler-giris-web.life
+cepte-islemleriminz-garanti.duckdns.org
 cepte-islemleriniz-garanti.duckdns.org
 cepte-kacmaz.biz.tr
 cepte-kacmaz.net.tr
@@ -99997,4 +99998,3 @@ chareo25252.com
 charge0x.at
 charge731.com
 charge731.icu
-charge87331.icu
