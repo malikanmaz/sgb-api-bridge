@@ -1,3 +1,18 @@
+tr-links.online
+tr-links.site
+tr-linkurun.online
+tr-lng.com
+tr-lock-docs-build.net
+tr-login-grup.digital
+tr-login-yapi.glitch.me
+tr-m-e-devlet-aidat-cep-iadeler.com
+tr-m-e-devlet-aidatlar-ve-iade.cf
+tr-m-e-devlet-subesi-iade-aidat.com
+tr-magaza-firsat.biz.tr
+tr-magaza-firsat.com.tr
+tr-magaza-firsat.info.tr
+tr-magaza-firsat.net.tr
+tr-magaza.repl.co
 tr-magazamdysonbayi.com
 tr-magza.com.tr
 tr-manage.site
@@ -40195,6 +40210,7 @@ www-teb-com-tr-basvuru-emekli-promosyon.my-homeip.de
 www-teb-com-tr-basvuru-iade.my-homeip.de
 www-teb-com-tr-basvuru-islemler.my-homeip.de
 www-teb-com-tr-basvuru-yap.my-homeip.de
+www-teb-com-tr-emekli-basvuru.my-homeip.de
 www-teb-com-tr-emekli-promosyon.my-homeip.de
 www-teb-com-tr-emekli.my-homeip.de
 www-teb-com-tr-promosyon-emekli.my-homeip.de
