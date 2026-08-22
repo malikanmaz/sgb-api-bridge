@@ -1,3 +1,8 @@
+healthbodymonitoring.azurewebsites.net
+healthboxexample.com
+healthcaption.com
+healthcare-azureapi.azurewebsites.net
+healthcarefluent.com
 healthcheckcanadzurimcdaniels.lookwhoscookingtv.com
 healthclubfun.com
 healthcrescent.com
@@ -94738,6 +94743,7 @@ newsforgoodlife.com
 newsfusioner.com
 newsgardensnde.duckdns.org
 newsgiant.top
+newsglaedneds.duckdns.org
 newsgleam.online
 newsgnomed.ml
 newsgradelerdsew.duckdns.org
@@ -99992,9 +99998,3 @@ nvlvnslvmrnd.blogspot.com
 nvlvrandvvvu.net
 nvlvymcarsxn.com
 nvlxalsksamas.blogspot.com
-nvlxdsx.net
-nvlxrsax.blogspot.com
-nvlxxxrndvxonxline.net
-nvlxzcmrndvm.net
-nvlymylymxl.net
-nvlyrtam.com
