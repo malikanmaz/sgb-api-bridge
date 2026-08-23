@@ -27053,6 +27053,7 @@ dijitalservis-online.com
 dijitalservisler-burada.com
 dijitalsezon-denizacik.com
 dijitalsifresiz.net
+dijitalsimdi-kapinda.sbs
 dijitalsiparis-kampanyalar.sbs
 dijitalsiparis-kapinda.sbs
 dijitalsiparisler-kapinda.sbs
@@ -99997,4 +99998,3 @@ headlinecorehub.com
 headlinecurrent.com
 headlineforge.online
 headlineforge.world
-headlinefusion.world
