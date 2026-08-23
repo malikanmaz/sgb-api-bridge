@@ -1,3 +1,14 @@
+tr-hizmetler-yonetimi.com
+tr-hizmetler.com.tr
+tr-hizmetlerim-kontrol.org
+tr-hmenkrmsalprtal.com
+tr-host.xyz
+tr-hzmetcmhrprtal.com
+tr-i.info
+tr-iade-cimer.com
+tr-iade-edevletim-gov-tr.com
+tr-iade-gov-tr.com
+tr-iade-yukle.com
 tr-iade.online
 tr-iadegiriskapisi.com
 tr-iadeler-e-devlet-com-tr.com
@@ -13641,6 +13652,7 @@ um95mcj.cn
 umailmuzo35alhedmibiz1.life
 umanakumanahokhok.host
 umare.zyns.com
+umarotoklimatamir.duckdns.org
 umarotosanayisitesiklima.duckdns.org
 umbihh.duckdns.org
 umbraciousness.com
