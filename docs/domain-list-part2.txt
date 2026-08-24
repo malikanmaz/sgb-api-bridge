@@ -1,3 +1,4 @@
+changequestiontypesapi.azurewebsites.net
 changergenerasg.ddns.net
 changes-hl.at.ply.gg
 changeshipae.icu
@@ -59061,6 +59062,7 @@ eylulflrsatlaryildizi.com
 eylulflrsattlar.me
 eylulflrsattlarr.com
 eylulformonay.org
+eylulgunsonlari.duckdns.org
 eylulhediyekampanyasi.com
 eylulhediyen.cfd
 eyluliadeler-sekmesi.xyz
@@ -99996,5 +99998,3 @@ hea1o1.com
 heaao5j.duckdns.org
 heaccountabilitycollective.com
 head-dumans.tech
-headachewicked.top
-headart.pl
