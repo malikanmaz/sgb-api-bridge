@@ -1,3 +1,6 @@
+changepassword-service.42web.io
+changepassword-yahoo-com.42web.io
+changepassword-yahoo.42web.io
 changepassword-yahoo.rf.gd
 changepassword.42web.io
 changepassword.giize.com
@@ -26272,12 +26275,14 @@ dijital-mobilvakif.ml
 dijital-mobilvakif.tk
 dijital-online.website
 dijital-onlinehizlisiparis.sbs
+dijital-onlinesiparis.sbs
 dijital-paribu.cf
 dijital-paribu.ga
 dijital-passwordentrypersonal.click
 dijital-passwordentrypersonal.za.com
 dijital-servisler.sbs
 dijital-simdikapinda.sbs
+dijital-sipariskapinda.sbs
 dijital-sitem.online
 dijital-sube-girisiniz.xyz
 dijital-sube.dev
@@ -26290,6 +26295,7 @@ dijital-subesizgiris.net
 dijital-subesizkatilm.net
 dijital-superkampanya.tk
 dijital-tpao.com
+dijital-urunkapinda.sbs
 dijital-vakif-islemlerii.xyz
 dijital-vakif-islemlerim.online
 dijital-vakif-islemlerim.tech
@@ -32898,6 +32904,7 @@ duums.xyz
 duv-cen.xyz
 duv28wps.duckdns.org
 duvalitatli.com
+duvarfln.click
 duvarprojem.com.tr.ht
 duveliy.com
 duverta.pro
@@ -58998,6 +59005,7 @@ eylulayisuperindirim.xyz
 eylulayiyagmur.online
 eylulayiyagmur.xyz
 eylulaylaribitmesinn.online
+eylulbasiguzeldr.duckdns.org
 eylulbasvru.org
 eylulbasvurubancekampanyasi.space
 eylulbasvurufirsatibance.space
@@ -99990,11 +99998,3 @@ hdyhlfjrsl.duckdns.org
 hdyonlumicroems.com
 hdysmn.top
 hdyzml.top
-hdzomiedcr.duckdns.org
-hdzvtheawv.duckdns.org
-hdzxmt.top
-he-gratis.ddnsfree.com
-he-have-look.garden
-he-moondelight.96.lt
-he-sap.link
-he-sdcis.click
