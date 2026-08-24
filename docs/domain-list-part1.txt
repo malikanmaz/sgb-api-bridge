@@ -2158,6 +2158,7 @@
 101-mobil-online-ozel-tr.mooo.com
 101-mobil-sadece-online-alisverise-ozel-indirim-sepeti-shop-tr.e-mobil-tr.online
 101-mobil-sadece-online-ozel-firsatlar-tr.online
+101-mobil-sadece-online-ozel-sepette-indirim-alisveris-tr.sepetbox.online
 101-mobil-tr.com
 101-mobil.com.tr
 101-nisan-indirimleri.com
@@ -37968,6 +37969,7 @@ akbank.mitay.com.tr
 akbank.mobil-subelerim.com
 akbank.mobilgiris.com.tr
 akbank.mobilsubelerimden.com
+akbank.online
 akbank.online-hesap.com
 akbank.online-para.com
 akbank.online-shopping6.com
@@ -99996,5 +99998,3 @@ chancypet.system-crm.com
 chandraathay.com
 chanelbimcell.com
 change-password-yahoo.42web.io
-change-password-yahoo.great-site.net
-change-smart.info
