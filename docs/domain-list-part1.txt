@@ -66621,6 +66621,7 @@ bedavapanel.com
 bedavapanel.net
 bedavapanel.org
 bedavapanel.site
+bedavapanel2.site
 bedavapanelimizyeniden.gt.tc
 bedavasorgu.com
 bedavasorgu.org
@@ -99045,6 +99046,7 @@ cepteteb-bonusmobilgiris.ph
 cepteteb-bonusmobilsube.com
 cepteteb-bonusmobilsubesi.com
 cepteteb-com-tr.tk
+cepteteb-com.my-homeip.de
 cepteteb-com.tk
 cepteteb-dijitalim.com
 cepteteb-e-subem-giris.com
@@ -99996,5 +99998,3 @@ changepasswordservice.great-site.net
 changepromote.top
 changeproximity.top
 changequestionstypeapi.azurewebsites.net
-changequestionstypejsonapi.azurewebsites.net
-changequestiontypes.azurewebsites.net

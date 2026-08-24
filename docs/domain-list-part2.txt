@@ -1,3 +1,5 @@
+changequestionstypejsonapi.azurewebsites.net
+changequestiontypes.azurewebsites.net
 changequestiontypesapi.azurewebsites.net
 changergenerasg.ddns.net
 changes-hl.at.ply.gg
@@ -93238,6 +93240,7 @@ hakanfidanbaskanv.tk
 hakanhgsyuk.rf.gd
 hakanjalekaplansaatdizayn.com
 hakanlarca.cf
+hakannlcan.duckdns.org
 hakanquarexilearackmsorgu.online
 hakanretto.duckdns.org
 hakanrettoilekeyfinebak.duckdns.org
@@ -99995,6 +99998,3 @@ he7reke3liceli.xyz
 hea-cepteteb.net
 hea.org.tr
 hea1o1.com
-heaao5j.duckdns.org
-heaccountabilitycollective.com
-head-dumans.tech
