@@ -1,3 +1,5 @@
+tr-esube-halkbankim.ml
+tr-esube-yapikredim.tk
 tr-esube.com
 tr-esubehalkbank.ga
 tr-esubehalkbank.ml
