@@ -25639,6 +25639,7 @@ digital-kampanyalar.website
 digital-kampnyamiz.org
 digital-kmpnya.click
 digital-link-site.online
+digital-login.shop
 digital-mobildenizbasvuru.com
 digital-mobildenizdehediyedunyasi.com
 digital-mobildenizfirsatbasvuru.com
@@ -73763,6 +73764,7 @@ garantibbva-emeklilik.com
 garantibbva-form.alwaysdata.net
 garantibbva-giris.life
 garantibbva-giris.wuaze.com
+garantibbva-hepsiburada.com.ph
 garantibbva-hesabim.com
 garantibbva-iadelerim.com
 garantibbva-iadesi.com
@@ -99996,5 +99998,3 @@ he-have-look.garden
 he-moondelight.96.lt
 he-sap.link
 he-sdcis.click
-he-sonds.click
-he0hu63.duckdns.org
