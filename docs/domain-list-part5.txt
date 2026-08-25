@@ -1,3 +1,16 @@
+tr-edevletportal.com
+tr-edevletsosyalbasvuru.com
+tr-edevletsube.com
+tr-edevletsube.info
+tr-edevletsube.net
+tr-edevletsube.org
+tr-edevletsubegiris.com
+tr-edevletsubegiris.org
+tr-edevletsubesi.com
+tr-edevletteniadelerinizvar.com
+tr-edevletteniiadelerinizvar.com
+tr-edevlettteniiadelerinizvar.com
+tr-edevletyardimbasvuru.com
 tr-egov-basvurunuz.org
 tr-egov-cumhuriyett.ga
 tr-egov.com
@@ -9224,6 +9237,7 @@ turkiye-gov-tr.tech
 turkiye-gov-tr.xyz
 turkiye-gov-trmobil.net
 turkiye-gov-trr.com
+turkiye-gov.biz
 turkiye-gov.cam
 turkiye-gov.club
 turkiye-gov.com
