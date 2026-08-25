@@ -1,3 +1,11 @@
+tr-edevlet-kredikarti-aidat-iadeleri-basvuru.com
+tr-edevlet-online-basvuru.com
+tr-edevlet-online-giris.tk
+tr-edevlet.com
+tr-edevlet.org
+tr-edevletaidat.com
+tr-edevletaidat.org
+tr-edevletdestekbasvuru.com
 tr-edevletgiris.com
 tr-edevletgovvtr.com
 tr-edevletiade.com
@@ -10961,6 +10969,7 @@ tuvtr-veri-system.net
 tuvtr.click
 tuvtrk-rezervasyonmuayene.com
 tuvtrkaracmuayene.govt.hu
+tuvtrkaracmuayene.ldtp.com
 tuvtrkaracmuaynb.web.app
 tuvtrkaracmuayneg.web.app
 tuvtrkarcmuayneet.net
@@ -40768,6 +40777,7 @@ www-teb-com-tr-emekli-basvuru.my-homeip.de
 www-teb-com-tr-emekli-promosyon.my-homeip.de
 www-teb-com-tr-emekli-sayfa.my-homeip.de
 www-teb-com-tr-emekli.my-homeip.de
+www-teb-com-tr-internet-islemleri.my-homeip.de
 www-teb-com-tr-promosyon-emekli.my-homeip.de
 www-teb-com-tr.ga
 www-teb-com-tr.gq
