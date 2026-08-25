@@ -1,3 +1,7 @@
+tr-egov-basvurunuz.org
+tr-egov-cumhuriyett.ga
+tr-egov.com
+tr-eiade.com
 tr-eiademerkezi.com
 tr-eiademerkezii.com
 tr-ekatilim-internetsubesi.com
@@ -61664,6 +61668,7 @@ zakan.22web.org
 zakaria.zapto.org
 zakariyahgilmour82.xyz
 zakatkita.site
+zakatok.com
 zaki-botnet.portmap.host
 zaki2013.zapto.org
 zaki29.ddns.net
