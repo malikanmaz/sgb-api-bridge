@@ -1,3 +1,9 @@
+tr-ailegenclik.com
+tr-ailesosyalpandemi-desteklerimiz.net
+tr-ak-avans.duckdns.org
+tr-akaidekatilimsubat.com
+tr-akbaidekatilimsubat.com
+tr-akbank-avans.duckdns.org
 tr-akbank.com
 tr-akbank.duckdns.org
 tr-akbank.ph
@@ -62875,6 +62881,7 @@ zeldysystem.cloud
 zeldysystem.online
 zeldyturnuva.cloud
 zeledsk543swss.blogspot.com
+zelenapo-maledepo.lol
 zelenoo.org
 zelensky.top
 zeler.zapto.org
