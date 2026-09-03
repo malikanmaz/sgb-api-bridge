@@ -1329,6 +1329,7 @@
 0nline-citibank.duckdns.org
 0nline-gov.com
 0nline-secureupdate.hopto.org
+0nline-sok-market.duckdns.org
 0nline-update07s.hopto.org
 0nline1mtbank.ddns.net
 0nline3mtbanking.ddns.net
@@ -4978,6 +4979,7 @@
 1472589660.xyz
 1472589662.xyz
 147260-coinbase.com
+14745155571.duckdns.org
 14752563253asd.com
 14755866522sdd.com
 14765-coinbase.com
@@ -18775,6 +18777,7 @@
 7452790215893.duckdns.org
 7454928-005.com
 745511345.dfgqdsd.ru
+745542655465652256.duckdns.org
 745566511323.com
 74563221115841333.duckdns.org
 7456536234.duckdns.org
@@ -23295,6 +23298,7 @@ a-pttgov.top
 a-rabamuayne.org
 a-rcmuyaneservcinezv.net
 a-rdwswag.app
+a-right-look-mr.myonlineportal.ch
 a-sa.sa.com
 a-sa.za.com
 a-safet.top
@@ -52974,6 +52978,7 @@ aspektnn.ru
 aspencore18.com
 aspenglideupd.info
 aspernatur-quis.site
+aspers.myonlineportal.ch
 asphgsz.com
 aspidochirota.com
 aspin.ddns.net
@@ -67440,6 +67445,7 @@ benburdaykenkimseekmekyiyemez2.net
 benburlarnherseyncanlagrdm35.info
 benbwtz5.duckdns.org
 bencalsyrmhrsrndvlrdan.lol
+bencalsyrmhrsrndvlrdan.sbs
 bencalsyrmhrsrndvlrdan.shop
 bencalsyrmhrsrndvlrdan.xyz
 bence-burdaan-al.com
@@ -88499,6 +88505,7 @@ bsvrrrkmpnyacklssss.pro
 bsvrrrkmpnyasnfrslatrrr25147.info
 bsvrrrkmpnyasnfrslatrrr25147.pro
 bsvrrrkmpnyyaaprmsyonnn.click
+bsvrrrkmpnyyykrediiifrstlrr.info
 bsvrrrkmpnyyykrediiifrstlrr.pro
 bsvrrrkmponyaaprmsyn.click
 bsvrrrkmpyyynyyykrediiifrstlrr.info
@@ -98881,6 +98888,7 @@ cepte-teb-aidat-basvuru.tk
 cepte-teb-bireysel-banka.com
 cepte-teb-bireyselsubesi.com
 cepte-teb-com-tr.ml
+cepte-teb-com-tr.my-homeip.de
 cepte-teb-com-tr.tk
 cepte-teb-egiris.com
 cepte-teb-emekliye.my-homeip.de
@@ -99990,11 +99998,3 @@ cezauyap.org
 cezauyapsorgu.com
 cezauyapsorgula.com
 cezauzlasin.com
-cezauzlasma.com
-cezauzlasmaasimaliye.com
-cezauzlasmabedeli.com
-cezauzlasmaburosu.com
-cezauzlasmamaliye.com
-cezauzlasmaportali.com
-cezauzlasmasidosya.com
-cezauzlasmasisorgula.com
