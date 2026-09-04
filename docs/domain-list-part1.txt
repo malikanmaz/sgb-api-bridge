@@ -41367,6 +41367,7 @@ al-basvuru-sayfasi-e-platform-girisler-doldur.xyz
 al-bay.com
 al-cumhurbaskanligi.com
 al-destegi-hemen.freetzi.com
+al-g.myonlineportal.ch
 al-gets-aliisverisi.com.tr
 al-hemen.com
 al-hemen.com.tr
@@ -98955,6 +98956,7 @@ cepte-teblim.my-homeip.de
 cepte-tebonlinefirsatim.com
 cepte-tebweb.com
 cepte-tepgsonsizleerlecan.com
+cepte-tepli-firsat.my-homeip.de
 cepte-tr.online
 cepte-vakif-online-bireysel.ml
 cepte-vakifdijitalgirismobil.ml
@@ -99996,5 +99998,3 @@ cezasorgulat.com
 cezasorgulatdosya.com
 cezasorgulatmaliye.com
 cezasorgulatmamaliye.com
-cezasorgulatuyap.com
-cezasorgulatuzlasma.com
