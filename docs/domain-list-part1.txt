@@ -11742,6 +11742,7 @@
 321189874645115.net
 3212221112445479890.duckdns.org
 3212221112445479892.duckdns.org
+3212221112445479895.duckdns.org
 32123123132131322123.space
 321312111.cloud
 3213213-123.duckdns.org
@@ -25222,6 +25223,7 @@ a101market.aktuelaldinaldin.com
 a101market.alisverisileharca.com
 a101market.app
 a101market.co
+a101market.duckdns.org
 a101market.fun
 a101market.magazazincirim.com
 a101market.net
@@ -39582,6 +39584,7 @@ akonlineiadeleriniz2023.com
 akonlineislemler.com.tr
 akonlineislemlerinizicin-sube.com
 akonlinekredi.com
+akonlinereklamlar.sbs
 akor47.online
 akountcenter.com
 akoylode.net
@@ -90675,6 +90678,7 @@ bunu-kacirmayi-dusunme.com.tr
 bunu-kacirmayi-dusunmedin-demi.com.tr
 bunu-kacirmazsin-bence.com
 bunualgerigonde45papa.com
+bunualmadanolmaz.sbs
 bunubilenlerhizlicaalir.cfd
 bunubilir.com
 bunuburdaalin0hadialin.com
@@ -98957,6 +98961,7 @@ cepte-teblikazaniyor.com
 cepte-teblim.my-homeip.de
 cepte-tebonlinefirsatim.com
 cepte-tebweb.com
+cepte-tep-den.my-homeip.de
 cepte-tepgsonsizleerlecan.com
 cepte-tepli-firsat.my-homeip.de
 cepte-tr.online
@@ -99993,8 +99998,3 @@ cezasorgugov.org
 cezasorgukamu.org
 cezasorgulama-odeme.online
 cezasorgulama.org
-cezasorgulamatr.org
-cezasorgulamauzlasma.com
-cezasorgulari.com
-cezasorgulat.com
-cezasorgulatdosya.com
