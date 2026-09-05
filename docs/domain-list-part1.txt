@@ -5301,6 +5301,7 @@
 158253-kraken.com
 158312-coinbase.com
 158372-coinbase.com
+1584515557145.duckdns.org
 15864251921546010.com.tr
 15864251921546010.online
 15864251921546020.com.tr
@@ -97596,6 +97597,7 @@ cebiyormayanalisveris.com.tr
 cebiyormayanalisveris.online
 cebobsflnn.duckdns.org
 cebolinha.ddns.net
+cebr-ly-fonsi.myonlineportal.ch
 cebsubedenizdijitalkredi.co.vu
 cebsubeindir.com
 cebsubem.com
@@ -99996,5 +99998,3 @@ cezaodemesi.com
 cezaodetbayi.com
 cezaodetr.com
 cezaodetrafik.online
-cezaodetrafik.site
-cezaplakadankgmodemesi2023.com
