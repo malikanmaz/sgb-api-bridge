@@ -5302,6 +5302,7 @@
 158312-coinbase.com
 158372-coinbase.com
 1584515557145.duckdns.org
+1584515557149.duckdns.org
 15864251921546010.com.tr
 15864251921546010.online
 15864251921546020.com.tr
@@ -17585,6 +17586,8 @@
 672cvb4523432.gleeze.com
 673236782584.com.tr
 673442-coinbase.com
+6734737373.sbs
+6734737373.xyz
 673827-coinbase.com
 673908-coinbase.com
 673at3lld.duckdns.org
@@ -21414,6 +21417,7 @@
 906723324545454bbgt.click
 9073097297608723607807832.duckdns.org
 907354.vercel.app
+90899889.sbs
 9090.hr
 90902348877p-223.shop
 90909002323.cloud
@@ -42832,6 +42836,7 @@ alfacentarusmulticopter.ru
 alfadigitalreklamcil.com
 alfadijitaltoki.online
 alfados01.xyz
+alfafilokiralama.com
 alfahostcheap.cf
 alfama-id2918.world
 alfamexgdl.com
@@ -95807,6 +95812,7 @@ cark-bntr.app
 cark-bntr.biz
 cark-bntr.com
 cark-bntr.one
+cark-cekilisi.com
 cark-cekilisim.com
 cark-cekilisim.info
 cark-firsatim-lucky.net
@@ -99992,9 +99998,3 @@ cezaodemeleriniz.net
 cezaodemeleritrafik.formstack.com
 cezaodemelermml.com
 cezaodemeli.sg-host.com
-cezaodemem.net
-cezaodemenoktasi.com
-cezaodemesi.com
-cezaodetbayi.com
-cezaodetr.com
-cezaodetrafik.online
