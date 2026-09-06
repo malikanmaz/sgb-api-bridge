@@ -47700,6 +47700,7 @@ api-binance.net
 api-blazepanel.site
 api-cdn.net
 api-cdnw5.net
+api-garantibbva.ph
 api-google.cf
 api-hw.com
 api-kaax-servis.wuaze.com
@@ -99997,4 +99998,3 @@ cezaode.com
 cezaodegovtr.sg-host.com
 cezaodeme.com
 cezaodeme.tk
-cezaodemehgs.com
