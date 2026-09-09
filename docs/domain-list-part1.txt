@@ -2070,6 +2070,7 @@
 101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte-tr.e-shop-tr.online
 101-extra-sadece-bugune-ozel-indirim-alisveris-sepeti-tr.web-market.online
 101-extra-sadece-bugune-ozel-indirimli-sepet-mobilde-tr.sepetextra-tr.online
+101-extra-sadece-bugune-ozel-mobil-alisveris-cep-tr.cepteal-tr.online
 101-extra-sadece-bugune-ozel-mobil-alisveris-sepet-tr.max-shop-tr.online
 101-extra-sadece-bugune-ozel-mobil-indirim-sepeti-shop-tr.avantajshop.online
 101-extra-sadece-bugune-ozel-mobil-sepet-indirimleri-tr.cep-markets.online
@@ -11015,6 +11016,7 @@
 2mbq4hn.duckdns.org
 2mdg4v.duckdns.org
 2me2323el.duckdns.org
+2metaofflinereklam.sbs
 2mgnesy.duckdns.org
 2mk5rvt.duckdns.org
 2mog31.duckdns.org
@@ -69829,6 +69831,7 @@ bilgiadresimtr.miko-cdn.space
 bilgiaidatlari.net
 bilgiakbank.com
 bilgiakisi.shop
+bilgial.site
 bilgial.tk
 bilgialbsvr.com
 bilgialma-formu.com
@@ -82860,6 +82863,7 @@ bn-2022-trgiriscepeer.ertenler.club
 bn-2022-trgiriscepsad.ertenler.club
 bn-2yasinda.com
 bn-ancetriadefirsati.net
+bn-araba-cekilisin.online
 bn-basvur-simdi.xyz
 bn-basvuru-checkevent.net
 bn-basvuru.cloud
@@ -93562,6 +93566,7 @@ c-bntdestektr.com
 c-bva-grn-in.my-homeip.com
 c-digitaltuzelkisimmenu.online
 c-e-aktarma-mobile-tr.com
+c-e-p-t-e-t-e-b-ayricalikli-firsatlar.my-homeip.de
 c-e-p-t-e-t-e-b.my-homeip.de
 c-e-p-t-e-t-e-b.my-homeip.net
 c-e-p-t-e-teb.my-homeip.de
@@ -99993,8 +99998,3 @@ cezadosyasorgu.org
 cezadosyasorgula.org
 cezadosyatakip.org
 cezadosyauzlas.com
-cezadosyauzlasmasi.com
-cezaegm.net
-cezaesorgu.net
-cezagecisler.info
-cezagecislerin.info
