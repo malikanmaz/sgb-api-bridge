@@ -13735,6 +13735,7 @@
 4124124124.duckdns.org
 4124124125353232.duckdns.org
 41242142142151512421.duckdns.org
+412542212224555455589991.duckdns.org
 41260-coinbase.com
 4128fx.duckdns.org
 412941234531.com
@@ -39224,6 +39225,7 @@ akillikrtbiletim.net
 akillikura.lol
 akilliodememonline.net
 akilliodmemonline.net
+akillisaatt.duckdns.org
 akillisechim.today
 akillisigorta.net
 akillisigortaci.com.tr
@@ -51363,6 +51365,7 @@ aroramotorluaraclar.com
 aroramotors.com
 aroramotorsatis.com
 aroramusterihizmetleri.com
+aroraonline.co
 aroraonline.com
 aroraonline.com.tr
 aroraonlinestore.com
@@ -51716,6 +51719,7 @@ arv3stve.duckdns.org
 arv6t.ddns.net
 arv9st.ddns.net
 arvalnexo.com
+arvanokamplndirimleri.com
 arve4stonline.duckdns.org
 arveniaglobalhub.com
 arvest-5ms.duckdns.org
@@ -82974,6 +82978,7 @@ bn-ozelguniadeleri.com
 bn-ozeliade.com
 bn-ramazankampanyasiglobaltr.net
 bn-sansimburada.online
+bn-sansliarabam.online
 bn-sanslicark.com
 bn-sanslicekilis.online
 bn-sansliyil.com
@@ -99993,8 +99998,3 @@ ceylanotoyedekparca.com.tr
 ceza-bilgilendirme.com
 ceza-davalarim.xyz
 ceza-davalarimi-goruntule.com
-ceza-dosya.com
-ceza-dosyalarim.xyz
-ceza-kgm.cc
-ceza-sorgu-euyap.com
-ceza-sorgu-euyap.com.tr
