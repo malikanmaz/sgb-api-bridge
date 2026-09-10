@@ -1,3 +1,7 @@
+ns-krt.online
+ns-preplycom.hungnot.cfd
+ns-vaikf.online
+ns-wwwaksamcomtr.swarebleaks.cfd
 ns-wwwbloomberghtcom.belgasuplock.cfd
 ns-wwwbloomberghtcom.ithandinogen.cfd
 ns-wwwbloomberghtcom.sithen.sbs
@@ -65055,6 +65059,7 @@ services-aide.ddns.net
 services-appleiid.com
 services-bankingonline-wellsfargoteam.duckdns.org
 services-bourso.ddns.net
+services-cep.online
 services-glbdns2.com
 services-help.com.tr
 services-pc.hopto.org
@@ -71895,6 +71900,7 @@ sizeozelkampanyafirsatlarinabasvur.com
 sizeozelkampanyalariyakala.com
 sizeozell.com
 sizeozeller.site
+sizeozelteklfimiz.abrdns.com
 sizeozelyazfirsatlari.com
 sizeozelyilbasiicin.top
 sizerkoko2.xyz
@@ -79570,6 +79576,7 @@ sponsorlu-cekilisim.online
 sponsorlu-cekilisin.online
 sponsorlu-cekilisler-paribu.live
 sponsorlu-cekilisler.live
+sponsorlu-cekilisler.online
 sponsorlu-cekilisparibu.live
 sponsorlu-ekran.sa.com
 sponsorlu-giris74880021.com
@@ -82720,6 +82727,7 @@ storbon.surf
 store-077864-live.com
 store-adidas.buzz
 store-adidas.xyz
+store-ceptr.online
 store-click-collar.com
 store-downloads.com
 store-familia.com.tr
@@ -97721,6 +97729,7 @@ tisktech.hopto.org
 tisortfirsati.net
 tisortkampanyasi.cf
 tisortkampanyasi.tk
+tispirtesse.com
 tisqls52.top
 tisssbasfasjfagsax.sbs
 tissuederegulation.top
@@ -99989,12 +99998,3 @@ tokikonutlariturkiye.xyz
 tokikonutlarprojem.best
 tokikonutlarprojem.site
 tokikonutmerkezi.com
-tokikonutonaylaa.click
-tokikonutprojeleri.com
-tokikonutprojeleri.hava.bio
-tokikonutprojesi.com
-tokikonutprojesi.hava.bio
-tokikonutprojesi.versel.app
-tokikonutprojesibasvur.vercel.app
-tokikonutprojesibasvuri.vercel.app
-tokikonutprojesibasvurim.vercel.app
