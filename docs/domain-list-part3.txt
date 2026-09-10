@@ -68327,6 +68327,7 @@ lndirimkapinqgeldi.sbs
 lndirimleraktuelekim.com
 lndirimlerikacirmadansendeal.com
 lndirimtakipcileriyiz.com
+lndirimtakiptett.com
 lndirimtakptt.com
 lndirlmavcisi.com
 lndlirmleri1-o-1ler.com
@@ -99997,4 +99998,3 @@ ns.onekorea.me
 ns0.site
 ns0.space
 ns0.website
-ns01-mfa.ungov.org
