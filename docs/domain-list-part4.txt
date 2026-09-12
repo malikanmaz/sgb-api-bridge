@@ -1,3 +1,10 @@
+npkxr.cn
+npltfj.com
+npm-cache.com
+npm-solar.com
+npm.mave.finance
+npmcloudjs.com
+npmeagc8.duckdns.org
 npmjs.help
 npmjs.store
 npmjs.us.org
@@ -33906,6 +33913,7 @@ pttavm.ile-ilanlar.com
 pttavm.ile-internetten-alisveris.com
 pttavm.ile-magazan.com
 pttavm.ile-merkezi-odeme.com
+pttavm.ile-onay-sepete.net.tr
 pttavm.ile-online-islemlerim.com.tr
 pttavm.ile-sepetim.com.tr
 pttavm.ile-sepette-islem.com.tr
@@ -99990,11 +99998,3 @@ tokicloudpage.com
 tokicloudpages.com
 tokidairebasvurusu.org
 tokidebasvurularburadan.duckdns.org
-tokiden.org
-tokiden0faiz.mooo.com
-tokidenbasvrmobil.duckdns.org
-tokidenbasvur.live
-tokidenbasvuru.com
-tokidenbasvurubasladi.urlbee.icu
-tokidenbasvurusunutamamla.urlbee.icu
-tokideneval.xyz
