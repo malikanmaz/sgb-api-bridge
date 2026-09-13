@@ -32138,6 +32138,7 @@ adconfig.appscomeon.com
 adcreators.com.au
 adcrtb.com
 adcvt-cvlrt.com
+add-ny-ent.myonlineportal.ch
 add-passkey.com
 add-signal-group.com
 add-signal-groups.com
@@ -51992,6 +51993,7 @@ asanc.duckdns.org
 asandasonalisveris.com.tr
 asandasonalisveris.online
 asandasonalisveris.xyz
+asans.my-homeip.de
 asaper.xyz
 asapnotaryagency.com
 asapor.xyz
@@ -63858,6 +63860,7 @@ basvuruservisi.gq
 basvuruservisi.ml
 basvurusimdi-globalkampanyabudurtechbance.tech
 basvurusirasi.online
+basvurusistem.abrdns.com
 basvurusistemi.cfd
 basvurusistemi.com
 basvurusistemi.online
@@ -70138,6 +70141,8 @@ bilgilermobiliadegirisedevlet.com
 bilgilertr-ing-grn.my-homeip.com
 bilgiligencler.online
 bilgilikullanici.com
+bilgilislem.abrdns.com
+bilgilislemsayfasi.abrdns.com
 bilgimalumat.com
 bilgimanya.info
 bilgimatematik.shop
@@ -99993,8 +99998,3 @@ ceta2050.ddns.me
 ceta300.ddns.me
 cetalischi.com
 cetdata.com
-cete-protc.ddns.net
-cetedayalile.site
-cetel-host.ddns.net
-cetel1banque.ddns.net
-cetelconfirmatid.ddns.net
