@@ -5851,6 +5851,7 @@
 182-onlines.help
 182-web.sbs
 182-web.xyz
+182-webb.cfd
 182-webb.sbs
 182-webb.xyz
 182-webhati.com
@@ -61075,6 +61076,7 @@ basvrpromlar.click
 basvrpromlar25.click
 basvrrkmpnyaaprmsynn.info
 basvrrkmpnyaaprmsynn.pro
+basvrrkmpnyaasonnnfrstlarrr.info
 basvrrkmpnyaasonnnfrstlarrr.pro
 basvrrprmsynnnnkmpnyaa.info
 basvrrprmsynnnnkmpnyaa.live
@@ -76692,6 +76694,7 @@ bireysel-satis.com
 bireysel-secure-ilan.com
 bireysel-servis-aktarim-cep-tr.com
 bireysel-shop-tr.click
+bireysel-shops-mobil.online
 bireysel-siparis-extra-tr.site
 bireysel-sonbaharacikdenizv2denizbank.com
 bireysel-sube---giris-tr.com
@@ -92220,6 +92223,7 @@ bva-global.lat
 bva-lite.shop
 bva-mobile.shop
 bva-request.shop
+bva-web.shop
 bva-yaz-firsatlar.click
 bva-yaz-firsatlar.ru.com
 bvaaclmon1linece1el1l1emdens.net
@@ -99994,7 +99998,3 @@ cetethrem.com
 cetev.org
 ceteyleiliskili.online
 cethenjustte.com
-cethernet.com
-cethgsm.com
-cetintosy.com
-cetion.pro
