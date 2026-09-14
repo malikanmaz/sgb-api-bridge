@@ -14078,6 +14078,7 @@
 44443586244.cloud
 44444004040004.cloud
 4444423424443.cloud
+44444321.sbs
 44444410250244.cloud
 44444412323.cloud
 4444444444455555.com
@@ -48170,6 +48171,7 @@ app-funtime.xyz
 app-goal.com
 app-google1.ddns.net
 app-halk.xyz
+app-halkbank.synapsai.ai
 app-hayatevesigar.com
 app-hemenhizlivbasvurkvyt.com
 app-https01029939app-session00128complet.duckdns.org
@@ -69739,6 +69741,7 @@ bikenil.top
 bikeontop.shop
 bikepickle.xyz
 bikeputaware.click
+bikerks.com
 bikeshophaidli.com
 bikilikimcell.com
 bikinibonus.store
@@ -70055,6 +70058,7 @@ bilgikaynagi.info
 bilgikontrolsaglama.com
 bilgikontrolyeri.com
 bilgikuresi.world
+bilgikurum.net
 bilgikus.info
 bilgikusu.org
 bilgilaw.net
@@ -99994,7 +99998,3 @@ cesf.live
 ceshi.mejsc4.com
 cesielevis.info
 cesielevis.org
-cesielevis.pro
-cesipegmeng.wiki
-cesiritegenerasg.ddns.net
-cesirviceactelit.ddns.net
