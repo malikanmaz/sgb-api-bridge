@@ -2064,6 +2064,7 @@
 101-den-firsatlariniz-kacmasin.sbs
 101-efsane.shop
 101-eozel.xyz
+101-extra-bugune-ozel-online-mobil-sepet-indirimleri-tr.magaza-mobil.online
 101-extra-da-sadece-bugune-ozel-firsat-mobilde-tr.indirimsepette.online
 101-extra-mobil-online-sadece-bugune-ozel-sepet-indirimi-tr.shop
 101-extra-mobil-sadece-online-ozel-sepette-indirim-tr.web-sepet.online
@@ -32487,11 +32488,14 @@ adlancex.com
 adleiran-ir.tk
 adlfavs.biz
 adlibilgi.org
+adlibirim.net
 adlicezagovtr.org
 adlicezaodeme.com
 adlicezasorgu.com
+adlicezatakip.org
 adlidosya.org
 adlidosyasorgulama.com
+adlievrak.org
 adligidiikampn.online
 adliislemler.tk
 adlikayit.com
@@ -42313,6 +42317,7 @@ aldinaldinbayramurunleri.com.tr
 aldinaldinbitmez.shop
 aldinaldinboschyikama.store
 aldinaldinbufirsatiii101.com
+aldinaldinbugunozeldir.com
 aldinaldinbuhafta.shop
 aldinaldinburda.duckdns.org
 aldinaldinburdansonfirsat.cfd
@@ -43014,6 +43019,7 @@ algsjsaj-aldiansab-aksna.icu
 algsjsaj-aldiansab-aksna.sbs
 algspvqt.org
 alguvendekal.click
+alguvendekal.xyz
 algy044.duckdns.org
 alha1337.com.tr
 alhacker.zapto.org
@@ -47843,6 +47849,8 @@ api.auto-fixer.online
 api.autocamfixer.online
 api.autodriverfix.online
 api.baiduusercontent.com
+api.baykar-investmentopportunity-com.topmarketingoffer.com
+api.baykardevletprogrami-com.topmarketingoffer.com
 api.beebeatoplayer.com
 api.bitdefenderupdate.org
 api.biwbrd.com
@@ -52375,6 +52383,7 @@ asdfwrkhl.warzonedns.com
 asdfzeq12.xyz
 asdg68a.info
 asdgasdgdsgasdg.hopto.org
+asdgasha.art
 asdgedfglekdwekweq.com
 asdgfdasdqwe.net
 asdgg3e23g32gg32.com
@@ -57061,6 +57070,7 @@ ayranger9.ddns.net
 ayraninatuzekemmi.ignorelist.com
 ayrentcar.com
 ayricalikbimcelde.com
+ayricaliklar-cepteteb-emekliye.my-homeip.de
 ayricaliklarburada.com
 ayricaliklardenizde.com
 ayricaliklardunyasi.info
@@ -62567,6 +62577,7 @@ basvuru.kurasizhemenkatil.cfd
 basvuru.lflink.com
 basvuru.maksi.digital
 basvuru.mefound.com
+basvuru.merkezi.hizmetlerim.click
 basvuru.misecure.com
 basvuru.mobildeniz.hediye.3-77-235-143.plesk.page
 basvuru.myonlineportal.de
@@ -64740,9 +64751,11 @@ baykarcloud.com
 baykard.trbaykl.com
 baykardefense.net
 baykardevlet-programi.com
+baykardevlet-programi.digital
 baykardevletdestekli-click.pages.dev
 baykardevletdestekli.click
 baykardevletprogrami.com
+baykardevletprogrami.digital
 baykardevletprogrami.net
 baykardrone.com
 baykareserve.site
@@ -64760,6 +64773,7 @@ baykarglobal.info
 baykarglobal.pro
 baykargundem.info
 baykarhisseleri.com
+baykarhisseleri.digital
 baykarhold.space
 baykarhorizon.com
 baykarimaging.com
@@ -79317,6 +79331,7 @@ bizsevdikonlaraldi.net
 bizsizinicincalisiyoruz.top
 bizsizinleyiz.org
 bizsizinleyizzz.sbs
+bizsizinleyizzz4.sbs
 bizsiziyonlendirecez.com
 bizsizlerleyizzz.com
 bizsiznleyizz6.sbs
@@ -86798,6 +86813,7 @@ boynagalavaa.work
 boynagalsafasfw.work
 boyner.demrebicer.com
 boyner.fashionoscope.com
+boyneronlinesale.shop
 boynerparfum.com
 boynerrui.com
 boynertr.com
@@ -88797,6 +88813,7 @@ bsvrrrrkmpnyaaprmsynnn.info
 bsvrrrrprmmssynnkmpnyyyy.info
 bsvrrrrprmmssynnkmpnyyyy.live
 bsvrrrrprmsynn.click
+bsvrrrrprmsynnkmpnyaaa.info
 bsvrrrrprommooogrnnn.click
 bsvrrrrprsmmsnynn.info
 bsvrrrrprsmmsnynn.online
@@ -97077,6 +97094,7 @@ cayindirimleribugun.cyou
 cayindirimleribugun.sbs
 caykaraca-11d70fd257ba.herokuapp.com
 caykeyfimayis.com.tr
+caykur.online
 caykurkampanya.com
 caykurmomentum.xyz
 caykursepet549.cfd
@@ -99980,21 +99998,3 @@ certainblame.top
 certainlyparrot.top
 certainlyprototype.top
 certainlysegregate.top
-certainlysteward.top
-certainproximate.top
-certainrefutation.top
-certaintime.top
-certapletion.top
-certcheck.online
-certerianshndieony24.net
-certeyerete-desedae.lol
-certezatributaria.mx
-certglobal.org
-certicode.ddns.net
-certicodeplus.hopto.org
-certifica-montepaschii.com
-certificate.hypnotherapy-training.co.nz
-certificatebank.com
-certificateexotic.top
-certificatelabor.com
-certificatentrance.com
