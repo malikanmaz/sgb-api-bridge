@@ -2084,6 +2084,7 @@
 101-extra-sadece-bugune-ozel-sepette-mobil-indirimleri-tr.buy
 101-extra-sadece-mobile-ozel-online-sepet-indirimleri-mobil-tr.ucuzshop.online
 101-extra-sadece-online-ozel-alisveris-mobil-extra-shop-tr.bilgi-mobil-tr.online
+101-extra-sadece-online-ozel-mobil-alisveris-indirimleri-sepete.ekle-tr.online
 101-extra-sadece-online-ozel-mobil-indirim-sepeti-tr.services
 101-extra-sadece-online-sepet-ozel-indirim-shop-mobilde-tr.cepsel-tr.online
 101-eylulgecesi13.com
@@ -3527,6 +3528,10 @@
 1111254865645-online.cloud
 11114141414.duckdns.org
 11114343-111.duckdns.org
+111194999373845dnz.duckdns.org
+111194999373845dnz.webredirect.org
+1111999937384gr.duckdns.org
+1111x1111.sbs
 111212121212121.duckdns.org
 111222332435647.com.tr
 1112332210121.duckdns.org
@@ -4030,6 +4035,7 @@
 124312garnatinizinsfdg.duckdns.org
 12432535435.xyz
 1244422115455455888899991.duckdns.org
+1244422115455455888899993.duckdns.org
 124451545544554888787990.duckdns.org
 124451545544554888787991.duckdns.org
 124451545544554888787992.duckdns.org
@@ -17350,6 +17356,7 @@
 643vlakf49dy.club
 6441056b613c32a9.dwnlld.info
 644359675.goloser.ru
+6444s.site
 64512412412817355731.biz
 64512765.cloud
 64513.site
@@ -48497,6 +48504,7 @@ apple-unlock.com
 apple-updates.online
 apple-verifiy-account.com
 apple-verifiy.net
+apple.clean-disk-guide.com
 apple.com-verify.bid
 apple.com.supporto.live
 apple.driver-store.com
@@ -53018,6 +53026,7 @@ aslfqsfalprivia.space
 asli-id.com
 asliceza.org
 aslicezasorgu.org
+aslicicek.com
 aslihan3d.xyz
 aslihukuksorgu.com
 aslikurumu.com
@@ -54337,6 +54346,7 @@ auposta-up.sbs
 auposte-up.sbs
 auposteup.sbs
 aupostnew.net
+aupporte.com
 auproject.xyz
 auqowoehdndkd.xyz
 auqusttrsixthingyearstoggcampany.net
@@ -55869,6 +55879,7 @@ avisrentascar.com
 avisrentcar.in
 avisrentkiralama.com
 avisrenttacarr.com
+avisresmionlinesozlesme.ltd
 avisrezarvasyon.com
 avisrezerv.com
 avisrezerv.online
@@ -56154,6 +56165,7 @@ avsonlinee.xyz
 avsonlinefilom.me
 avsoto.com
 avsotofly.com
+avsotokiralama.net
 avsotokoc.net
 avsotokockiralama.com
 avsotomobilkiralama.com
@@ -56327,6 +56339,7 @@ awdenizbank.com
 awdsne.dns.navy
 awdwajawdjwadk.com
 awdwdad.click
+awdwsiskooadasd.xyz
 awe232-service-app.com
 awearrogant.top
 awebcommerce.com
@@ -57312,6 +57325,7 @@ azqnvg.cc
 azqyoumwge.duckdns.org
 azracicek.net
 azracicek.org
+azracicekcilik.com
 azramcicek.com
 azrasari.com.tr
 azrom.duckdns.org
@@ -63257,6 +63271,7 @@ basvurularbnntrgiris.online
 basvurularburadan.me
 basvurularburadan.sbs
 basvurularburadan.xyz
+basvurularburdan.cfd
 basvurulardevamediyo.cloud
 basvurulardevamportal.duckdns.org
 basvurularebasvuru-resmi-gov-tr.info
@@ -63502,6 +63517,7 @@ basvurumerkezibbva.static.domains
 basvurumerkeziiadesistemi.com
 basvurumerkezim.com
 basvurumerkezim.site
+basvurumerkezim2026.cfd
 basvurumerkezinden.org
 basvurumerkezindesinizz.com
 basvurumerkezinizbbva.com
@@ -65011,6 +65027,8 @@ baykaryatirimci.com
 baykaryatirimco.com
 baykaryatirimfon.com
 baykaryatirimprogrami.com
+baykaryatirimprogrami.digital
+baykaryatirimprogrami.xyz
 baykaryatrm.com
 baykaryech.com
 baykasrtech.com
@@ -70063,6 +70081,7 @@ bilgikontrolsaglama.com
 bilgikontrolyeri.com
 bilgikuresi.world
 bilgikurum.net
+bilgikurum.org
 bilgikus.info
 bilgikusu.org
 bilgilaw.net
@@ -88922,6 +88941,7 @@ bswgywa.com
 bswlive.com
 bswpcll.com
 bsxvo3tlv.duckdns.org
+bsygy.help
 bsykartech.com
 bsystem.com.pl
 bsz888pr2.duckdns.org
@@ -97862,6 +97882,7 @@ cebtekampanyan.com
 cebtekampanyaniz.com
 cebtekimobilplatform.sbs
 cebtemobilim.com
+cebteteb-bireysel-emekli.my-homeip.de
 cebteteb-com.my-homeip.de
 cebteteb-mobil-giris.tk
 cebteteb-tr-bonus.com
@@ -98144,6 +98165,7 @@ cekilisi.com
 cekilisi.online
 cekilisi.org
 cekilisi.site
+cekilisim--burada.online
 cekilisim-burada.online
 cekilisim.4-246-164-34.plesk.page
 cekilisim.online
@@ -99750,6 +99772,7 @@ ceptetebde-emekli.my-homeip.de
 ceptetebdebayram.com
 ceptetebdebayramzamani.com
 ceptetebdefirsat.com
+ceptetebden-emekli.my-homeip.de
 ceptetebden.my-homeip.de
 ceptetebderahatlik.com
 ceptetebderamazan.com
@@ -99781,6 +99804,7 @@ ceptetebkurulum.com
 ceptetebl.com
 cepteteble.com
 ceptetebli-basvurum.my-homeip.de
+ceptetebli-emekliye.my-homeip.de
 ceptetebli-kampanya.my-homeip.de
 ceptetebli.com
 cepteteblim.com
@@ -99974,27 +99998,3 @@ certificatebank.com
 certificateexotic.top
 certificatelabor.com
 certificatentrance.com
-certificatethigh.top
-certifilite.com
-certifybluff.top
-certifycoexistence.top
-certifycoldservices.com
-certifymedieval.top
-certifysop.com
-certiline.ddns.net
-certindia.chickenkiller.com
-certindia.ignorelist.com
-certralldspatch.com
-certralldspatch.top
-certserver.zapto.org
-cervamus.cf
-cervbveaie.duckdns.org
-ceryegehele.net
-cerygjpmfyrtcrv.cn
-ces1mg7jl.duckdns.org
-ces2lase2.site
-ces33.ddns.net
-cesaa.duckdns.org
-cesaretads.duckdns.org
-cesarmunoz.co
-cescmouad.zapto.org
