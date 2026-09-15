@@ -1,3 +1,11 @@
+novapath.sbs
+novapilot.sbs
+novapolitia.com
+novaposhta.website
+novapostxx.icu
+novarackiralama.com
+novaradar.world
+novaralabs.site
 novarilla.vu
 novarise.cyou
 novarissor.com
@@ -14535,6 +14543,7 @@ outlook-services.ddns.net
 outlook-updates.ddns.net
 outlook-web-access-bccfe2.webflow.io
 outlook-web.ddns.net
+outlook.bsnotespublication.com
 outlook.unatril.tk
 outlook.updateoffices.net
 outlook.windows-app.store
@@ -15502,6 +15511,7 @@ ozmufyp4.duckdns.org
 oznelfirsatlar.abrdns.com
 oznmgyx.com
 oznzzl.click
+ozon.bsnotespublication.com
 ozon58.ru
 ozone.trycloudflare.com
 ozoneassets3.ddns.net
@@ -43833,6 +43843,7 @@ rcxnkmgi.com
 rczapmd.com
 rd.lesac.ru
 rd0l56b.duckdns.org
+rd1800vire.shop
 rd1kdekdkde.com
 rd2bimcellkontor.com
 rd2m4n8.duckdns.org
@@ -75317,6 +75328,7 @@ sokfirsat-yag.info.tr
 sokfirsat.com.tr
 sokfirsatburada.com
 sokfirsatcepte.com
+sokfirsatderken.duckdns.org
 sokfirsatigeldi.com.tr
 sokfirsatigeldi.xyz
 sokfirsatindirimleri.com.tr
@@ -76744,6 +76756,7 @@ sonfirsaturunleriinikacirmayin.shop
 sonfirsaturunlerin.com
 sonfirsatyagmurum.com.tr
 sonfirsatyagmurum.online
+sonfirsltarrribkmpnyabsavr.info
 sonfirst-hetxmn-aldin-aldin.shop
 sonfirsta1o1desonlndirimler.blogspot.com
 sonfirsttxkmpnysindaa.net
@@ -99985,16 +99998,3 @@ toki.you
 toki11.elevatesolutions.sbs
 toki130konutbasvuru.sbs
 toki2006-vercel.vercel.app
-toki2025-2025yeni.blogspot.com
-toki2025.com
-toki2025.online
-toki2025basvuru.blogspot.com
-toki2025basvuru.com
-toki2025basvuru.online
-toki2025basvuru.org
-toki2025basvuru.wuaze.com
-toki2025basvurulari-basladi.sbs
-toki2025basvurusu.com
-toki2025sonbasvuru.mooo.com
-toki22.digitalkick.cfd
-toki500.com
