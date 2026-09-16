@@ -1,3 +1,6 @@
+noti.synergize.co
+notice-accnt-scrty3985rz.duckdns.org
+notice-guest-form.com
 notice-kg.com
 notice-mirchea.com
 notice-verdarvens.com
@@ -99995,6 +99998,3 @@ toki-gov-tr-020.vercel.app
 toki-gov-tr-1259125915.vercel.app
 toki-gov-tr-14.vercel.app
 toki-gov-tr-15.vercel.app
-toki-gov-tr-17.vercel.app
-toki-gov-tr-18.vercel.app
-toki-gov-tr-19.vercel.app

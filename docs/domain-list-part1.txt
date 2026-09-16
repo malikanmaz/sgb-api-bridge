@@ -2075,6 +2075,7 @@
 101-extra-sadece-bugune-ozel-indirim-sepeti-online-tr-cep.alisverisgo.online
 101-extra-sadece-bugune-ozel-indirimli-sepet-mobilde-tr.sepetextra-tr.online
 101-extra-sadece-bugune-ozel-mobil-alisveris-cep-tr.cepteal-tr.online
+101-extra-sadece-bugune-ozel-mobil-alisveris-indirimleri-tr.marketsepeti.online
 101-extra-sadece-bugune-ozel-mobil-alisveris-indirimleri-tr.sepetra-tr.online
 101-extra-sadece-bugune-ozel-mobil-alisveris-sepet-tr.max-shop-tr.online
 101-extra-sadece-bugune-ozel-mobil-firsat-indirimleri-tr.trendceps.online
@@ -61255,6 +61256,7 @@ basvruonalinne.cfd
 basvruonayi.pro
 basvrurrprsmynnkmonyaaa.info
 basvrurrprsmynnkmonyaaa.pro
+basvrurrrpmrsmynnnkmphyaaa.pro
 basvrusasnaaid.com
 basvrusorgulama-acikdenz.com
 basvrutcrnrnbnnrc.com
@@ -99996,5 +99998,3 @@ ceriforbes1.xyz
 cerinor.com
 ceriossl.info
 cerkes.app
-cermiamakmur.com
-cermoldeef.com
