@@ -1,3 +1,9 @@
+tok-asd.click
+tok-basvur-dabur.genelmerkezidirresmiyet.com
+tok-basvurum-dev.online
+tok-basvurum-dev.site
+tok-basvurum-dev.store
+tok-bsvr.com
 tok-bsvr.com.tr
 tok-bsvrlrm.com
 tok-gar.online
@@ -44007,6 +44013,7 @@ www-teb-com-tr-emekli-sayfasi.my-homeip.de
 www-teb-com-tr-emekli.my-homeip.de
 www-teb-com-tr-emeklilik-promosyonu.my-homeip.de
 www-teb-com-tr-internet-islemleri.my-homeip.de
+www-teb-com-tr-internet-mobil-sube.my-homeip.de
 www-teb-com-tr-internet-subesi.my-homeip.de
 www-teb-com-tr-islem-merkezi.my-homeip.de
 www-teb-com-tr-mobil-sayfa.my-homeip.de
