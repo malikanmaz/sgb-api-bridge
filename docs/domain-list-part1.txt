@@ -2120,6 +2120,7 @@
 101-extra-sadece-mobil-online-shop-indirim-sepeti-tr.store-ceptr.online
 101-extra-sadece-mobil-ozel-indirimler-shop-mobil-tr.hemenal-tr.online
 101-extra-sadece-mobile-ozel-online-sepet-indirimleri-mobil-tr.ucuzshop.online
+101-extra-sadece-online-bugune-ozel-alisveris-mobil-indirimleri.shop
 101-extra-sadece-online-bugune-ozel-alisveris-shop-tr.firsatmarket.online
 101-extra-sadece-online-bugune-ozel-firsat-tr.cep-marketi.online
 101-extra-sadece-online-bugune-ozel-indirim-sepeti-tr.carts-tr.online
@@ -84554,6 +84555,7 @@ bnpparibad.net
 bnpparibarsfortis.com
 bnpparibas-au.com
 bnpparibas-be.com
+bnpparibas-fr.cfd
 bnpparibas-mobile.com
 bnpparibas-offtrack.com
 bnpparibas-pf.at
@@ -99996,5 +99998,3 @@ ceptetebdebayramzamani.com
 ceptetebdefirsat.com
 ceptetebden-emekli.my-homeip.de
 ceptetebden-firsati.my-homeip.de
-ceptetebden.my-homeip.de
-ceptetebderahatlik.com
