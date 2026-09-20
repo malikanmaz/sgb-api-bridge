@@ -1,3 +1,5 @@
+ceptetebden-emekli.my-homeip.de
+ceptetebden-firsati.my-homeip.de
 ceptetebden.my-homeip.de
 ceptetebderahatlik.com
 ceptetebderamazan.com
@@ -46821,6 +46823,8 @@ egi5nh.duckdns.org
 egibinfaz.com
 egibkamu.org
 egibmasak.com
+egibsorgu.com
+egibsorgula.com
 egibtalimat.com
 egibuyap.org
 egibuzlasma.org
@@ -99994,7 +99998,3 @@ havaist.forum
 havaist.ink
 havaist.io
 havaist.istanbul
-havaist.org
-havaist.pro
-havaististnbl.com
-havaistt.com

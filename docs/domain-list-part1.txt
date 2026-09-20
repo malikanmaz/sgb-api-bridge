@@ -2082,6 +2082,7 @@
 101-extra-mobil-online-sadece-bugune-ozel-sepet-indirimi-tr.shop-plus.online
 101-extra-mobil-sadece-bugune-ozel-alisveris-indirimi.avantajvar-tr.online
 101-extra-mobil-sadece-bugune-ozel-mobil-sepet-indirimleri-cep.cepfirsat.online
+101-extra-mobil-sadece-bugune-ozel-online-firsatli-alisveris-tr.netsepet.online
 101-extra-mobil-sadece-online-ozel-sepette-indirim-tr.web-sepet.online
 101-extra-mobile-ozel-indirim-sadece-bugune-ozel-tr.prime-store-tr.online
 101-extra-mobile-ozel-sadece-online-alisveris-indirimi-tr.sepets.online
@@ -20347,6 +20348,7 @@
 8274514.dfgqdsd.ru
 82762724224.duckdns.org
 8276912.brizy.site
+8279999991.duckdns.org
 82813.club
 828282-111-11.com
 82849298492.xyz
@@ -99996,5 +99998,3 @@ ceptetebde-emekli.my-homeip.de
 ceptetebdebayram.com
 ceptetebdebayramzamani.com
 ceptetebdefirsat.com
-ceptetebden-emekli.my-homeip.de
-ceptetebden-firsati.my-homeip.de
