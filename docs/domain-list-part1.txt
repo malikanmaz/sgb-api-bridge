@@ -68,6 +68,7 @@
 0000010100101045.cloud
 000001032026.me
 00000111.hopto.org
+0000011111.duckdns.org
 000002011111-111.shop
 00001000010001.cloud
 00001101011.duckdns.org
@@ -2106,6 +2107,7 @@
 101-extra-sadece-bugune-ozel-mobil-alisveris-sepet-tr.max-shop-tr.online
 101-extra-sadece-bugune-ozel-mobil-firsat-indirimleri-tr.trendceps.online
 101-extra-sadece-bugune-ozel-mobil-indirim-sepeti-shop-tr.avantajshop.online
+101-extra-sadece-bugune-ozel-mobil-online-indirimleri-sepet-tr.cepsepet-tr.online
 101-extra-sadece-bugune-ozel-mobil-sepet-indirimleri-shop-tr.trendex-tr.online
 101-extra-sadece-bugune-ozel-mobil-sepet-indirimleri-tr.cep-markets.online
 101-extra-sadece-bugune-ozel-mobil-sepet-indirimleri-tr.shop-buy-tr.online
@@ -8719,6 +8721,7 @@
 2026evsistemi.sbs
 2026evtapum.sbs
 2026frsattlarburadakcmz.giize.com
+2026guncelsorgular.life
 2026hedefvizyon.online
 2026hediyesi.cfd
 2026ilkevim.com.tr
@@ -12634,6 +12637,7 @@
 365052268.dfgqdsd.ru
 3650lk9.ldahtkg.cn
 36516940158.online
+365214snfrlstarrkmpnyaabasvrr.pro
 365296876.top
 3654.ddns.net
 3654170843.top
@@ -25278,6 +25282,7 @@ a101kampanya-aldinaldin.xyz
 a101kampanya-ozel.com
 a101kampanya.buzz
 a101kampanya.com
+a101kampanya.cyou
 a101kampanya.kurumsal-indirimler.com.tr
 a101kampanya.life
 a101kampanya.market
@@ -37198,6 +37203,7 @@ ailesosyalhizmetler.com
 ailesosyalhizmetler.online
 ailesosyalyardim.fun
 ailesosyalyardim.online
+ailesosyalyardim.sbs
 ailesosyalyardimbakanligi-sosyaldestek.org
 ailetr.online
 ailetr.xyz
@@ -39531,6 +39537,7 @@ akjzdansdhomes.cloud
 akjzdasnds.cloud
 akjzdn.site
 akjzdsansdsakk.cloud
+akka-lyn-av.myonlineportal.ch
 akkaampanya.online
 akkampanya-faizsiz.online
 akkampanya.com
@@ -41006,6 +41013,7 @@ aktuelfirsat101.online
 aktuelfirsatadresi.art
 aktuelfirsatadresi.click
 aktuelfirsatadresinde.click
+aktuelfirsatgunu.duckdns.org
 aktuelfirsatin.com
 aktuelfirsatin101.online
 aktuelfirsatis.biz
@@ -46314,6 +46322,7 @@ anck234176.com
 ancllk.bsayfasi.net
 ancontemplative.top
 ancs.top
+and-akv-ask.myonlineportal.ch
 and-anp-andric.myonlineportal.ch
 and-security-state.com
 and-tim.at.ply.gg
@@ -48433,6 +48442,7 @@ app.influmarket.org
 app.instegro.xyz
 app.jtmtht.com
 app.kriptoinfo.online
+app.kuzeymenkultr.com
 app.lydnamicedu.org
 app.miloyannopoulos.com
 app.obokay.com
@@ -51602,6 +51612,7 @@ aronaskemp436.xyz
 aronyk.xyz
 aroootselxckcksldff.com
 arop.loveslife.biz
+aror-al-anmy.myonlineportal.ch
 aroraaracmodelleri.com
 arorabayii.com
 arorabayisi.com
@@ -51725,6 +51736,7 @@ arrrzumstwt.com
 arrvest.ddns.net
 arrzuminndrim.com
 arrzzumnndrrs.com
+ars-aek-arn.myonlineportal.ch
 ars-basvuru-iadeformu-edevlet.com
 arsabasvurutalep.net
 arsakonutbasvurusartlarimiz.net
@@ -56236,6 +56248,7 @@ avqmhbwkmp.duckdns.org
 avqmjwsmmm.duckdns.org
 avqtudjpm.com
 avqtxlvv.com
+avr-aow-asc.myonlineportal.ch
 avrasya-edu.online
 avrasya-tuneli-hgs-ogs-sorgula-ode.com
 avrasya-tuneli.net
@@ -67284,6 +67297,7 @@ bedavanetmet.com
 bedavaoyun.online
 bedavapakett.online
 bedavapanel.com
+bedavapanel.cyou
 bedavapanel.net
 bedavapanel.org
 bedavapanel.site
@@ -87955,6 +87969,7 @@ brilliantroad.top
 brilono.sbs
 briloria.com
 briloza.org
+brily.org
 brimarto.gifts
 brimvakfbankmobil.tk
 brinchil.xyz
@@ -99603,6 +99618,7 @@ ceptedirbumutluluk-kacirma.xyz
 ceptedirmutluluk-kacirma.xyz
 cepteefirsatlarsokta.com
 cepteefirssgat.com
+cepteehizlisal.xyz
 cepteesokmarkeetler.com
 cepteeteblen.com
 cepteeyuklee.sg-host.com
@@ -99962,6 +99978,8 @@ cepteteb-bonusmobilgiris.ph
 cepteteb-bonusmobilsube.com
 cepteteb-bonusmobilsubesi.com
 cepteteb-c-o-m-tr.my-homeip.de
+cepteteb-com-tr-emekli-kampanya.myonlineportal.ch
+cepteteb-com-tr-emekliler.myonlineportal.ch
 cepteteb-com-tr-emekliye-ozell.my-homeip.de
 cepteteb-com-tr.my-homeip.de
 cepteteb-com-tr.tk
@@ -99980,21 +99998,3 @@ cepteteb-emekliyle.my-homeip.de
 cepteteb-esube.com
 cepteteb-esube.my-homeip.de
 cepteteb-giris.com
-cepteteb-global.com
-cepteteb-iade.com
-cepteteb-internetsubem.com
-cepteteb-kampanya.com
-cepteteb-kazan.com
-cepteteb-kazanmavakti.com
-cepteteb-merkeziislemler.my-homeip.de
-cepteteb-mobil-giris.com
-cepteteb-mobil.ml
-cepteteb-mobilsube-com-tr.tk
-cepteteb-mobilsubem.com
-cepteteb-online-giris.com
-cepteteb-onlineweb.com
-cepteteb-sube-katilim-giris.com
-cepteteb-sube-online-giris.com
-cepteteb-sube.com
-cepteteb-sube.tc
-cepteteb-subesi.com
