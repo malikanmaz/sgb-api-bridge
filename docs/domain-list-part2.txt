@@ -70506,6 +70506,7 @@ formrepel.top
 formres-confrimesgueste.com
 forms-gle.online
 forms.works
+formsayfasi.netlify.app
 formsepeti.name.tr
 formsikayetvarhalktan.cf
 formsorgu.org
@@ -99997,4 +99998,3 @@ hataygozlemecilersoyfasi.site
 hataylilarsubeleri.com.tr
 hataylilarsubelerindekampanya.com.tr
 hataylilarsubelerindekampanya.online
-hataylilarsubelerindekampanyalar.com.tr
