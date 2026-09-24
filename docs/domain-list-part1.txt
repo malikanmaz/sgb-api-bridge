@@ -56396,6 +56396,7 @@ avs.myftp.biz
 avs.otoko-cfilo.xyz
 avsa1.com
 avsarabakiralago.com
+avsarackirala.com
 avsarackirala.com.tr
 avsarackiralamahizmet.com.tr
 avsarackiralamahizmet.xyz
@@ -62495,6 +62496,7 @@ basvuru-akgiris.duckdns.org
 basvuru-akgirisim.duckdns.org
 basvuru-akgirisimler.duckdns.org
 basvuru-akonay.com
+basvuru-aktifledeniz-garanti-kredi-basvuru.vercel.app
 basvuru-al.ml
 basvuru-aralik-101.duckdns.org
 basvuru-aralik-2.duckdns.org
@@ -86583,6 +86585,7 @@ bootup.ddns.net
 boowamp.ddns.net
 boozbash.xyz
 bopaacous.ddns.net
+bopaje7148.store
 bopcofh.com
 bopetuto.ddns.net
 bopquvutgyyu.info
@@ -99995,6 +99998,3 @@ ceptesok.hizlifirsatim.com
 ceptesok.hizligiriss.com
 ceptesok.hosgeldin2026.cfd
 ceptesok.indirimtr.cfd
-ceptesok.net.tr
-ceptesok.superindirim.cfd
-ceptesok.yazaozel.cfd
