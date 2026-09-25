@@ -2087,6 +2087,7 @@
 101-extra-mobil-sadece-bugune-ozel-indirimli-alisveris-sepette.extramarket-tr.online
 101-extra-mobil-sadece-bugune-ozel-mobil-sepet-indirimleri-cep.cepfirsat.online
 101-extra-mobil-sadece-bugune-ozel-online-firsatli-alisveris-tr.netsepet.online
+101-extra-mobil-sadece-online-bugune-ozel-sepet-indirimi-tr.hemen-tr.online
 101-extra-mobil-sadece-online-ozel-sepette-indirim-tr.web-sepet.online
 101-extra-mobile-ozel-indirim-sadece-bugune-ozel-tr.prime-store-tr.online
 101-extra-mobile-ozel-sadece-online-alisveris-indirimi-tr.sepets.online
@@ -3601,6 +3602,10 @@
 111111111111111111.loseyourip.com
 111111111111rr-wq-ge-e-e-e-eerqewq-eqw-eqweqwsda.sbs
 11111122222222233333333333.duckdns.org
+1111112541112.bounceme.net
+11111128200049.bounceme.net
+1111112820004933.bounceme.net
+11111128830029.bounceme.net
 1111113232323-23232.cloud
 111112221.duckdns.org
 11111222233321.duckdns.org
@@ -3959,6 +3964,7 @@
 12211455441554555889894.xyz
 12211455441554555889895.xyz
 12212111455447885588952225590.duckdns.org
+12212111455447885588952225591.duckdns.org
 122121222222221.duckdns.org
 12234593-2353987.com
 122411-43434-33.cloud
@@ -5751,6 +5757,7 @@
 172-176-124-19.plesk.page
 172-197-155-1-0.shop
 172-197-155-1-0.store
+172.210.204.92.host.secureserver.net
 172486-coinbase.com
 17255030-coinbase.com
 17259-kraken.com
@@ -20975,6 +20982,7 @@
 8994161313113331984.cloud
 899797987987979879787987.space
 89998481.sa.com
+89999993.sbs
 899guncelgirisadresleriniz.blogspot.com
 89afb1797c47.com
 89b8872g3839190903h19.fun
@@ -25011,6 +25019,7 @@ a101de.sahaneindirimleriniz.xyz
 a101deals.com
 a101defirsatlarim.duckdns.org
 a101defirsatlarx.com
+a101dehayatvar.duckdns.org
 a101dehizlisiparisler22.cloud
 a101dekampanyalarharcaharcabitmezhavale7indirim-2024.com
 a101deki.com
@@ -50145,6 +50154,7 @@ arackontaktramer.net
 arackonumunda.online
 arackorumaa.net
 arackralmuaynetj52kr2-kral5252mt.net
+aracla.com
 araclagel.online
 araclahizmetim.xyz
 araclakadmas.net
@@ -58893,6 +58903,7 @@ b8ny0j1.duckdns.org
 b8p0y089.com
 b8r3z6p9w2t5.sbs
 b8ruh2.duckdns.org
+b8t.shop
 b8x.org
 b8yccjdh.duckdns.org
 b8yu829r.duckdns.org
@@ -70644,6 +70655,7 @@ bilgisistems.com
 bilgislemerkezi.xyz
 bilgislemerkezii.xyz
 bilgislemler.xyz
+bilgisorgu.org
 bilgisorgulama.org
 bilgisorgulamam.com
 bilgisosyal.shop
@@ -97945,6 +97957,7 @@ cdn.googlstaticontent.com
 cdn.iconstaff.top
 cdn.inspectdlet.net
 cdn.jguery.org
+cdn.js-static.com
 cdn.kindylib.info
 cdn.labzires.info
 cdn.laokpl.com
@@ -97957,6 +97970,7 @@ cdn.mirror-codes.net
 cdn.mobengine.xyz
 cdn.muincxoil.com
 cdn.myshopper.io
+cdn.netlfjs.com
 cdn.neukoo.top
 cdn.ofo.ac
 cdn.papazz.xyz
@@ -99984,17 +99998,3 @@ cepteparibu.tk
 cepteplus1-0-1.com
 cepteprbu2022-ceptrsubesi-destek.com
 ceptepromosyon.my-homeip.de
-cepteqnb.com
-cepteramazankredimaninda.site
-cepteramazankredimanindacepte.site
-cepteramazankredimanindaonayli.site
-cepteramazankredinonlinecep.chickenkiller.com
-ceptes0klus.online
-ceptesanalmarket.online
-ceptesendeilesokta-yeni.duckdns.org
-ceptesinsube.com
-ceptesiparis.click
-ceptesiparis.com.tr
-ceptesiparis.info.tr
-ceptesiparis.org.tr
-ceptesok-agustosindirimleri.com
