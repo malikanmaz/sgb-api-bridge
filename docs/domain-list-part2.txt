@@ -1,3 +1,4 @@
+cepteonlinemagaza.com.tr
 cepteonlinemagaza.info.tr
 cepteonlinemagaza.net.tr
 cepteonlinemagaza.org.tr
@@ -87281,6 +87282,7 @@ gratis.anointedacres.com
 gratis.ask4tree.com
 gratis.benmook.com
 gratis.blixtrader.com
+gratis.blohm.com
 gratis.bunkershub.com
 gratis.craftyhour.com
 gratis.cwbots.com
@@ -99996,5 +99998,3 @@ hasatzamani.shop
 hasatzamaniversin.online
 hasatzamaniversin1.online
 hasatzamaniversin2.online
-hasatzamaniversin3.online
-hasatzamaniversin4.club
