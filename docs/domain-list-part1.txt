@@ -2366,7 +2366,9 @@
 10100002026.duckdns.org
 101001010100001.cloud
 101001011-11.cloud
+1010010177200.bounceme.net
 10100123232.cloud
+101001310177200.bounceme.net
 10101001-1111-11.cloud
 1010101-11111.cloud
 101010101-111222.cloud
@@ -99996,5 +99998,3 @@ cepteodeme.tk
 cepteonay-garantibasvurulari.vercel.app
 cepteonay-garantiiiylebasvuruonaylari.vercel.app
 cepteonay-garantiiylebasvuruonaylari.vercel.app
-cepteonay-yapiceponayaktifkatilim.vercel.app
-cepteonlinemagaza.biz.tr
