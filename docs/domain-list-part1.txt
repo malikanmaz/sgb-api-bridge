@@ -2111,6 +2111,7 @@
 101-extra-sadece-bugune-ozel-indirim-sepeti-tr.shops-bilgi.online
 101-extra-sadece-bugune-ozel-indirim-shop-sepet-indirimi-tr.buy-tr.online
 101-extra-sadece-bugune-ozel-indirimli-sepet-mobilde-tr.sepetextra-tr.online
+101-extra-sadece-bugune-ozel-indirimli-sepet-shop-tr.onlinecep-tr.online
 101-extra-sadece-bugune-ozel-mobil-alisveris-cep-tr.cepteal-tr.online
 101-extra-sadece-bugune-ozel-mobil-alisveris-indirimleri-tr.extra-cepte-blog.online
 101-extra-sadece-bugune-ozel-mobil-alisveris-indirimleri-tr.marketsepeti.online
@@ -2146,6 +2147,7 @@
 101-extra-sadece-online-ozel-alisveris-indirimleri-sepette-tr.trendextra.online
 101-extra-sadece-online-ozel-alisveris-mobil-extra-shop-tr.bilgi-mobil-tr.online
 101-extra-sadece-online-ozel-alisveris-sepet-indirimleri-mobil.bireysel-shops-mobil.online
+101-extra-sadece-online-ozel-indirimli-alisveris-sepette-mobil.sepetss-tr.online
 101-extra-sadece-online-ozel-mobil-alisveris-indirimleri-sepete.ekle-tr.online
 101-extra-sadece-online-ozel-mobil-indirim-sepeti-tr.services
 101-extra-sadece-online-ozel-mobil-indirim-sepeti-tr.services-cep.online
@@ -3968,6 +3970,8 @@
 121991dec.ddns.net
 121firsatlar2313.com
 121milkyway.xyz
+122048882008288.bounceme.net
+122048882008329.bounceme.net
 1221.site
 122111145541155455455899990.duckdns.org
 122111145541155455455899992.duckdns.org
@@ -4011,6 +4015,7 @@
 12256265665563233.info
 12256265665563233.xyz
 12256265665563472.info
+1227300299930.webredirect.org
 122864560.info
 122864560.xyz
 122864562.xyz
@@ -4226,6 +4231,7 @@
 125.com
 1251155665599091.xyz
 1251155665599092.xyz
+125122151251.duckdns.org
 125125121.click
 125125121.xyz
 1251255455589990.xyz
@@ -4320,6 +4326,7 @@
 1275943-625463144-33443654.com
 127613231239.online
 1277.center
+1279199552030.duckdns.org
 127lh.zapto.org
 127pssa.cn
 128-218-192-168.shop
@@ -9554,6 +9561,7 @@
 231-342-564.com
 23112312321.net
 2311foreign.xyz
+2312059939299112.webredirect.org
 23122231321321.duckdns.org
 23123123-123-11.cloud
 2312312312312.cloud
@@ -9852,6 +9860,7 @@
 240520.ddns.net
 24094jsby.duckdns.org
 241220077.ddns.net
+24124214124.duckdns.org
 2412491823.com
 2413dto9v.duckdns.org
 24141241.com
@@ -10170,6 +10179,7 @@
 2574345284563534.com
 2574896545289de1258.hopto.org
 25770235.cloud
+257812.xyz
 257845.cloud
 258-897-13-560-77.cfd
 2581066d1264f4c1.com
@@ -43879,6 +43889,7 @@ alisverisinnoktasi.duckdns.org
 alisverisinnoktasinda.com
 alisverisinortasi.com
 alisverisinsepet-17.sbs
+alisverisinsepet-18.sbs
 alisverisintr.com.tr
 alisverisinyeri.com.tr
 alisverisinzsizinle.online
@@ -52761,6 +52772,7 @@ asdgedfglekdwekweq.com
 asdgfdasdqwe.net
 asdgg3e23g32gg32.com
 asdgh53kad.com
+asdghbvdasha.art
 asdghehq.net
 asdghn.duckdns.org
 asdghvdasha.art
@@ -56562,6 +56574,7 @@ avskirala.com.tr
 avskirala.net
 avskiralaaracmahizmet.com.tr
 avskiralama.online
+avskiralama.org
 avskiralama.rent
 avskiralama724.com
 avskiralamaa.com.tr
@@ -56578,6 +56591,7 @@ avskoc.org
 avskocfilo.com
 avskocfilo.net
 avskockiralama.com
+avskocrental.net
 avskurumsalkirala.com
 avsonline.com.tr
 avsonline.net
@@ -95879,6 +95893,7 @@ canyardimvakfi.org
 canylane.com
 canymsdadsac342.com
 canyonhotels.world
+canyonmere.cc
 canyouc.xyz
 canyouse.duckdns.org
 canyouseeme1.zapto.org
@@ -99983,18 +99998,3 @@ ceptekredinizbizden.ml
 ceptektebwebgiris.com
 ceptelefon-elektronik-paramguvende-pro-sahibinden.com
 ceptelefonu-elektronik-paramguvende-pro-sahibinden.com
-ceptelefonundanmarketkontrolsistemi.cfd
-ceptelinks-tr-mobil-tr.online
-ceptelirayukle.com
-ceptem-tebinfirsatlari.com
-ceptemagaza.biz.tr
-ceptemagaza.com.tr
-ceptemagaza.info.tr
-ceptemagaza.net.tr
-ceptemagaza.org.tr
-ceptemagazam.com.tr
-ceptemagazam.info.tr
-ceptemagazam.net.tr
-ceptemagazam.org.tr
-ceptemagazaonline.biz.tr
-ceptemagazaonline.info.tr
