@@ -2104,6 +2104,7 @@
 101-extra-sadece-bugune-ozel-alisveris-indirim-tr.extra-trend.online
 101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte-tr.bilgi-al.online
 101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte-tr.e-shop-tr.online
+101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte.extraplus-tr.online
 101-extra-sadece-bugune-ozel-alisveris-indirimleri-sepette-cep.sepets-tr.online
 101-extra-sadece-bugune-ozel-alisveris-sepet-indirimleri-tr.shop
 101-extra-sadece-bugune-ozel-alisveris-sepet-indirimleri-tr.shop-mobil-cep.online
@@ -2301,6 +2302,7 @@
 101-sadece-bugune-ozel-online-alisveris-cep-indirimleri-tr.shopstore-tr.online
 101-sadece-bugune-ozel-online-alisveris-sepet-indirimleri-tr.sepetgo.online
 101-sadece-bugune-ozel-online-extra-indirim-tr.sepetextra.online
+101-sadece-bugune-ozel-online-indirim-alisveris-sepeti-tr.bilgishop.online
 101-sadece-bugune-ozel-online-mobil-indirim-sepeti-alisveris-tr.sepet-net.online
 101-sadece-bugune-ozel-online-sepet-indirimleri-tr.shopnet-tr.online
 101-sadece-bugune-ozel-online-siparis-mobil-indirimleri-tr.carts-tr.site
@@ -2377,6 +2379,7 @@
 101.temmuzuygun.com
 101.webredirect.org
 10100002026.duckdns.org
+1010010000020045.webredirect.org
 101001010100001.cloud
 101001011-11.cloud
 1010010177200.bounceme.net
@@ -3617,6 +3620,7 @@
 1111111110000000.sbs
 111111111111111.online
 111111111111111111.loseyourip.com
+111111111111111332.webredirect.org
 111111111111rr-wq-ge-e-e-e-eerqewq-eqw-eqweqwsda.sbs
 11111122222222233333333333.duckdns.org
 1111112541112.bounceme.net
@@ -4307,6 +4311,7 @@
 1265708353.corolain.ru
 126607096.corolain.ru
 1266418412.corolain.ru
+1267125.xyz
 126743432434.cloud
 1267676930.corolain.ru
 126773.corolain.ru
@@ -4538,6 +4543,7 @@
 133-tre.info
 133213345665578555989899091.duckdns.org
 133213345665578555989899092.duckdns.org
+133213345665578555989899093.duckdns.org
 1332345com.com
 1336.ddns.net
 1337.71d9a9a6c6768aaae18a6c1465332111715a9f78da.p.7bae.xyz
@@ -10754,6 +10760,7 @@
 29867605.corolain.ru
 2987.zapto.org
 29872.cloud
+298863298728.moy.su
 299-91-21-1.cf
 299-91-21-1.ga
 29903444302005.cloud
@@ -12249,6 +12256,7 @@
 33ohoots.duckdns.org
 33poqbmb.duckdns.org
 33tkco.duckdns.org
+33vvv444.site
 33vys57j.duckdns.org
 33yhfvvy.com
 33z4j2qzu.duckdns.org
@@ -14702,6 +14710,7 @@
 493716.cloud
 493f164e.ytji7uew.com.cn
 4943iadesi.ml
+49492914912.com
 49494944-11232.cloud
 49494oop49x92.duckdns.org
 49498489488449.duckdns.org
@@ -26604,6 +26613,8 @@ a1o1sanalmarket6.top
 a1o1sanalmarket7.top
 a1o1sanalmarket8.top
 a1o1sanalmarket9.top
+a1o1sarkuterifirsatlarinizburadaa.com
+a1o1sarkuterifirsatlarinizburadaa.site
 a1o1sasirtanfrsatlar.blogdns.com
 a1o1sepet.net
 a1o1simdi.duckdns.org
@@ -33023,6 +33034,7 @@ adob9nzd.duckdns.org
 adobanevabimcell.com
 adobbefile.ddns.net
 adobe-8dt.ishaan-zvi-dropmeon-com-s-account.workers.dev
+adobe-document-file-project-view.blogspot.com
 adobe-download-flashplayer.com
 adobe-express.com
 adobe-flash-player.pro
@@ -40473,6 +40485,8 @@ aktfbncasgrsler.com
 aktfbncasgrslertr.com
 aktfbnsdyrulari.com
 aktfbnsgirisleri.com
+aktfburd.shop
+aktfburda.sbs
 aktfeyxlulxdrmxlrm.com.tr
 aktfeyxlulxdrmxlrm.xyz
 aktgfrsat.click
@@ -46730,6 +46744,7 @@ anenpara.ml
 anereve.com
 aneria.net
 anerjargon.top
+anesthesiaschool.com
 aneviirnadvm.online
 anewshove.top
 anewstagnate.top
@@ -53339,6 +53354,7 @@ askernakar.click
 askervondatsk.tk
 askeskibiryalan.net
 asketplay.ddns.net
+askfaskgasogasg.blogspot.com
 askfkgokoshmsdg.buzz
 askforupdate.org
 askghomel.buzz
@@ -56526,6 +56542,7 @@ avrw34v3q4fcq34cw.net
 avs-arackiralama.com
 avs-kirala.com
 avs-kiralama.com
+avs-rentacars.com
 avs.kiralama-online.com.tr
 avs.kiralama-tr.com
 avs.myftp.biz
@@ -61960,6 +61977,7 @@ basvur-tc-sorgu.com
 basvur-teb-cep.myonlineportal.de
 basvur-tebcep.myonlineportal.de
 basvur-toki.com
+basvur-toki.com.tr
 basvur-tr-ailegenc.com
 basvur-tr-deniz.xyz
 basvur-turkeygovtr.com
@@ -83349,6 +83367,7 @@ bmwcelworld.com
 bmwcelworldd.com
 bmwcelworlld.com
 bmwcleodemee.com
+bmwistebmwbenim.duckdns.org
 bmwkampanyakatilimprb.com
 bmwkazanmaninzamanigeldi.com
 bmwkazanmasansi.com
@@ -89243,6 +89262,7 @@ bsvrrkmpnyaaprmsynn.live
 bsvrrkmpnyaaprmsynn.pro
 bsvrrkmpnyaapsssrmsynn.art
 bsvrrkmpnyaapsssrmsynn.info
+bsvrrkmpnyaparmooo198123.pro
 bsvrrkmpnyaprmoo.info
 bsvrrkmpnyaprmoo.pro
 bsvrrkmpnyaprmsynnn.art
@@ -94999,6 +95019,7 @@ cahidepalazzo.b-cdn.net
 cahidepalazzo.blogspot.com
 cahidepalazzo.click
 cahidepalazzo.info
+cahidepalazzo.online
 cahidepalazzo.website
 cahidepalazzo.xyz
 cahidepalazzo1453.com
@@ -99977,24 +99998,3 @@ cepteiadenizburada.com
 cepteiadenizburada.org
 cepteindirim.com.tr
 cepteindirim.net.tr
-cepteindirim.org.tr
-cepteindirim.site
-cepteindirimhizmeti.com.tr
-cepteindirimsok.com
-cepteinternet20gb.com
-cepteinternetevdeinternet.com
-cepteinternetheryerdeinternet.xyz
-cepteis-bireysel.com
-cepteis-brysel.com
-cepteis.net
-cepteisbank.com
-cepteisbankasi.com
-cepteisbankfirsatlari.net
-cepteiscepfirsat-onlinecepisbasvuru.vercel.app
-cepteisgiris.vercel.app
-cepteisgirisim.com
-cepteisim.xyz
-cepteislem.com
-cepteislem.online
-ceptekampanya.camdvr.org
-ceptekampanya.my-homeip.com
