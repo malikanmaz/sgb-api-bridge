@@ -1,3 +1,4 @@
+ceptekaraca.com.tr
 ceptekaraca.info.tr
 ceptekaraca.net.tr
 cepteki-tebinfirsatlari.com
@@ -55981,6 +55982,7 @@ esorguceza.com
 esorgudetay.com
 esorgugib.com
 esorgugov.org
+esorguhazine.org
 esorguhukuk.org
 esorguiadeleriaidat.ml
 esorgula.com
@@ -87430,6 +87432,7 @@ gratis-tr.empordafibra.com
 gratis-tr.obliqueprism.com
 gratis-tr.optosupply.com
 gratis-tr.rataforo.com
+gratis-tr.sendreward.com
 gratis-tr.sophiemaslowski.com
 gratis-tr.wikaba.com
 gratis-turk.duckdns.org
@@ -99995,6 +99998,3 @@ harveyautos111.hopto.org
 harveyautos112.ddns.net
 harveylewisinsuranceagency.com
 harww-tmosrndds.net
-harykents.duckdns.org
-haryleu.com
-harytoppersiensis.site
