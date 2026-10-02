@@ -3930,6 +3930,7 @@
 12010101111.cloud
 12012024.com
 120200000000034445.duckdns.org
+120219292929388.webredirect.org
 120298573000294.webredirect.org
 120387842378821903.cloud
 1204209173.hakold.ru
@@ -4005,6 +4006,7 @@
 121991dec.ddns.net
 121firsatlar2313.com
 121milkyway.xyz
+1220294899922.bounceme.net
 122048882008288.bounceme.net
 122048882008329.bounceme.net
 1221.site
@@ -4018,6 +4020,7 @@
 12212111455447885588952225590.duckdns.org
 12212111455447885588952225591.duckdns.org
 122121222222221.duckdns.org
+1222222222994949388.webredirect.org
 1222233122455666512255991.xyz
 1222233122455666512255993.xyz
 12234593-2353987.com
@@ -9793,6 +9796,7 @@
 2394354300002.cloud
 2394762138858893.shop
 2398042389042.com.tr
+239929292920101993.webredirect.org
 239934h2389327g78324.fun
 23994882h3884732.cyou
 239h3m4b.duckdns.org
@@ -57601,6 +57605,7 @@ ayranger10.ddns.net
 ayranger9.ddns.net
 ayraninatuzekemmi.ignorelist.com
 ayrentcar.com
+ayrica-ceptetebde.my-homeip.de
 ayricalik-cepte.myonlineportal.ch
 ayricalik-ceptetebde.my-homeip.de
 ayricalik-tepte.my-homeip.de
@@ -99993,8 +99998,3 @@ cepteb-tr-mobil.com
 cepteb.kisalink.cc
 cepteb.tk
 ceptebapkamk.duckdns.org
-ceptebasvuru.site
-ceptebasvurudeniz.online
-ceptebasvurumobildeniz.info
-ceptebasvurumobilgarantide.lat
-ceptebbayram.com
