@@ -2135,6 +2135,7 @@
 101-extra-sadece-bugune-ozel-mobil-alisveris-sepet-tr.max-shop-tr.online
 101-extra-sadece-bugune-ozel-mobil-firsat-indirimleri-tr.trendceps.online
 101-extra-sadece-bugune-ozel-mobil-indirim-sepeti-shop-tr.avantajshop.online
+101-extra-sadece-bugune-ozel-mobil-indirim-sepeti-tr.eticaret-mobil.online
 101-extra-sadece-bugune-ozel-mobil-online-indirimleri-sepet-tr.cepsepet-tr.online
 101-extra-sadece-bugune-ozel-mobil-sepet-indirimleri-shop-tr.trendex-tr.online
 101-extra-sadece-bugune-ozel-mobil-sepet-indirimleri-tr.cep-markets.online
@@ -25931,6 +25932,7 @@ a101ramazanakampanyaa2.click
 a101ramazanaozel.online
 a101ramazandayiz.duckdns.org
 a101redictare.online
+a101reklam.com
 a101resmikampanya.xyz
 a101s.org
 a101s1alad-infirsat.store
@@ -99996,5 +99998,3 @@ ceptedenizcekilis.tk
 ceptedenizfirsatin.xyz
 ceptedenizfirsatlarin.online
 ceptedenizim.online
-ceptedenizonlinebasvuruaninda.shop
-ceptedenizonlinebasvurugiris.shop
