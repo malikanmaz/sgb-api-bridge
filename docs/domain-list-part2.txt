@@ -1,3 +1,5 @@
+cepte-sok.name.tr
+cepte-sok.online
 cepte-sok.shop
 cepte-sokfirsatlar.online
 cepte-sokguncel.net.tr
@@ -18178,6 +18180,7 @@ defything.top
 deg1s11kk.xyz
 deg9xyb8v.duckdns.org
 degahito.top
+degasxdwwa.duckdns.org
 degdigini-bilerek-sadece-burali-olarak-gordun.com
 degdmgokyzn.org
 degecebimcell.com
@@ -99995,6 +99998,3 @@ harika15indirimim.com.tr
 harika15indirimim.online
 harika15indirimim.xyz
 harika15indirimimiz.com.tr
-harikaaaifrsatlarbuda.com.tr
-harikaannelergunuindirimleri.store
-harikabayramaozelfirsatlarsizlerle.xyz
