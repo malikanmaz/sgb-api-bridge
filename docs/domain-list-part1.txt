@@ -1760,6 +1760,7 @@
 10000tr9000tr.cloud
 100010010010100001.cloud
 100010010010100002.cloud
+10001kacmazfirsatlar.duckdns.org
 100023200.cloud
 1000243534515.duckdns.org
 1000243534516.duckdns.org
@@ -1848,9 +1849,11 @@
 1001cesitindirim.online
 1001chromokeyz.site
 1001firsatdunyasi.duckdns.org
+1001firsatlarkacmaz.duckdns.org
 1001harcabitmez.click
 1001incifirsatlar.com
 1001indirimburada.net
+1001kampanyakcmz.duckdns.org
 1001magazaaralikayikampanyasi.online
 1001magazahaftaninyilldizii.online
 1001magazamizaozel.com
@@ -9238,6 +9241,7 @@
 2121124555555441554445990.xyz
 2121124555555441554445991.xyz
 212114551221455122452245590.xyz
+212114551221455122452245591.xyz
 21211546122.xyz
 21212126513212156.space
 2121232323232.cloud
@@ -22071,6 +22075,7 @@
 95175396284.cloud
 951891598x.com
 9518919.com
+9519519519519519.click
 9521487prmsynnnbsvrrkmpnyasnfrrstr.info
 9521487prmsynnnbsvrrkmpnyasnfrrstr.online
 952321469729.duckdns.org
@@ -43978,6 +43983,7 @@ alisveriseozelfirsatlar.xyz
 alisverisepet.online
 alisverisepetin-12.sbs
 alisverisepetin-13.sbs
+alisverisepetislem-15.sbs
 alisverisfirsatlaredmialimiburadan.sbs
 alisverisfirsatlari.click
 alisverisfirsatlari.duckdns.org
@@ -50649,6 +50655,7 @@ aracmuayenewebhizmet.com
 aracmuayenewebhizmetleri.com
 aracmuayenex.com
 aracmuayenexarac.com
+aracmuayenexcvx.com
 aracmuayenexq.net
 aracmuayenexxcc.net
 aracmuayeneyaptir.sbs
@@ -53342,6 +53349,7 @@ asgadsqew.sbs
 asgafasdad222d.wiki
 asgalabas.buzz
 asgalaseras.buzz
+asgar7z777ggg.duckdns.org
 asgard-cokie-sg.myonlineportal.ch
 asgard-cup.ru
 asgardastannefretedyorum.duckdns.org
@@ -68579,6 +68587,7 @@ benim-resim-ozelsayfam-katil-sende.ml
 benim-resim-sayfam-galeri.xyz
 benim-resim-sayfam-ozel.com
 benim-resim-sayfam.kampanya-basvuru-sayfa.xyz
+benim-teb-bankam.myonlineportal.at
 benimadimcaferseninadinnee.com
 benimadimkenankamberseninlegoruscez.com
 benimadimname.click
@@ -88134,6 +88143,7 @@ brdnglsnyklnyrhmn.mooo.com
 brdnhzlcyklmypn-m.mooo.com
 brdnmhsrvdl182.click
 brdnoryaglyrdkbr.icu
+brdnrvalcnsnrabn.lol
 brdnsalsmndnmnsmdn.com
 brdnsnkzbrdoplr.icu
 brdnsnkzbryaybnl.icu
@@ -99988,13 +99998,3 @@ cepte-aktarim-dagitim-tc-servisleri-tr.com
 cepte-aktuel.com.tr
 cepte-aktuel.net.tr
 cepte-aktuel.org.tr
-cepte-alisveris.online
-cepte-basvuru.com.tr
-cepte-basvurun.com.tr
-cepte-bavulfirsati.com.tr
-cepte-com.my-homeip.de
-cepte-dagitim-ve-aktarim.com
-cepte-e-bilgi-ve-servis.com
-cepte-e-devlet.com
-cepte-edevletgovtr-aidatlar.duckdns.org
-cepte-ekpaket-turkcell.com
