@@ -1843,6 +1843,7 @@
 100101099999900001.duckdns.org
 10011.cloud
 10011110201011.duckdns.org
+1001bufirsatdunyasi.duckdns.org
 1001buhaftaninindinirimlerri.com
 1001cesitindirim.online
 1001chromokeyz.site
@@ -4054,6 +4055,7 @@
 1222233122455666512255995.xyz
 1222233122455666512255996.xyz
 1222233122455666512255997.xyz
+1222233122455666512255999.xyz
 12229828189122.duckdns.org
 12234593-2353987.com
 122411-43434-33.cloud
@@ -4206,6 +4208,7 @@
 124124121.sbs
 124124124.duckdns.org
 12412414.duckdns.org
+1241251.xyz
 1242142121sdg.cfd
 124215151512.duckdns.org
 12421551236223.online
@@ -37984,6 +37987,7 @@ ak-2024-firsat.sbs
 ak-2025-islemler.duckdns.org
 ak-2520.click
 ak-2525.click
+ak-252525.click
 ak-4325.click
 ak-456946859784.com
 ak-4rstlrr.xyz
@@ -44501,6 +44505,7 @@ allianceforfreedominter.com
 alliancesymphony.top
 allianz-tr.com
 allianzdirekt.online
+allianzim.la
 allianzsigortaaracilikhizmetleri.com
 allianztr.com
 alligatorbirdwaste.com
@@ -50522,6 +50527,7 @@ aracmuayanerandevu.xyz
 aracmuayanerandevum.com
 aracmuayanerandevum.xyz
 aracmuayanerandevunuz.site
+aracmuayanetuvturk.com
 aracmuayene-randevu.com
 aracmuayene-randevu.online
 aracmuayene-randevusu.com
@@ -50532,6 +50538,7 @@ aracmuayene-tuvturk.net
 aracmuayene-tvtrk.com
 aracmuayene-yenituvturk.net
 aracmuayene.dev
+aracmuayene.ink
 aracmuayene.online
 aracmuayene.org
 aracmuayene.sbs
@@ -50551,6 +50558,7 @@ aracmuayeneflxyaqsvc.net
 aracmuayeneflyas.net
 aracmuayenehaber.com
 aracmuayenehemen.com
+aracmuayenehizmetins.blogspot.com
 aracmuayenehizmetlerin.com
 aracmuayenehizmettlerinn.com
 aracmuayenehizmlettrddndevu.web.app
@@ -57695,6 +57703,7 @@ ayniyuzlerdenizle.tk
 aynmyxzgra.duckdns.org
 aynnkrdsmsntmmsn.com
 aynnm.duckdns.org
+aynnnnnn.duckdns.org
 aynsu.loveslife.biz
 ayntrx0.com.tr
 ayntskl.com
@@ -87163,6 +87172,7 @@ borsahaber.world
 borsahaberler.online
 borsahaberleri.info
 borsahaberleri.world
+borsahedef.pages.dev
 borsahediyeleriii.com
 borsahub.net
 borsainfo.online
@@ -99988,13 +99998,3 @@ cepte-e-bilgi-ve-servis.com
 cepte-e-devlet.com
 cepte-edevletgovtr-aidatlar.duckdns.org
 cepte-ekpaket-turkcell.com
-cepte-ekstra.com.tr
-cepte-ekstra.info.tr
-cepte-ekstra.net.tr
-cepte-ekstra.org.tr
-cepte-esube.my-homeip.net
-cepte-extra-mobilde-tr.click
-cepte-eylul.com.tr
-cepte-eylul.info.tr
-cepte-eylul.net.tr
-cepte-eylulsok.com.tr
