@@ -49139,6 +49139,7 @@ ekimayifinssmanlar.biz.tr
 ekimayifinssmanlar.com.tr
 ekimayifinssmanlar.info
 ekimayifinssmanlar.info.tr
+ekimayifinssmanlar.me
 ekimayifinssmanlar.net
 ekimayifinssmanlar.org.tr
 ekimayifirsat1001.com
@@ -99997,4 +99998,3 @@ harcaharcakampanyaliredmiyeri.cfd
 harcaharcakampanyaliredmiyeri.sbs
 harcaharcakampanyaliredmiyerleri.cfd
 harcaharcakampanyaliredmiyerleri.sbs
-harcaharcakeredmiyerisi.cfd
