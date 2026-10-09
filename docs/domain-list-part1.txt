@@ -2297,6 +2297,7 @@
 101-mobil-online-extra-indirimler-sadece-bugune-ozel-tr.shopping-tr.online
 101-mobil-online-ozel-tr.mooo.com
 101-mobil-sadece-bugune-ozel-extra-indirim-sepeti-cep.trendy-shop-tr.online
+101-mobil-sadece-bugune-ozel-indirim-fiyatlari-cepte-tr.sepetbilgisi.online
 101-mobil-sadece-online-alisverise-ozel-indirim-sepeti-shop-tr.e-mobil-tr.online
 101-mobil-sadece-online-ozel-alisveris-sepeti-tr.indirimkapinda.online
 101-mobil-sadece-online-ozel-firsatlar-tr.online
@@ -4053,8 +4054,10 @@
 12212111455447885588952225591.duckdns.org
 122121222222221.duckdns.org
 1222222222994949388.webredirect.org
+1222233122455666512255990.xyz
 1222233122455666512255991.xyz
 1222233122455666512255993.xyz
+1222233122455666512255994.xyz
 1222233122455666512255995.xyz
 1222233122455666512255996.xyz
 1222233122455666512255997.xyz
@@ -4396,6 +4399,7 @@
 1270323322.corolain.ru
 1270972488.corolain.ru
 1271143065.corolain.ru
+1271772882038.duckdns.org
 12724.xyz
 127253-ledger.com
 1273167823867.com
@@ -70726,6 +70730,7 @@ bilgi-online-basvur.life
 bilgi-pandemidestekpaketi.com
 bilgi-platformu.com
 bilgi-portali.com.tr
+bilgi-sepeti.online
 bilgi-sorgulaonline.b-cdn.net
 bilgi-tp.online
 bilgi-vkf.club
@@ -71033,6 +71038,7 @@ bilgisayfasi.net
 bilgisayfasi.org
 bilgisayfasi.tech
 bilgisayffam.net
+bilgisel-cepte.online
 bilgiselislem.xyz
 bilgiselkayitol.com
 bilgiselkayitolun.com
@@ -83806,6 +83812,7 @@ bn-2yasinda.com
 bn-ancetriadefirsati.net
 bn-araba-cekilisim.online
 bn-araba-cekilisin.online
+bn-arabacekilisi.com
 bn-arabacekilisim.online
 bn-basvur-simdi.xyz
 bn-basvuru-checkevent.net
@@ -88078,6 +88085,7 @@ brdabyklerdendml.shop
 brdabykndlrmerdhyz.shop
 brdabzaclgeldksznrdsnz.shop
 brdabzvrdkszlerdens.shop
+brdaerns.cyou
 brdafrsalarnfaydnlacrfsa.cfd
 brdafrstllrx-slznnsnouynii.com.tr
 brdafrstllrx-slzzznnsnouynii.com.tr
@@ -99990,11 +99998,3 @@ cepsubeyapikredi.com
 cepsubeyukle.com
 cepsubeyuklesite.com
 cepsubeziraat.com
-cept-teteb.online
-cept1010201rkmls.site
-cepte--garanti.ml
-cepte-a101.com
-cepte-aktarim-dagitim-tc-servisleri-tr.com
-cepte-aktuel.com.tr
-cepte-aktuel.net.tr
-cepte-aktuel.org.tr
