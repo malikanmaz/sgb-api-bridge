@@ -78505,6 +78505,7 @@ bireyselsube-acikdenizv2denizbank.com
 bireyselsube-akbank.com
 bireyselsube-akbank.online
 bireyselsube-akbankasi.online
+bireyselsube-akbankasi.ph
 bireyselsube-akbankk.com
 bireyselsube-denizbank.com
 bireyselsube-denizbankasi-tr.com
@@ -99997,4 +99998,3 @@ cepsubesi-acikdenizinternetsubesigiris.com
 cepsubesi-acikdenizinternetsubesigiris.net
 cepsubesi-halkbank.com
 cepsubesi-halkbank.org
-cepsubesi-halkbanka.com
