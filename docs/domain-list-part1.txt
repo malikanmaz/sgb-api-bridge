@@ -51379,6 +51379,7 @@ aras.bilgiogrenme.app
 aras.heylink.fyi
 aras.heylink.website
 aras.kargo-expres.com.tr
+aras.takipsorgula.club
 arasakmsa.click
 arasaslfasofaslmsa.online
 arasat.click
@@ -69535,6 +69536,7 @@ beykozbelam.duckdns.org
 beykozegitim.com
 beylergunaydinsayimgeld1i.com
 beylergunaydinsayimgeldi.com
+beylikduzualbaveteriner.pro
 beylikduzualemleri.com
 beylikduzusubekmpn.duckdns.org
 beylopola.duckdns.org
@@ -93150,6 +93152,7 @@ bva-global.lat
 bva-lite.shop
 bva-mobile.shop
 bva-online.click
+bva-promotion.sbs
 bva-request.shop
 bva-tanitim.sbs
 bva-web.shop
@@ -99995,6 +99998,3 @@ cepsubesi2019.tk
 cepsubesi20gb.cf
 cepsubesi20gb.ga
 cepsubesi20gb.gq
-cepsubesi20gb.ml
-cepsubesi20gb.tk
-cepsubesifirsatlari.cf
