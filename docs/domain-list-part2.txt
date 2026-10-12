@@ -81686,6 +81686,7 @@ getbutton.shop
 getbutton.site
 getcable.shop
 getcable.site
+getcartablets.shop
 getcellexa.shop
 getceon.store
 getcert.net
@@ -99997,4 +99998,3 @@ harcaharcabitmeyenkampanya.com.tr
 harcaharcabitmez-001.sbs
 harcaharcabitmez-002.sbs
 harcaharcabitmez-003.sbs
-harcaharcabitmez-004.sbs
