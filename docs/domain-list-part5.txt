@@ -1,3 +1,11 @@
+test.blnance-basvuru.info
+test.brosecure360.com
+test.clayrat.top
+test.diogoflix.com
+test.doctorsordersltd.co.uk
+test.evsahibibasvuru.com
+test.fleetgaard.com
+test.garantibbvakredibasvuru.com
 test.heroserver.space
 test.ikotech.online
 test.mcafee-upgrade.com
@@ -3533,6 +3541,7 @@ togg-satisi.cfd
 togg-trumore.com
 togg-yetkili-acente.org
 togg.101kapimda.com
+togg.bar
 togg.best
 togg.cc
 togg.live
@@ -3540,7 +3549,9 @@ togg.lol
 togg.onsatisbasvur.com
 togg.pro
 togg.satisonbasvuru.com
+togg.top
 togg.website
+togg.wiki
 togg.zuzzuu.com
 togg2023denizsubegiris.tk
 togg2023enparacekilisi.net
@@ -73565,6 +73576,7 @@ zraat-esubem.com
 zraat-esubem.net
 zraat.net
 zraatb.net
+zraatbank.netlify.app
 zraatbankassi.com
 zraatbasvuru.com
 zraatbk.com
