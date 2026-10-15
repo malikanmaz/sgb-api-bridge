@@ -71103,6 +71103,7 @@ bilgilendirmemerkezi.click
 bilgilendirmemm.netlify.app
 bilgilendirmerehberi.web.app
 bilgilendirmesayfasi.misecure.com
+bilgilendirmesler.date
 bilgilendirmeson.nicepage.io
 bilgilendirmesyf.dev
 bilgilendirmetebesdiji.online
@@ -99997,4 +99998,3 @@ cephediyebasvurupaributeknolojidogec-com.tk
 cephediyebasvurusu-paribudogecointeknoloji-com.tk
 cepiad-epari-bu.com
 cepiadegarant-iden.com
-cepilenparafinans.com
