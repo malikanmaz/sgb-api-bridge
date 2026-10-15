@@ -1,3 +1,9 @@
+termos-carrefoursa.vercel.app
+termos-kampanya.store
+termos.duckdns.org
+termos.hrermzsdnbistansdbubru.store
+termosa1o1.sbs
+termosal.cfd
 termosal1.cfd
 termosaxscv.icu
 termosdunyasi.world
@@ -8057,6 +8063,7 @@ tr-tuvturk.net
 tr-twitter-online.com
 tr-u.net
 tr-url.store
+tr-urun-detayi.online
 tr-urun-siparis.com.tr
 tr-urun-siparisi.com
 tr-urun.net

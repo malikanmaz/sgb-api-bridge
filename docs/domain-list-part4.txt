@@ -1,3 +1,8 @@
+news-binance.net
+news-deck.at
+news-gazette.info
+news-info.space
+news-mailamzpaymnt.duckdns.org
 news-oblast.monster
 news-of-the-world.live
 news-on.site
@@ -58406,6 +58411,7 @@ sahibinden-paramguvende.tr-hizmet.com.tr
 sahibinden-paramguvende.tr-onlineodeme.sa.com
 sahibinden-paramguvende.tr-onlinodeme.sa.com
 sahibinden-paramguvende.tr-sepetin.com.tr
+sahibinden-paramguvende.tr-urun-detayi.online
 sahibinden-paramguvende.trodeme.net
 sahibinden-paramguvende.tronlineodeme.sa.com
 sahibinden-paramguvende.v-tr.sa.com
@@ -99992,9 +99998,3 @@ termolasa.click
 termopane-calarasi.ro
 termoplys-m.com
 termos-al.com
-termos-carrefoursa.vercel.app
-termos-kampanya.store
-termos.duckdns.org
-termos.hrermzsdnbistansdbubru.store
-termosa1o1.sbs
-termosal.cfd
