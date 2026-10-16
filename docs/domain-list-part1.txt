@@ -2150,6 +2150,7 @@
 101-extra-sadece-bugune-ozel-alisveris-indirim-tr.extra-trend.online
 101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte-tr.bilgi-al.online
 101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte-tr.e-shop-tr.online
+101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte-tr.hemenalio.online
 101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte.extraplus-tr.online
 101-extra-sadece-bugune-ozel-alisveris-indirimleri-mobilde-tr.cepte-sepeti.online
 101-extra-sadece-bugune-ozel-alisveris-indirimleri-sepette-cep.sepets-tr.online
@@ -2159,6 +2160,7 @@
 101-extra-sadece-bugune-ozel-alisveris-sepeti-indirimi-mobil.ceptakip-tr.online
 101-extra-sadece-bugune-ozel-alisveris-sepeti-tr.360-mobil-pro.com
 101-extra-sadece-bugune-ozel-alisveris-shop-market-indirimi-tr.shops-cep-mobil.online
+101-extra-sadece-bugune-ozel-cepte-siparis-indirimi-tr.cepio-tr.online
 101-extra-sadece-bugune-ozel-indirim-alisveris-sepeti-tr.web-market.online
 101-extra-sadece-bugune-ozel-indirim-sepete-ekle-tr.mobils-bilgide.online
 101-extra-sadece-bugune-ozel-indirim-sepeti-online-tr-cep.alisverisgo.online
@@ -99996,5 +99998,3 @@ cephalkbankparafly.tk
 cephalkbasvuru.com
 cephalorhachidian.com
 cephediyebasvurupaributeknolojidogec-com.tk
-cephediyebasvurusu-paribudogecointeknoloji-com.tk
-cepiad-epari-bu.com
