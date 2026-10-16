@@ -4104,6 +4104,7 @@
 1222233122455666512255999.xyz
 122224457999989999089091.xyz
 122224457999989999089092.xyz
+122224457999989999089093.xyz
 122241224551222455590.duckdns.org
 12229828189122.duckdns.org
 12234593-2353987.com
@@ -14025,6 +14026,7 @@
 4-t-3-s-3-s-c-0-b-4-r.com
 4-u.wtf
 4.appearspacex.de
+4.ddns.me
 4.houstonwalker.com
 40-000tl-basvuru-onay-prmsyn-1l1.duckdns.org
 40-118-23-80.plesk.page
@@ -17411,6 +17413,7 @@
 6-yilkutlamalari.com
 6.0.0.37050.2863923067.3163759174.0.0.b48b4b4c879e7211d6a13e26a8a914aaf6c218653840e81d9f.hfuidhfd.jp
 6.0.0.37050.2863923067.3163759174.0.64.b48b4b4c879e7211d6a13e26a8a914aaf6c218653840e81d9f.hfuidhfd.jp
+6.ddns.me
 60-000-tl-prmsyn-1l1.duckdns.org
 60003243200.site
 6001dc.ddns.net
@@ -18889,6 +18892,7 @@
 7-eleven-hr.com
 7-p-t-t-a-v-m.shop
 7-yilbnbasvurulariniz.com
+7.ddns.me
 7.splnkyulvir.com
 70-34-194-117.plesk.page
 70-34-l94-ll7.plesk.page
@@ -33116,6 +33120,7 @@ adlsgsdlkfjsahkas.buzz
 adlvanced-ip-scanner.com
 adlyatirim.com
 adlyatirim.net
+adm-govuz.com
 adm-musulmans.com
 adm01010.ddns.net
 admagnet1.com
@@ -42318,6 +42323,7 @@ alarm-taslagi.garden
 alarmasbeetle.com
 alarmsay.top
 alartikcanim.sbs
+alashsec.hopto.me
 alaskafcusms.zapto.org
 alaskafcuverify.ddns.net
 alaskaonlineverification.com
@@ -44515,6 +44521,7 @@ allahsddsqq2.com
 allahsnszmoq231q2.com
 allahtapu.xyz
 allahulazim.net
+allahvar1.duckdns.org
 allahvarsatlyuklesin.xyz
 allahyalan.net
 allahyoksasudaglarikimyaratti.fit
@@ -44544,6 +44551,7 @@ allcallpush02.com
 allcallpush09.com
 allcallpush12.com
 allcallpush15.com
+allcloudindex.com
 allcompanycenter.com
 allconectonly.hopto.org
 allcracks.org
@@ -52714,6 +52722,7 @@ arzumindirima.com
 arzumindirimleri.com
 arzumindirimszl.com
 arzumindirimww.duckdns.org
+arzumindrimszznlex.com
 arzumlindirim.com
 arzummaknneindrm.com
 arzumnova.xyz
@@ -66692,6 +66701,7 @@ bbsec.enconfhz.com
 bbsecureaccount.duckdns.org
 bbsncahpkc.duckdns.org
 bbsos.xyz
+bbsteknoloji.com
 bbt05.sbs
 bbtalp.com
 bbtekva.site
@@ -97939,6 +97949,7 @@ casyl18k.duckdns.org
 casyukleme.22web.org
 cat.lamdallc.com
 catalog-update-unix-systems.servehttp.com
+catalog-update-update-microsoft.serveftp.com
 catalogcement.top
 catalogdrawback.top
 catalogoptical.top
@@ -101495,6 +101506,7 @@ cezasorgumerkezi.org
 cezasorgusistemi.org
 cezasorgusu.com
 cezasorguuyap.com
+cezasorguyap.com
 cezatakip.net
 cezatakipsistemi.org
 cezatc.net
@@ -110838,6 +110850,7 @@ coreeevalue.com
 corefluxd.pro
 corefwdgroup.tk
 coreglide.site
+corehost.ddns.net
 corei1amdx.cfd
 corei6amdx.cfd
 corei7amdx.cfd
@@ -130338,6 +130351,7 @@ divorcechalk.top
 divorcediesel.top
 divorceradio.com
 divorcestoop.top
+divpre.top
 divulewybek.eu
 diw2006.zapto.org
 dixis.bounceme.net
@@ -138197,6 +138211,7 @@ e-devletbilgileronlinegovtr.tk
 e-devletbilgimkartlaronlinegovtr.tk
 e-devletbilgisi.com
 e-devletbilgivedegerlendirme.com
+e-devletblog.blogspot.com
 e-devletbmmgovtr.com
 e-devletcezaisistemler.com
 e-devletcezalar.com
@@ -142555,6 +142570,7 @@ easylexsz7.app
 easylexz4.app
 easylexztr7.net
 easylifestyle004.workers.dev
+easyllms.xyz
 easylocker.locker
 easylxs7.app
 easyman.ddns.net
@@ -150630,6 +150646,7 @@ elementale.xyz
 elementarydrawback.top
 elementconnection.ddns.net
 elementgauge.top
+elementsplugin.duckdns.org
 elementzone.shop
 elemsdfwed.net
 elemterekeyfe.com
@@ -153098,6 +153115,7 @@ englandlistings.com
 english-breakfast.xyz
 english-homefirstlarkampnyasi.mooo.com
 english-plays.com
+english.read-books.org
 englishdialoge.xyz
 englishdict.xyz
 englishedu-online.com
@@ -162550,7 +162568,9 @@ facebookloginapponline.ph
 facebookloginconfirm-au.com.ph
 facebookloginepsilon.com.ph
 facebookloginfamilyfair.com.ph
+facebookloginfilms.com.ph
 facebookloginfinancehelp.com.ph
+facebookloginfitnesspage.com.ph
 facebookloginlabd.com.ph
 facebookloginlabe.com.ph
 facebookloginlabe.net.ph
@@ -166000,6 +166020,7 @@ file-share-every-fun.com
 file-share.officeweb.live
 file-share.works
 file-zilla-projectt.org
+file.archat.us
 file.log4jv.info
 file.onedrivecloud.store
 file.wonderbackup.com
@@ -187804,6 +187825,7 @@ gpt4-ai.org
 gpt4chrome.live
 gpt4summary.ink
 gptbepahwu.duckdns.org
+gptbot.sytes.net
 gptc.m1m1mapi.com
 gptdetector.live
 gptforads.info
@@ -215137,6 +215159,7 @@ hmb-govtr.com
 hmbakanlikvezne.com
 hmbceza.net
 hmbceza.org
+hmbdosya.org
 hmbgovtr.com
 hmbgovtr.info
 hmbgovtr.me
@@ -215787,6 +215810,7 @@ holasifirsatgirisim.com
 holast.xyz
 hold-booking.com
 holdamazonnow.duckdns.org
+holdboost.store
 holdeferete.hicam.net
 holder4820-booking.com
 holdercheck-booking.com
@@ -227102,6 +227126,7 @@ inboxakhay.xyz
 inboxbuddyai.com
 inboxhelpmic.zapto.org
 inboxonline.ddns.net
+inboxsession.info
 inboxsync.org
 inbpuonstz.top
 inbsuin.top
@@ -230303,6 +230328,7 @@ instagram-copyright-confirmation.ml
 instagram-copyrights-supports.tk
 instagram-copyrightt-safe.ml
 instagram-cutequeen57.netlify.app
+instagram-e-mail-confirm-info-desk.ph
 instagram-from-meta.ml
 instagram-gift.com
 instagram-help.link
@@ -240687,6 +240713,7 @@ iylcaefobw.duckdns.org
 iyliklermutluktur.online
 iylqvmygkw.duckdns.org
 iymfdxjpan.duckdns.org
+iymkjuzymkapovrntoxy.supabase.co
 iynsdt.cfd
 iyonetim.com
 iyotulrrjj.fyi
@@ -258620,6 +258647,7 @@ kirmizixxxyaklaxxfirsatxxyazz.online
 kirmiziyaz.org
 kirmiziyisevenler.com
 kirmizr-bsavur-kirmi-zxi3rs.online
+kiro.cheap
 kiroulementres.zapto.org
 kirousalementres.zapto.org
 kirpachios.biz
@@ -265069,6 +265097,7 @@ ku-veyt-technology.cloud
 ku1jksdfshdf.lol
 ku1vn-35739.portmap.host
 ku8616.cn
+ku9199766.click
 kua9dw09.duckdns.org
 kuafor-guzelliksalonum.com
 kuafor-tatar.net
@@ -266542,6 +266571,7 @@ kuvytvbaqk3-intt-svbessi-webhiztl733.b-cdn.net
 kuvyyet-weeb-sub-kqmpnyalrmipu915.b-cdn.net
 kuvyytliturkler2.gtx-ns.site
 kuw-eyt.viewdns.net
+kuwadsadhgasdgg929sad.click
 kuwait.embassy.gov.lk
 kuwaitcekilisbasladi.com
 kuwaitoil.vip
@@ -277203,7 +277233,10 @@ mailinitial.top
 mailinnocent.top
 mailinstinct.top
 mailintrude.top
+mailkeyboard.com
 maill-support.com
+maill.ddns.net
+maill.loginto.me
 maillaat.weebly.com
 maillaccountservice.tripod.com
 maillegislate.top
@@ -278381,6 +278414,7 @@ manageclutch.top
 managecomplmetary.top
 managecustomer-supportteam.duckdns.org
 managed-accntlimitd-authservsignln.maluajasigitu.info
+managedkafka.heyhru-server.cloud.goog
 managedkv.com
 manageeengines.com
 manageeengines.net
@@ -284179,6 +284213,7 @@ mgrosekstradangelsin.online
 mgrosshzlrannn.online
 mgrsdfkprogerg.com
 mgrvnwtaqrzsdrv.org
+mgsend.org
 mgtezvhip.com
 mgtylgctavodee.icu
 mgud2xd.ddns.net
@@ -284894,6 +284929,7 @@ microsoft-support.zapto.org
 microsoft-teams.top
 microsoft-telemetry.ru
 microsoft-tool.com
+microsoft-update-catalog.servehttp.com
 microsoft-update.support
 microsoft-update10v.amazonaws1.info
 microsoft-updateserver.cf
@@ -285931,6 +285967,7 @@ mirotanko.top
 mirotonc.com
 mirra.hopto.org
 mirrason.com
+mirror-centos-vault.serveftp.com
 mirror.ddns.net
 mirror1-whatsapp.com
 mirrorerase.top
@@ -292063,6 +292100,7 @@ msdw77d2a.ru
 msdzmkacsody.duckdns.org
 mse.theworkpc.com
 msedeapi.net
+msedge-api-cdp-microsoft.serveftp.com
 mserehele.duckdns.org
 mseriesbmw.top
 mserrw.top
@@ -296797,6 +296835,7 @@ n8cwww0sa.duckdns.org
 n8f1wtb.duckdns.org
 n8k2x6m4q9f3b7hvat.cfd
 n8n-license-validator.onrender.com
+n8nbot.sytes.net
 n8rg3nco0vorxx91.fun
 n8x2q7v4c1r8t.sbs
 n8x2q7v4k1m5.lol
@@ -297353,6 +297392,7 @@ naruton016.ddns.net
 narutosilver.ddns.net
 narvalo13.ddns.net
 naryinfectcomport.run
+naryncity.kg
 naryphat.com
 narzieo9.beget.tech
 nas-insoco.ddns.net
@@ -350185,6 +350225,8 @@ replymagistrate.top
 replyordeal.top
 repmgir.pw
 repnytimes.pw
+repo-centos-webstatic-world.securitytactics.com
+repo-centos-webtatic.serveftp.com
 repo.ark-event.net
 report-copyright-metaplanet.net
 report436.xyz
@@ -364740,6 +364782,7 @@ secessderoper-rsvaids.com
 secfileshare.com
 secfileshare.hopto.org
 secgateid87364.org
+secgeldiavm.com
 secharco.duckdns.org
 sechsy.com
 sechure-sahhibimnden-com-param-guvendeodeme-yap.tk
@@ -384123,6 +384166,7 @@ sponsorlu-95.online
 sponsorlu-96.online
 sponsorlu-98.online
 sponsorlu-ads.cyou
+sponsorlu-ads.online
 sponsorlu-agustos.com.tr
 sponsorlu-baglanti10002.site
 sponsorlu-basvuru2.xyz
@@ -397418,6 +397462,7 @@ tebonlinegiris.co.vu
 tebonlineislemlerim.com
 tebonlinetr.com
 tebooaoakkgoolo.shop
+tebooaoloka.cfd
 tebovay.com
 tebpageinternet.my-homeip.com
 tebpromo.site
@@ -398492,6 +398537,7 @@ telecom.manlish.net
 telecombilling.us
 telecomcredits.us
 telecomegy-ads.com
+telecommand-telemetry-microsoft.servehttp.com
 telecommunicationshum.top
 telecomoperatinggoodnewserverfortransfersecurefileinternatioanl.ydns.eu
 telecomunicacoes.zapto.org
@@ -399954,6 +400000,7 @@ tercih-senin12.net
 tercihettiginiz.com
 tercihiniyap.name.tr
 terdefe.my-homeip.com
+terea.serveexchange.com
 teredo-update.com
 teredodns.com
 tereforafoe.buzz
@@ -405507,6 +405554,7 @@ toplu-konut-projesi-toki-gov-tr.ml
 toplu-konut-projesi-toki-gov-tr.ph
 toplu-konut-projesi-toki-gov-tr.tk
 toplu-konut.cfd
+toplu-konut.com
 toplu-konut.gravitycl.app
 toplu-konut.sbs
 toplu-proje-dentim.shop
@@ -441606,6 +441654,7 @@ winccp.net
 wincdn.ru
 winchecking.com
 wincloudservice.com
+wincorpupdates.com
 wind.windmilldrops.com
 wind0ws.ddns.net
 wind0ws.kz
@@ -441649,6 +441698,7 @@ windows-app.ddns.net
 windows-app.store
 windows-com.duckdns.org
 windows-come.duckdns.org
+windows-config-update.myddns.me
 windows-defender-update.duckdns.org
 windows-downloads-app.com
 windows-drive20.com
@@ -441660,11 +441710,13 @@ windows-msg-as.live
 windows-patch.ml
 windows-patch.tk
 windows-rars.shop
+windows-rms.servehttp.com
 windows-software-downloads.com
 windows-software-updates.cc
 windows-software-updates.com
 windows-team.zapto.org
 windows-updata.tk
+windows-update-catalog.serveftp.com
 windows-update-server-microsoft.servehttp.com
 windows-update-ws.servehttp.com
 windows-update.hopto.org
@@ -441756,6 +441808,7 @@ windowssystem32.ddns.net
 windowstap.duckdns.org
 windowstearns.com
 windowstoolkit.ddns.net
+windowsupdate-microsoft-com.servehttp.com
 windowsupdate-microsoft.com
 windowsupdate.kiev.ua
 windowsupdate.me
@@ -441848,6 +441901,7 @@ winnersarcastic.top
 winnerscredit.digital
 winnersxxx.hopto.org
 winnertreasure.store
+winnerzo.com
 winnewmobilephone.store
 winnforce.com
 winningeleven3.re
@@ -458389,6 +458443,7 @@ yandanhektors.duckdns.org
 yandereplay.ru
 yandesks.net
 yandesktop.com
+yandex-cloud.ddns.me
 yandex-disk.net
 yandex.hopto.org
 yandex.ug
