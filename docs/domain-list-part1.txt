@@ -2118,6 +2118,7 @@
 101-extra-mobil-sadece-bugune-ozel-alisveris-indirim-firsati-tr.hesaplishop-tr.online
 101-extra-mobil-sadece-bugune-ozel-alisveris-indirim-tr.shopsmobile.online
 101-extra-mobil-sadece-bugune-ozel-alisveris-indirimi.avantajvar-tr.online
+101-extra-mobil-sadece-bugune-ozel-alisveris-shop-indirimleri.uygundepo.online
 101-extra-mobil-sadece-bugune-ozel-avantajli-fiyatlar-tr.e-ticaret-tr.online
 101-extra-mobil-sadece-bugune-ozel-cep-indirimleri-tr.cepsel-viptr.online
 101-extra-mobil-sadece-bugune-ozel-cepte-indirim-sepeti-tr.eshops-mobile.online
@@ -42924,6 +42925,8 @@ aldinaldin101tr.store
 aldinaldin101turkey.online
 aldinaldin101turkiye.online
 aldinaldin1453.duckdns.org
+aldinaldin1454.duckdns.org
+aldinaldin1455.duckdns.org
 aldinaldin15ekimozel.com
 aldinaldin1o1firsat.com
 aldinaldin21aralik.shop
@@ -43110,6 +43113,7 @@ aldinaldinkapidafrsat1o1.com
 aldinaldinkapinda-101.shop
 aldinaldinkapinda.com
 aldinaldinkapinda.org
+aldinaldinkapinda.sbs
 aldinaldinkatalog.biz
 aldinaldinkatalog.click
 aldinaldinkatalog.club
@@ -97528,6 +97532,7 @@ carrefrsaonline.cfd
 carreftoursa.store
 carrefuorasonline.cfd
 carrefuorsa-alisveris.online
+carrefuorsa.sbs
 carrefurosa.online
 carrefxouur-0nline.duckdns.org
 carrefxur-sa.dvrlists.com
@@ -99993,8 +99998,3 @@ cepdenizbank.com
 cepdenizbankbonus.tk
 cepdenizbanks-onlineislemler.com
 cepdenizbanksubem.tk
-cepdenizdenbonus.tk
-cepdenizdenbonuspuan.tk
-cepdeniztr.com
-cepdenz2mobilislemler.net
-cepdeqnbfinansci.com
