@@ -2221,6 +2221,7 @@
 101-extra-sadece-online-ozel-alisveris-mobil-extra-shop-tr.bilgi-mobil-tr.online
 101-extra-sadece-online-ozel-alisveris-sepet-indirimleri-mobil.bireysel-shops-mobil.online
 101-extra-sadece-online-ozel-alisveris-sepeti-tr.bilgi-sepeti.online
+101-extra-sadece-online-ozel-indirim-alisveris-sepette.cepindeki-indirim.online
 101-extra-sadece-online-ozel-indirimli-alisveris-sepette-mobil.sepetss-tr.online
 101-extra-sadece-online-ozel-indirimli-alisveris-sepette-tr.mobilcitr.online
 101-extra-sadece-online-ozel-mobil-alisveris-indirimleri-sepete.ekle-tr.online
@@ -8928,6 +8929,7 @@
 2026kampanyalaribonus.cfd
 2026kampanyalaribonus.com
 2026kasim2026.click
+2026kasim2026onayli.duckdns.org
 2026knutun.wordpress.com
 2026konutbasvuru.sbs
 2026konutbasvurum.sbs
@@ -42835,6 +42837,7 @@ aldin.juzakb.com
 aldin1.space
 aldin101firsata101.xyz
 aldin101firsatlari.online
+aldin101kapindan.sbs
 aldin1101firsata101.store
 aldin1101firsdata101.xyz
 aldin11a101xy-zdfirsadt.xyz
@@ -52525,6 +52528,7 @@ artikherkessinsende.net
 artikherskdsedsd.net
 artikkatildiburdaherkescabukbak76.site
 artiksiddetolmasin.ml
+artikyalanyokye.sbs
 artikyeterdedirtik.online
 artikyetrrreonyholsunsnm.xyz
 artikzafimdegilsin.com
@@ -91563,6 +91567,7 @@ buhugereteyesede.lat
 buhugu-hurehugedere.lol
 buhugufiliresede.lol
 buhugufure-desedese.lol
+buhugugu-fefererede.lol
 buhuisi.cn
 buhukulupolisede.lat
 buhukumetbizebircaylabisimidibilelayikgormuyor.online
@@ -99993,8 +99998,3 @@ cepdeis2018.com
 cepdemobilim.com
 cepdemobilsube.com
 cepden--sube-giris-tr.com
-cepdenizbank-com.tk
-cepdenizbank.com
-cepdenizbankbonus.tk
-cepdenizbanks-onlineislemler.com
-cepdenizbanksubem.tk
