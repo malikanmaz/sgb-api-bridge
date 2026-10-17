@@ -2572,6 +2572,7 @@
 101aldinaldinextra.sbs
 101aldinaldinsongun.com
 101aldinaldinsongungroup.com
+101aldinextrakapidan.sbs
 101aldinzincirleri.shop
 101aldnbrdnkcrma.cfd
 101alimfirsatkampanyalariburada.cfd
@@ -99997,4 +99998,3 @@ cepdegiris-moblaninda.com
 cepdeis2018.com
 cepdemobilim.com
 cepdemobilsube.com
-cepden--sube-giris-tr.com
