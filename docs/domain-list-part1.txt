@@ -1094,6 +1094,7 @@
 0faizlekredialmak.com
 0faizli.com
 0faizlikredibasvurusu.com
+0faizservisi.com
 0fcgh3gl3.duckdns.org
 0fcja792.duckdns.org
 0fdba029e6a5-endpoint.com
@@ -2066,6 +2067,7 @@
 101-de-bugune-ozel.mobil-stores-tr.com
 101-de-bugune-ozel.tr-mobilde-online-sepet.sbs
 101-de-extra-mobil-sadece-bugune-ozel-online-indirim-sepeti-tr.cep-store.online
+101-de-extra-sadece-bugune-ozel-alisveris-indirim-sepetleri-tr.shopsal.online
 101-de-firsatlar-bugune-ozel-mobil-hemen-siparis-ver-tr.com
 101-de-firsatlar-bugune-ozel-online-siparis-tr.com
 101-de-haftalar-indirimler-burada.com
@@ -2138,9 +2140,11 @@
 101-extra-mobil-sadece-online-indirim-alisveris-sepeti-tr.ticaret-tr.online
 101-extra-mobil-sadece-online-ozel-alisveris-indirimi-tr.online
 101-extra-mobil-sadece-online-ozel-alisveris-indirimi-tr.online-shoptrx.online
+101-extra-mobil-sadece-online-ozel-indirim-bilgilendirme-tr.albox-tr.online
 101-extra-mobil-sadece-online-ozel-sepette-indirim-tr.web-sepet.online
 101-extra-mobile-ozel-indirim-sadece-bugune-ozel-tr.prime-store-tr.online
 101-extra-mobile-ozel-sadece-online-alisveris-indirimi-tr.sepets.online
+101-extra-online-bugune-ozel-sepette-indirim-asliveris-cep-tr.sepetteal.online
 101-extra-online-ozel-indirim-alisveris-sepeti-mobil-ozel-tr.eceptra-tr.online
 101-extra-online-sadece-bugune-ozel-alisveris-indirim-sepeti.bilgi-indirim-tr.online
 101-extra-ozel-online-siparis-bugune-ozel.mooo.com
@@ -2152,12 +2156,14 @@
 101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte-tr.bilgi-al.online
 101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte-tr.e-shop-tr.online
 101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte-tr.hemenalio.online
+101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte-tr.spons-tr.online
 101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte.extraplus-tr.online
 101-extra-sadece-bugune-ozel-alisveris-indirimleri-mobilde-tr.cepte-sepeti.online
 101-extra-sadece-bugune-ozel-alisveris-indirimleri-sepette-cep.sepets-tr.online
 101-extra-sadece-bugune-ozel-alisveris-mobil-cep-indirimi-tr.storex-tr.online
 101-extra-sadece-bugune-ozel-alisveris-sepet-indirimleri-tr.shop
 101-extra-sadece-bugune-ozel-alisveris-sepet-indirimleri-tr.shop-mobil-cep.online
+101-extra-sadece-bugune-ozel-alisveris-sepeti-indirim-tr.cepsatis-tr.online
 101-extra-sadece-bugune-ozel-alisveris-sepeti-indirimi-mobil.ceptakip-tr.online
 101-extra-sadece-bugune-ozel-alisveris-sepeti-tr.360-mobil-pro.com
 101-extra-sadece-bugune-ozel-alisveris-shop-market-indirimi-tr.shops-cep-mobil.online
@@ -2191,6 +2197,7 @@
 101-extra-sadece-bugune-ozel-online-indirim-alisveris-sepette.expert-shop.online
 101-extra-sadece-bugune-ozel-online-indirim-sepeti-tr.shopstr.online
 101-extra-sadece-bugune-ozel-online-mobil-shop-indirimleri-tr.alisveriscepte.online
+101-extra-sadece-bugune-ozel-online-sepet-indirimleri-mobil-tr.cepteki-tr.online
 101-extra-sadece-bugune-ozel-online-sepette-alisveris-tr.sepetteyiz-tr.online
 101-extra-sadece-bugune-ozel-online-sepette-indirim-tr.web-buy.online
 101-extra-sadece-bugune-ozel-online-siparis-sepeti-mobil-tr.shop-sepeti.online
@@ -2207,6 +2214,7 @@
 101-extra-sadece-mobile-ozel-online-sepet-indirimleri-mobil-tr.ucuzshop.online
 101-extra-sadece-online-bugune-ozel-alisveris-indirim-sepeti-tr.shops-alisveris-tr.online
 101-extra-sadece-online-bugune-ozel-alisveris-indirimi-tr.extrago-tr.online
+101-extra-sadece-online-bugune-ozel-alisveris-indirimleri-mobil.trendssly.online
 101-extra-sadece-online-bugune-ozel-alisveris-mobil-indirimleri.shop
 101-extra-sadece-online-bugune-ozel-alisveris-mobil-indirimleri.shop-cep-sepet-tr.online
 101-extra-sadece-online-bugune-ozel-alisveris-shop-tr.firsatmarket.online
@@ -2313,6 +2321,7 @@
 101-mobil-bugune-ozel-extra-indiriml.shopping-tr.online
 101-mobil-bugune-ozel-indirim-sadece-online-alisveris-tr.extramarket.online
 101-mobil-bugune-ozel-indirimler-tr-cep.duckdns.org
+101-mobil-extra-bugune-ozel-sepet-indirimi-mobilde-tr.ceptiko.online
 101-mobil-extra-online-siparis-ozel-sepet-indiirmli-tr.web-shop-tr.online
 101-mobil-extra-sadece-bugune-ozel-alisveris-indirimi-cepte-tr.marketx-tr.online
 101-mobil-extra-sadece-bugune-ozel-alisveris-indirimleri-tr.extrada-tr.online
@@ -2945,6 +2954,7 @@
 101kariyer.com
 101kariyer.net
 101kariyer.org
+101kariyerim.com
 101kasimindirimi.com
 101kasimindirimicepte.com
 101kasimindirimleri.com
@@ -4108,10 +4118,18 @@
 1222233122455666512255996.xyz
 1222233122455666512255997.xyz
 1222233122455666512255999.xyz
+122224457999989999089090.xyz
 122224457999989999089091.xyz
 122224457999989999089092.xyz
 122224457999989999089093.xyz
+122224457999989999089094.xyz
+122224457999989999089095.xyz
+122224457999989999089096.xyz
+122224457999989999089097.xyz
+122224457999989999089098.xyz
+122224457999989999089099.xyz
 122241224551222455590.duckdns.org
+1222412541225452255890.duckdns.org
 12229828189122.duckdns.org
 12234593-2353987.com
 12239928837727.servecounterstrike.com
@@ -5289,6 +5307,7 @@
 1477852kmnpnyaaprmsynnbasvrrr.online
 14781875871.site
 1478523690.info
+14785236kmpnyabsvrprsmyn.pro
 1478c237.lopdl7d.cn
 1479332988.goloser.ru
 147d13e5.hwqwwrh.com.cn
@@ -8898,6 +8917,7 @@
 2026000010101002.duckdns.org
 2026000102001.duckdns.org
 2026aldinaldinsepette.org
+2026basvurhemen2026.duckdns.org
 2026basvuruekranim.sbs
 2026basvuruev.sbs
 2026basvuruevim.sbs
@@ -11997,6 +12017,7 @@
 312241222111422245225896.xyz
 312241222111422245225897.xyz
 312241222111422245225898.xyz
+312241222111422245225899.xyz
 31231231251321-1213.cloud
 312312321321.cloud
 31231313.duckdns.org
@@ -19376,6 +19397,7 @@
 75735.club
 75745212.site
 75748777777.xyz
+757524525125225255.duckdns.org
 757574292.duckdns.org
 75777978974.cloud
 75788yh.com
@@ -19673,6 +19695,7 @@
 780a.makeki0x1.com
 78112351235.cfd
 781976296.cloud
+78245245625325632565525.duckdns.org
 7829346792392765982439237.app
 782y376280ki327.icu
 783410583.cloud
@@ -32770,6 +32793,7 @@ addons1.12cloudaddons198756.workers.dev
 addpack-digitalhosting.duckdns.org
 addpasskey2fa.com
 address-4-72.top
+address.constructions.vu
 address.distributions.life
 addressagony.top
 addressbudget.com
@@ -38603,6 +38627,7 @@ akbank-cepislem.com
 akbank-cepsubesi.com
 akbank-com.ph
 akbank-com.tk
+akbank-data.pages.dev
 akbank-deneme.64-23-128-187.plesk.page
 akbank-destek.com
 akbank-diirekt.com
@@ -42641,6 +42666,7 @@ aldattsorguuuekranii.com
 aldaw342sdswff.blogspot.com
 alddn-aldnnxfirstllariyla.net.tr
 alddn-aldnnxfirstllariyla.xyz
+aldegeldasfaw.duckdns.org
 aldenzreklam.sa.com
 alderdasdewas.duckdns.org
 aldergrove.site
@@ -44179,6 +44205,7 @@ alisverisim-yap.com.tr
 alisverisim.art
 alisverisimde.com.tr
 alisverisimdi.xyz
+alisverisimeyonlendirarzum.online
 alisverisimget.com
 alisverisimgetguvende.com.tr
 alisverisimguvenliodeget.com.tr
@@ -45239,6 +45266,7 @@ alsverisiniziner2.click
 alsverisiniziner3.click
 alsverisiniziner4.click
 alsverisiniziner6.click
+alsverlsiegdici.lol
 alsversfrsatma101.cfd
 alsversmarkti.com
 alsversnadres.com
@@ -45684,6 +45712,7 @@ ama.hostiko.link
 ama0899.shop
 amaanq-37251.portmap.host
 amaazoon.org
+amabenbiyolunubulupunutacagim.sbs
 amaciolmayangrup.blogspot.com.tr
 amacnegu.ga
 amacys.shop
@@ -46157,6 +46186,7 @@ amfibiyapolyakova.com
 amfuc2.ddns.net
 amg-car-ger.info
 amg-mercedes-benztr.com
+amgen.teams-cloud.live
 amgjzkvr.com
 amglotec.com
 amgvgrlm2w41l2lt373.com
@@ -48386,6 +48416,7 @@ aolkqujlnw.duckdns.org
 aolmail-signin.webflow.io
 aolodemebilgisi.store
 aomacamada.ddns.net
+aomenest.duckdns.org
 aomkigdaon.duckdns.org
 aone.ddns.net
 aonefire.com
@@ -48508,12 +48539,14 @@ aperza-ex.com
 apethorpevillage.co.uk
 apex-loot.com
 apex.herosms.ai
+apexaccs.org
 apexbracket.com
 apexcorporateflow.com
 apexcv.ddns.net
 apexdataacademy.com
 apexdrrive.com
 apexenguae.com
+apexfdn.xyz
 apexfreepanel.duckdns.org
 apexit.yachts
 apexkurumsalfilo.com
@@ -52822,6 +52855,7 @@ asadak.b-cdn.net
 asadawedsadqwfq.net
 asadcddlvt-svdtt.com
 asadercanes.duckdns.org
+asaderepilo-cerefere.lol
 asadredman32.xyz
 asadsadsasds.xyz
 asadsd3ad.com
@@ -53049,6 +53083,7 @@ asdasddwqd2025.info
 asdasderasderasder.duckdns.org
 asdasdere.duckdns.org
 asdasdfqefef.duckdns.org
+asdasdfsdfdsf.webredirect.org
 asdasdgugugo9999asd.click
 asdasdhjhgjasdasdashgjghj.blogspot.com
 asdasdhsahd89sadh89sad.click
@@ -62723,6 +62758,7 @@ basvurkdvlilik.blogspot.com
 basvurkml.com.tr
 basvurkml.online
 basvurkmnpyaa857496snfrstlar.click
+basvurkmnpyaa857496snfrstlar.online
 basvurkonut.cfd
 basvurkonut.com
 basvurkonutbilgi.cfd
@@ -79048,6 +79084,7 @@ birimuzlasma.org
 birimvergi.org
 birinebakicam.duckdns.org
 birinizhepimiz156.com
+birisineozeldegilbutunhalkaozel.sbs
 birislemim.com
 birislemin.com
 biriz-burada-seninle-unutmadan-unutma.com
@@ -79562,6 +79599,7 @@ bitmezpilimili.com
 bitmezzbetibettsatislarii7.com
 bitminer-online.work
 bitminer-usd.work
+bitmkblmeynuzunbiyol.sbs
 bitmyst.store
 bitneyenhgs.sg-host.com
 bitnoyf.com
@@ -95833,6 +95871,7 @@ calliperer.com
 calllabs.site
 callmanusript.top
 callmetery.top
+callmylove.cyou
 callnetcenter.com
 callnrwise.com
 callofduty21.ddns.net
@@ -98406,6 +98445,7 @@ cbsceza.com
 cbsdava.com
 cbseferberlik20gb.com
 cbsgib.org
+cbsuyap.com
 cbsw.70z6.com
 cbt42ec3e.duckdns.org
 cbtlz.com
@@ -99958,43 +99998,3 @@ cep-turkiye-kapisi.company
 cep-turkiye.com
 cep-web-yapi-kredi.com
 cep-yapi-kredi-sube-tr.cf
-cep-yapikredi-bireysel-tr.cf
-cep-yapikredi-tr.cf
-cep-yapikredim.com
-cep-ziraat-subesi-online-tr.com
-cep-ziraat.com
-cep-ziraat.life
-cep-ziraatbank.com
-cep-ziraatmobil.com
-cep.fibqkurumsall.cfd
-cep.kurunsalvakif.cfd
-cep.onay-giris.xyz
-cepacikdeniz.com
-cepadmin.com.tr
-cepaidadal.com
-cepaidat-kapisi.com
-cepaidatkapisi.com
-cepakillimobildeniz.duckdns.org
-cepanahtarindir.com
-cepanahtarkampanya.com
-cepanahtarkampanyasi.com
-cepanahtaryukle.com
-cepaninda.sbs
-cepas2023.duckdns.org
-cepayarlari.com
-cepbakiyeyukle.com
-cepbank-direkt.com
-cepbankasiyapikredi.com
-cepbankyapikredi.com
-cepbasvuru.lat
-cepbasvuruformuis.com
-cepbasvurupaributeknolojidogehediyesi-com.tk
-cepbasvuruyapikredi.com
-cepbayim.sg-host.com
-cepbimcell.com
-cepbimsell21.net
-cepbimsell80.net
-cepbireysel-isbankasi-tr.cf
-cepbireyselciziraat.com
-cepbireyselmobil.com
-cepbireyselziraat.com
