@@ -439,6 +439,7 @@ cepte-hediye20gb.epizy.com
 cepte-ile-sok-kapida.duckdns.org
 cepte-indirim.sa.com
 cepte-indirimler.top
+cepte-inter.my-homeip.de
 cepte-isbank-online-bonus-tr.cf
 cepte-isbank-online-bonus-tr.ws
 cepte-isbank.com
@@ -1026,6 +1027,7 @@ cepteteb-esube.my-homeip.de
 cepteteb-giris.com
 cepteteb-global.com
 cepteteb-iade.com
+cepteteb-internet.my-homeip.de
 cepteteb-internetsubem.com
 cepteteb-kampanya.com
 cepteteb-kazan.com
@@ -29504,6 +29506,7 @@ dijitalweb-sipariskapida.sbs
 dijitalweb-siparisver.sbs
 dijitalweb-talepler.sbs
 dijitalweb-ziraatbireysel.com
+dijitalweb-ziraatbireysel.sbs
 dijitalweb-ziraatbireyselgiris.com
 dijitalweb-ziraatbireyselinternet.sbs
 dijitalweb-ziraatgiris.com
@@ -99995,6 +99998,3 @@ halkyenimobilgiris.com
 halkyenisube.com
 halkyenisubemiz.com
 halkyenisuben.com
-halkyenisubeniz.org
-halkyeniyilfirsat.com
-halkyeniyilfirsati.com
