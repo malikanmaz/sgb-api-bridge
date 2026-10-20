@@ -1,3 +1,5 @@
+cep-turkiye-kapisi.company
+cep-turkiye.com
 cep-web-yapi-kredi.com
 cep-yapi-kredi-sube-tr.cf
 cep-yapikredi-bireysel-tr.cf
@@ -80999,6 +81001,7 @@ gemex.space
 gemgovrmn.my.id
 gemgovrmn.web.id
 gemgovrnm.biz.id
+gemgovrnm.my.id
 gemibasvurunerededeniz.xyz
 gemidenizin.online
 gemilerbatsin-govtr.click
@@ -87302,6 +87305,7 @@ googlenetwork.ddns.net
 googleodeme.com
 googlepetkavanis4.pw
 googlephoto.vip
+googlepixel.abrdns.com
 googlepkr.xyz
 googleplay-com.cf
 googleplay-com.tk
@@ -99994,7 +99998,3 @@ hallktansiikayetlerigor.xyz
 hallktansikayeetbildirimi.cf
 hallktansikayeetbildirimi.ml
 hallktansikayeetbildirimi.tk
-hallktansikayetlerigor.ga
-hallktansikayetlerigor.tk
-hallktansikayetleriigor.gq
-hallktansikayetleriigor.ml

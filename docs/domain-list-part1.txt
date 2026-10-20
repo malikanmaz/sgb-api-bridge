@@ -12452,6 +12452,7 @@
 33hizliveguvenserviceds.com
 33iade-hizmetleri.com
 33inetinecloastten.site
+33italia.ponte33.it
 33jjx5dfk410043c.duckdns.org
 33kirve.net
 33lhe4.duckdns.org
@@ -25591,6 +25592,7 @@ a101hizliindrimler.com
 a101hizliindrims.com
 a101hizlimarket.duckdns.org
 a101hizmet.com
+a101hizmetayinda.duckdns.org
 a101hizmetleri101.dynip.org
 a101hobihadi.com
 a101icinfirsat.com
@@ -99996,5 +99998,3 @@ cep-tr-mobilde-online-sepet.sbs
 cep-ttsiparis.com
 cep-turkiye-bireysel-mobil-giris-kapisi.ml
 cep-turkiye-giris.ml
-cep-turkiye-kapisi.company
-cep-turkiye.com
