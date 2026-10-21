@@ -1,3 +1,9 @@
+cep-giris-turkiye.org
+cep-halk-giris.com
+cep-halk.com
+cep-halkbank-paraf.tk
+cep-halkbank.com
+cep-halkbank.tk
 cep-hizli-giris.xyz
 cep-is-bankasi.com
 cep-islemleri.com
@@ -1415,6 +1421,7 @@ cetelembasvurucepdeteb.net
 cetelemkredibasvurularim.net
 cetethrem.com
 cetev.org
+ceteyeuuyetere-deretesede.lol
 ceteyleiliskili.online
 cethenjustte.com
 cethernet.com
@@ -62764,7 +62771,11 @@ facebook-login-checker.ph
 facebook-login-facebook-access-secure.ph
 facebook-login-guide.com.ph
 facebook-login-in-athens.com.ph
+facebook-login-in-eg.com.ph
+facebook-login-in-ru.com.ph
+facebook-login-in-se.com.ph
 facebook-login-in-tokyo.net.ph
+facebook-login-instant-es.com.ph
 facebook-login-instant-hk.com.ph
 facebook-login-instant-sa.net.ph
 facebook-login-instant-th.com.ph
@@ -76346,6 +76357,8 @@ garanti-promosyonllar.lol
 garanti-promosyonllar.monster
 garanti-ramazana-ozel-2025.duckdns.org
 garanti-sermaye-cozumu.cloud
+garanti-sermaye-merkezi.cloud
+garanti-sermaye-portali.cloud
 garanti-sizinle.com
 garanti-sonfirsat-tr.com
 garanti-spekeryigeni.com
@@ -99985,16 +99998,3 @@ halktenvyeriilervar.ga
 halktenvyeriilervar.gq
 halktenvyerileervar.ga
 halktenvyerileervar.gq
-halktenvyerilerrvar.cf
-halktenvyerilerrvar.ga
-halktenvyerilervaar.ga
-halktenvyerilervaar.gq
-halktenvyerilervaar.ml
-halktenvyerilervvar.cf
-halktenvyerillervar.ga
-halktenvyerillervar.gq
-halktenvyerrilervar.ga
-halktenvyerrilervar.gq
-halktenvyyerilervar.cf
-halktenvyyerilervar.ga
-halktenvyyerilervar.gq

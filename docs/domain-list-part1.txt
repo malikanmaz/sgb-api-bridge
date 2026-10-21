@@ -4130,6 +4130,7 @@
 122224457999989999089099.xyz
 122241224551222455590.duckdns.org
 1222412541225452255890.duckdns.org
+1222412541225452255891.duckdns.org
 12229828189122.duckdns.org
 12234593-2353987.com
 12239928837727.servecounterstrike.com
@@ -12044,6 +12045,7 @@
 3128831281238.click
 3128851281238.click
 31312iij7.duckdns.org
+31313131313113.duckdns.org
 313132331311.duckdns.org
 3132323232.cloud
 313365498654.cloud
@@ -33674,6 +33676,7 @@ adshasdha.net
 adshasdhgasdh.net
 adshesabi.com
 adshgadshasd.net
+adshiziyakala.cfd
 adshostube.click
 adsjaccksjadcksajda.shop
 adskillz.com.au
@@ -46649,6 +46652,7 @@ anadolumd.com
 anadolumdportfoy.com
 anadolumenkuldegerler.com
 anadolumenkuldegerler.net
+anadolumenkulyatirimdegerler.com
 anadolumobilsube.com
 anadolumotion.com
 anadolumsigorta.com
@@ -63931,6 +63935,7 @@ basvuruform-btcturk.net
 basvuruform-devlet.tk
 basvuruform-eaidatdoldur.com
 basvuruform-tabletdestegi.com
+basvuruform.com
 basvuruformdes-tek.com
 basvuruformdoldurfer.duckdns.org
 basvuruformkapisi.blog
@@ -70156,6 +70161,7 @@ bhellexcell1.com
 bhelomf.duckdns.org
 bherqpkjt.com
 bhf72398.store
+bhfbvbfg.click
 bhflqxpi.com
 bhfweocpkdp.org
 bhg3f4xu.duckdns.org
@@ -99992,9 +99998,3 @@ cep-giris-online.ml
 cep-giris-online.tk
 cep-giris-sube-gov.com.tr
 cep-giris-sube-gov.online
-cep-giris-turkiye.org
-cep-halk-giris.com
-cep-halk.com
-cep-halkbank-paraf.tk
-cep-halkbank.com
-cep-halkbank.tk
