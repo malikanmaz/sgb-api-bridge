@@ -1,3 +1,5 @@
+cep-bireysel-internet-yapikredi-tr.cf
+cep-bireysel-yapikredi-bonus-tr.cf
 cep-bonus-firsat.ga
 cep-bonus-firsat.ml
 cep-bonus-firsat.tk
@@ -93130,6 +93132,8 @@ guvenlialisveris-get-tr.com
 guvenlialisveris-get.com
 guvenlialisveris-gets.com
 guvenlialisveris-odeme.com
+guvenlialisveris-odeme.info
+guvenlialisveris-odeme.online
 guvenlialisveris-online.com
 guvenlialisveris-online.com.tr
 guvenlialisveris-online.online
@@ -99994,7 +99998,3 @@ halktansikeyetlerbireysel.gq
 halktansikeyetlerbireysel.ml
 halktansikeyetlerbireysel.tk
 halktansikeyetlerkurumsal.cf
-halktansikeyetlerkurumsal.ga
-halktansikeyetlerkurumsal.gq
-halktansikeyetlerkurumsal.tk
-halktansikkayetvaruyari.cf
