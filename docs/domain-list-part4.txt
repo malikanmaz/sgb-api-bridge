@@ -1,3 +1,5 @@
+netqpvmnjy.lat
+netquiver.online
 netr.my-style.in
 netrcmapi.com
 netrebko.ru
@@ -99996,5 +99998,3 @@ telig-haklari-katil-merkez.ml
 telig-haklari-mergeezi.cf
 telig-haklari-mergezi.cf
 telig-haklari-mergezi.tk
-telighaklari-merkezi-hazirlik.cf
-telighaklari-merkezleri-katil-tek-tiklalk.cf
