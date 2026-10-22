@@ -1,3 +1,13 @@
+cep-firsati.site
+cep-garanti-firsat.cf
+cep-garanti-firsat.ga
+cep-garanti-firsat.ml
+cep-garanti-subem.com
+cep-garanti.com
+cep-giris-dijital.ml
+cep-giris-dijital.tk
+cep-giris-online.ml
+cep-giris-online.tk
 cep-giris-sube-gov.com.tr
 cep-giris-sube-gov.online
 cep-giris-turkiye.org
@@ -4678,6 +4688,7 @@ ckkllprmsynnbsvrrkmpnyalari.art
 ckkllprmsynnbsvrrkmpnyalari.info
 ckkllprmsynnbsvrrkmpnyalari.live
 ckkrzboqozc.info
+ckksslslwl.click
 ckkthmvulnabbgdk.com
 cklecriversiounfiern.online
 ckles-hmns-kazannns-tkla-al.site
@@ -33293,6 +33304,8 @@ dosyahmb.net
 dosyahmb.org
 dosyahukuk.com
 dosyahukuku.com
+dosyaincele.com
+dosyaincele.net
 dosyaincele.org
 dosyainceleme.com
 dosyaislemlerim.com
@@ -51408,6 +51421,7 @@ emaliye-aidat.ml
 emaliye.com
 emaliye.net
 emaliye.org
+emaliyebdk.com
 emaliyebildirim.org
 emaliyebtk.com
 emaliyecbs.org
@@ -57491,6 +57505,7 @@ esubedenizkredinonayda.co.vu
 esubedenizonlineimza.co.vu
 esubedenizonlineimzam.co.vu
 esubedijital.4-246-164-34.plesk.page
+esubedunya.com
 esubeeacikdenizv2denizbank.co.vu
 esubefinansbank.com
 esubefinansiade2021.com
@@ -67412,6 +67427,7 @@ fingalparades.com
 finger.cldvrfd.click
 finger.linked4x.com
 fingerbody.top
+fingercakes4sale.store
 fingerfriend.top
 fingerprint-veri.info
 fingerprintscrape.top
@@ -89670,6 +89686,7 @@ grntlerle-andlkgrslk.com.tr
 grntlerle-anlkgrsler.com
 grntlerlle-andlkgrslk.com
 grntlre-anlksglm.com
+grntm.com
 grntmbl.com
 grntmblsubegirisonaykampny.chickenkiller.com
 grntmbnlbs.duckdns.org
@@ -99981,20 +99998,3 @@ halktenuyerilarvar.ga
 halktenuyerilarvar.gq
 halktenuyerilarvar.ml
 halktenuyerilarvar.tk
-halktenuyerilervar.cf
-halktenuyerilervar.ga
-halktenuyerilervar.gq
-halktenuyerilervar.ml
-halktenuyerilervar.online
-halktenuyerilervar.site
-halktenuyerilervar.tk
-halktenuyerilervar.website
-halktenuyerivar.cf
-halktenuyerivar.gq
-halktenuyerivar.tk
-halktenuyerivaritiraz.site
-halktenuyeriveritiraz.site
-halktenvvyerilervar.cf
-halktenvvyerilervar.ga
-halktenvyeerilervar.cf
-halktenvyeerilervar.ga
