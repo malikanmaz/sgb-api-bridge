@@ -1,3 +1,6 @@
+net-kotel.top
+net-koteu.top
+net-kotln.top
 net-nited.top
 net-niteo.top
 net-niteu.top
@@ -21445,6 +21448,7 @@ palmiye-sultan.forum
 palmiye-sultan.help
 palmiye-sultan.org
 palmiyesulltan.site
+palmiyesultam.site
 palmiyesultan.best
 palmiyesultan.business
 palmiyesultan.cc
@@ -99994,7 +99998,3 @@ telekom.uyguninternet.net
 telekom.xn--numaratasma-7zb.com
 telekom.yuklememerkezleri.online
 telekom10gb-evdekaltr-webgiris.com
-telekoma.numaranitasi.com
-telekombasvuru.online
-telekombasvurum.site
-telekombmcellyukle.com

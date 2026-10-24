@@ -62926,6 +62926,7 @@ faceboock.zapto.org
 facebook--com.ml
 facebook--login-inactive.ph
 facebook--login-report.ph
+facebook--login-safe.ph
 facebook--login-security.ph
 facebook--login-session.ph
 facebook--signupzzzzzzzzzzzzzhu.ph
@@ -62949,6 +62950,7 @@ facebook-login-guide.com.ph
 facebook-login-help-de.com.ph
 facebook-login-help-yemen.com.ph
 facebook-login-in-athens.com.ph
+facebook-login-in-dubai.net.ph
 facebook-login-in-eg.com.ph
 facebook-login-in-ru.com.ph
 facebook-login-in-se.com.ph
@@ -99996,5 +99998,3 @@ halktan-sikayetlerim.net
 halktan-sikayetlerim.xyz
 halktan-uyari-var.buzz
 halktan-uyari-var.xyz
-halktanbaharfirsati.com
-halktanbaharfirsatlari.com
