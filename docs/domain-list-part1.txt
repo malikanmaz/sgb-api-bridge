@@ -14802,6 +14802,7 @@
 462423534543654.cloud
 463423423623432.com
 463457645645.cloud
+463712341432.sbs
 463850771882841.duckdns.org
 46433432354632243245.com
 464444231534.cloud
@@ -67175,6 +67176,7 @@ bbvahediyesi-garanti.com
 bbvahizmet.vercel.app
 bbvaiade.b-cdn.net
 bbvaiadleri-garanti.com
+bbvaislemler.duckdns.org
 bbvakkbavsurumobil.site
 bbvakrdibasvurusu.site
 bbvakrdionayicepte.site
@@ -67209,6 +67211,7 @@ bbvanetcash-mx.ddns.net
 bbvanetcash-mx2991.ddns.net
 bbvaofficial-garanti.com
 bbvaongaranti.com
+bbvaonline.duckdns.org
 bbvaonline.org
 bbvaonline.xyz
 bbvaonlineargentina.ml
@@ -68307,6 +68310,7 @@ bedavatabletdevletdestegi.com
 bedavatakipci.ml
 bedavatakipcim.com
 bedavatakipcimm.rf.gd
+bedavatelegramsorgu.click
 bedavatvitterhizmeti.net.tr
 bedavatwitterhizmeti.top
 bedavatwitterhizmetleri.top
@@ -69759,6 +69763,7 @@ betparibu.club
 betparibu.link
 betparibu.live
 betparibu.net
+betparibu.ooo
 betparibu.site
 betparibu100.com
 betparibu122.com
@@ -71379,6 +71384,7 @@ bilgilendirmelidanismanlik.com
 bilgilendirmemerkezi.click
 bilgilendirmemm.netlify.app
 bilgilendirmerehberi.web.app
+bilgilendirmesayfam.org
 bilgilendirmesayfasi.misecure.com
 bilgilendirmesler.date
 bilgilendirmeson.nicepage.io
@@ -99992,9 +99998,3 @@ centeronlines.com
 centerotokiralama.online
 centerotomobilkiralama.online
 centerpbx.ddns.net
-centersoftwaresupports.azurewebsites.net
-centersupportlogin.ddns.net
-centersupportorange.ddns.net
-centertechmedia.com
-centerthrifty.top
-centietrmdst.top
