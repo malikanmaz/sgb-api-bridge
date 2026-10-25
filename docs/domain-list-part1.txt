@@ -45233,6 +45233,7 @@ alpha-man.info
 alpha-pc.net
 alpha-portal.ddns.net
 alpha.amenotiou.com
+alpha.diyanetisleribakanligi.vercel.app
 alpha.gtpo-cms.co.uk
 alpha228.hopto.org
 alpha520ddns.net
@@ -69659,6 +69660,7 @@ beta-perplexity.com
 beta-pokemoncards.io
 beta.atenceley.com
 beta.azernatow.com
+beta.diyanetisleribakanligi.vercel.app
 beta.meetporn.ru
 beta.officopedia.com
 beta.turkcellpasajsanalmagaza.com
@@ -99996,5 +99998,3 @@ centraldispatche.top
 centraldispatchfraundsclaims.com
 centraldllispatsh.top
 centralgoogle.com
-centralhome.ddns.net
-centralink.online

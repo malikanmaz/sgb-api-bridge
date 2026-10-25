@@ -1,3 +1,11 @@
+telekom.telefonsuzinternet-onlinebasvuru.com
+telekom.telefonsuzinternetbasvuru.com
+telekom.telefonsuzinternetbasvuru.net
+telekom.telefonsuzinternetbasvurusu.com
+telekom.telefonsuzinternetbasvurusu.net
+telekom.tnumaratasima.com
+telekom.ucuzevinterneti.com
+telekom.uyguninternet.net
 telekom.xn--numaratasma-7zb.com
 telekom.yuklememerkezleri.online
 telekom10gb-evdekaltr-webgiris.com
@@ -1540,6 +1548,7 @@ test.blnance-basvuru.info
 test.brosecure360.com
 test.clayrat.top
 test.diogoflix.com
+test.diyanetisleribakanligi.vercel.app
 test.doctorsordersltd.co.uk
 test.evsahibibasvuru.com
 test.fleetgaard.com

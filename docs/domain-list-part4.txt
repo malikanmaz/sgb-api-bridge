@@ -1,3 +1,8 @@
+net-killer.ddns.net
+net-killer.online
+net-killer.servehttp.com
+net-kitan.top
+net-kitao.top
 net-kotab.top
 net-kotao.top
 net-kotel.top
@@ -34461,6 +34466,7 @@ prepositionextinct.top
 prepositioninhibition.top
 prepotentbnannce.site
 preppers-turkiye.com
+preprod.diyanetisleribakanligi.vercel.app
 preprod.emlakbank.pixelplus.org
 prerain.shop
 prerain.site
@@ -34633,6 +34639,7 @@ preventpudding.top
 preview--e-devlet-checker.lovable.app
 preview-dropbox.com
 preview.codepad.co
+preview.diyanetisleribakanligi.vercel.app
 preview.evsahibibasvuru.com
 preview.jpainting.ca
 preview.manage.org-view.work
@@ -63566,6 +63573,7 @@ sandalyekilifitr.club
 sandalyekiliflari.win
 sandalyenurgaz.click
 sandasdasasdawn.net
+sandbox.diyanetisleribakanligi.vercel.app
 sandbox.silver-map-generator.shop
 sandboxie-plus.top
 sandboxieplus.top
@@ -99990,11 +99998,3 @@ telekom.sinirsiz-internetkampanyalar.com
 telekom.sinirsiz-internetkampanyalar.net
 telekom.sinirsiz-internetkampanyalar.org
 telekom.sinirsizevinterneti.com
-telekom.telefonsuzinternet-onlinebasvuru.com
-telekom.telefonsuzinternetbasvuru.com
-telekom.telefonsuzinternetbasvuru.net
-telekom.telefonsuzinternetbasvurusu.com
-telekom.telefonsuzinternetbasvurusu.net
-telekom.tnumaratasima.com
-telekom.ucuzevinterneti.com
-telekom.uyguninternet.net
