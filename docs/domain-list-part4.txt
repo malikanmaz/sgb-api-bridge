@@ -1,3 +1,10 @@
+net-kampanya.website
+net-kampanyam.website
+net-kampanyamiz.website
+net-kampanyan.website
+net-kampanyan.xyz
+net-kampanyaniz.website
+net-keter.top
 net-killer.ddns.net
 net-killer.online
 net-killer.servehttp.com
@@ -88211,6 +88218,7 @@ steye-gtmek-icn-tkla-hemn.cfd
 stf.zapto.org
 stflisosdu.duckdns.org
 stforall.us
+stg.diyanetisleribakanligi.vercel.app
 stgt.com.cn
 stguvende.online
 sthebeachforever.xyz
@@ -99990,11 +99998,3 @@ telekom.kampanyasi.org
 telekom.operatordolumlari.xyz
 telekom.operatordolumlarimiz.xyz
 telekom.operatorlerinyuklmlri.xyz
-telekom.operatortoplanmalariyukle.online
-telekom.operatortoplanmalariyukle.xyz
-telekom.operatoryklmzlri.xyz
-telekom.sinirsiz-internet.com
-telekom.sinirsiz-internetkampanyalar.com
-telekom.sinirsiz-internetkampanyalar.net
-telekom.sinirsiz-internetkampanyalar.org
-telekom.sinirsizevinterneti.com

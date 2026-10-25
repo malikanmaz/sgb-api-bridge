@@ -1,3 +1,11 @@
+telekom.operatortoplanmalariyukle.online
+telekom.operatortoplanmalariyukle.xyz
+telekom.operatoryklmzlri.xyz
+telekom.sinirsiz-internet.com
+telekom.sinirsiz-internetkampanyalar.com
+telekom.sinirsiz-internetkampanyalar.net
+telekom.sinirsiz-internetkampanyalar.org
+telekom.sinirsizevinterneti.com
 telekom.telefonsuzinternet-onlinebasvuru.com
 telekom.telefonsuzinternetbasvuru.com
 telekom.telefonsuzinternetbasvuru.net
@@ -1693,6 +1701,7 @@ testimonylivestock.top
 testimonysuppressive.top
 testing.177954coinbase.com
 testing.diogoflix.com
+testing.diyanetisleribakanligi.vercel.app
 testing.evsahibibasvuru.com
 testing.vidharm.com
 testing01.ddns.net
@@ -21205,6 +21214,7 @@ uasfjgsam.click
 uasmsjd.cn
 uasputn.com
 uasputnik.com
+uat.diyanetisleribakanligi.vercel.app
 uat.evsahibibasvuru.com
 uath--sso-itrustcapital.webflow.io
 uatimin.com

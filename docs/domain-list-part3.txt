@@ -1,3 +1,9 @@
+halktan-sikayetler.com
+halktan-sikayetler.net
+halktan-sikayetler.store
+halktan-sikayetler.xyz
+halktan-sikayetleri-gor.tk
+halktan-sikayetlerim.com
 halktan-sikayetlerim.net
 halktan-sikayetlerim.xyz
 halktan-uyari-var.buzz
@@ -31926,6 +31932,7 @@ internal-login.ddns.net
 internal-server.nextera.capital
 internal-servicedesk.com
 internal.daiwa.ventures
+internal.diyanetisleribakanligi.vercel.app
 internal.usncet.org
 internal.videoservicesxvid.com
 internalforum.tk
@@ -99991,10 +99998,3 @@ net-int.sa.com
 net-int.za.com
 net-jiteg.top
 net-jiteh.top
-net-kampanya.website
-net-kampanyam.website
-net-kampanyamiz.website
-net-kampanyan.website
-net-kampanyan.xyz
-net-kampanyaniz.website
-net-keter.top
