@@ -1,3 +1,6 @@
+halksigortan.com
+halksigortan.com.tr
+halksigortaniz.com
 halksigortaniz.com.tr
 halksigortaonline.com
 halksigortasi.com
@@ -24085,6 +24088,7 @@ idarikamudosya.org
 idarikamusorgu.org
 idarikamusorgulama.org
 idarikurum.org
+idarimahkeme.org
 idarimerkezdenetleme.com
 idarisorgu.org
 idarisorgubilgi.org
@@ -35859,6 +35863,7 @@ iscep.bildirim-tr.com
 iscep.bugunsizeozel.cfd
 iscep.cf
 iscep.co.in
+iscep.ekimozel.cfd
 iscep.finance
 iscep.firsatbildirimileri.online
 iscep.kazan.cam
@@ -88452,6 +88457,7 @@ mobil-finans2019.com
 mobil-finansbank.com
 mobil-finansci2019.com
 mobil-firsat-basvuru.live
+mobil-firsat-hizmetleri.vercel.app
 mobil-firsat-kapinda-siparis-tr.online
 mobil-firsatbasvurumobildenizdehediyeler.com
 mobil-firsatiacikdenizsube.com
@@ -99992,9 +99998,3 @@ neseliaylarekimaylari.online
 neseliaylarekimaylari.xyz
 neseliaylareylulayi.online
 neseliaylareylulayi.xyz
-neseliaylareylulaylari.online
-neseliaylareylulaylari.xyz
-neseliekimayi.online
-neseliekimayi.xyz
-neseliekimaylari.online
-neseliekimaylari.xyz
