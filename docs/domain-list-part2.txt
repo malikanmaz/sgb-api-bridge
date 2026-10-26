@@ -1,3 +1,4 @@
+centerpbx.ddns.net
 centersoftwaresupports.azurewebsites.net
 centersupportlogin.ddns.net
 centersupportorange.ddns.net
@@ -24057,6 +24058,7 @@ denizonline2.net
 denizonlinearapgiris.com
 denizonlinebankaciligi.com
 denizonlinebankacilik.com
+denizonlinebasvur.duckdns.org
 denizonlinebasvurd.xyz
 denizonlinebasvurdumgemifirsat.xyz
 denizonlinebasvurgir.xyz
@@ -99996,5 +99998,3 @@ halksubedentr.com
 halksubefiirsatlari.com
 halksubegiris-online.net
 halksubegiris.com
-halksubeislem.com
-halksubekredi.com
