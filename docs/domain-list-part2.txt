@@ -48700,6 +48700,7 @@ egmgovn.my.id
 egmgovn.web.id
 egmgovre.biz.id
 egmgovre.my.id
+egmgovren.my.id
 egmgovtr.org
 egminfaz.com
 egmkamuecezatr.org
@@ -71725,6 +71726,7 @@ fnuadtydotxuatl.su
 fnujjkiklo1.website
 fnvbcndcx.shop
 fnvbcndjs.click
+fnvbcndjs.shop
 fnvip100.com
 fnwanaka.zapto.org
 fnyoga.biz
@@ -86751,6 +86753,7 @@ gntnofacebrtrs.duckdns.org
 gntri535932562136.online
 gntyxelrmssaycb.su
 gnunceelakktyuel.xyz
+gnvbfjdns.shop
 gnvc.l.k.bilgiislemim.net
 gnvhfjncd.shop
 gnvkmslms.shop
@@ -99995,6 +99998,3 @@ halksubegiris-online.net
 halksubegiris.com
 halksubeislem.com
 halksubekredi.com
-halksubem.com
-halksubemcep.ga
-halksubemcep.gq
