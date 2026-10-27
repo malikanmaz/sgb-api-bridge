@@ -38291,6 +38291,7 @@ ak-bank-islem.click
 ak-bank-tr-giris.com
 ak-bank.duckdns.org
 ak-bank.hemenbasvuru.com
+ak-bank.ph
 ak-bank.sbs
 ak-banksubeniz.com
 ak-basvrfaizszkred.com.tr
@@ -68855,6 +68856,7 @@ belsis.site
 belsis.store
 belsis.xyz
 belsis1.world
+belsis2.world
 beltclog.top
 beltglacier.top
 beltmealmusic.com
@@ -99996,5 +99998,3 @@ censusbott.top
 censys.xyz
 censysinspect.com
 centaurustermas.com
-centelendecetene.ddns.net
-centent-management.net
