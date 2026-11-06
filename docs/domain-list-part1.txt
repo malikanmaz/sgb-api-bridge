@@ -208,6 +208,7 @@
 00q3yi38a.duckdns.org
 00qdj4.duckdns.org
 00rfwx5l0.duckdns.org
+00rl.link
 00s7m8b.duckdns.org
 00secure-connect.ddns.net
 00uwjcdo6.duckdns.org
@@ -71345,6 +71346,7 @@ bildirim-tr.com
 bildirim.cfd
 bildirimcekilis-acikdenizv2denizbank.com
 bildirimcep-giris.com
+bildirimcepte.com
 bildirimgiris-onay.com
 bildirimhatti.com
 bildirimhizmetiedevlet.com
@@ -99996,5 +99998,3 @@ cekiliskampanya.online
 cekiliskampanya.xyz
 cekiliskampanyasi.online
 cekiliskanalim.club
-cekiliskatilim.com
-cekiliskatilim.xyz
