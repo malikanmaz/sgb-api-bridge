@@ -69351,6 +69351,7 @@ benimadimname.click
 benimcanimturkiyem.com
 benimdedembirnine.duckdns.org
 benimevim-t-o-k-i-bsrv.com
+benimevimbasvuru.com
 benimevimil.com
 benimformdoldurmamsite.ml
 benimgarantilihediyem.com
@@ -71676,6 +71677,7 @@ bilgilendirmelerimiz.abrdns.com
 bilgilendirmelidanismanlik.com
 bilgilendirmemerkezi.click
 bilgilendirmemm.netlify.app
+bilgilendirmeportali1.web.app
 bilgilendirmerehberi.web.app
 bilgilendirmesayfam.org
 bilgilendirmesayfasi.misecure.com
@@ -99996,5 +99998,3 @@ cekilisgiris.net
 cekilisgirisdeniz.tk
 cekilisgunleri.com.tr
 cekilisgunu.com.tr
-cekilishakki.com
-cekilishalk.tk
