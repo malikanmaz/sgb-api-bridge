@@ -1,3 +1,9 @@
+naver.cx
+naver.hol.es
+naver.koreagov.com
+naver.onegov.com
+naver.pw
+naver.unibok.kr
 naverbox.p-e.kr
 navercorp.ru
 naverdns.co
@@ -5356,6 +5362,7 @@ norulless.com
 norvaxis.info
 norvelynthread.com
 norvencora.info
+norveta.cyou
 norvexa.live
 norvianis.com
 norvionix.sbs
@@ -7982,6 +7989,7 @@ nvlrndvlstr.com
 nvlrndvukmlq.net
 nvlrndvus.net
 nvlrnkdvlgk.net
+nvlrtndvushhzm.web.app
 nvlrvnduvuovlivne.net
 nvlrvndvuovlinve.net
 nvlrxkkndnvju.net
@@ -99990,11 +99998,3 @@ teb-bankasin.com
 teb-basvurtr.com
 teb-basvuru-iphone.net
 teb-basvuru-iphone2022.net
-teb-basvuru.com
-teb-basvuru.mobil-bankacilik.site
-teb-basvuruiphone.net
-teb-basvurular2026.duckdns.org
-teb-basvurusu.com
-teb-basvurutr.com
-teb-bayramaozel.my-homeip.net
-teb-bayramfirsatlari.com
