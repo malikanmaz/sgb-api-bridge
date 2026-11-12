@@ -1,3 +1,4 @@
+cekilis-akb-kasim3.duckdns.org
 cekilis-akb-kasim4.duckdns.org
 cekilis-akb-kasim5.duckdns.org
 cekilis-akb-kasim6.duckdns.org
@@ -79669,6 +79670,7 @@ garantionlinwebtr.com
 garantionne.com
 garantioryes.buzz
 garantiotokiralama.com
+garantiotomatikfinans.cloud
 garantip.com
 garantipandemifirsatgunleri.com
 garantipanel.000webhostapp.com
@@ -99996,5 +99998,3 @@ halkbankegiris.com
 halkbankekpara.com
 halkbankesube.net
 halkbankesubemiz.com
-halkbankesubeniz.com
-halkbankfinansal.click
