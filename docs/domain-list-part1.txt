@@ -44484,6 +44484,10 @@ alisveris-sepeti.online
 alisveris-sepetim.com.tr
 alisveris-sepetim.online
 alisveris-sepetimiz.com
+alisveris-sepetinde-10.sbs
+alisveris-sepetinde-15.sbs
+alisveris-sepetinde-20.sbs
+alisveris-sepetinde-25.sbs
 alisveris-servisim.com
 alisveris-sezonu.duckdns.org
 alisveris-sistemi.com.tr
@@ -99994,7 +99998,3 @@ cebucafe.net
 cebucfg.org
 cebunchplanmarc.com
 ceceekeeke.nicepage.io
-cecenhamit.shop
-ceceriya.s.gy
-cecilia-dobrev.com
-cecilia-gilbert.com
