@@ -14197,6 +14197,7 @@
 3xdarkx.zapto.org
 3xdedelersae.click
 3xdt0d.duckdns.org
+3xentavexoriontechnologies.cyou
 3xfmaz43.duckdns.org
 3xkqk3.duckdns.org
 3xkqv7.sbs
@@ -39192,6 +39193,7 @@ akbank-togg-comtr.rf.gd
 akbank-tr-giris.com
 akbank-tr.com
 akbank-tr.eu
+akbank-tr.info
 akbank-tr.live
 akbank-tr.net
 akbank-tr.pro
@@ -44517,6 +44519,7 @@ alisveris-saati-com-tr.cfd
 alisveris-sahibinden.com.tr
 alisveris-sat.com
 alisveris-secure-odeme.com
+alisveris-sepet-guvende-10.sbs
 alisveris-sepet-guvende-15.sbs
 alisveris-sepet-ilan.com.tr
 alisveris-sepet.com.tr
@@ -56299,6 +56302,7 @@ autocontrollers.net
 autocratically.com
 autodec638.pages.dev
 autodergultion.top
+autodiscover.101-de-indirimler-bugune-ozel-firsatlar.duckdns.org
 autodiscover.1254598989899893.duckdns.org
 autodiscover.1254598989899894.duckdns.org
 autodiscover.459671325743t527140.duckdns.org
@@ -99994,7 +99998,3 @@ cebimizdedeniz100yil.online
 cebimizdeki-teb.com
 cebimizdeki-tebimiz.com
 cebimizdeportaldenizin.online
-cebimonay-aktifbasvuruistecep.vercel.app
-cebimposonline-cepteisbasvur.vercel.app
-cebimyirtildiyardimm.com
-cebinde-aldin.biz.tr
