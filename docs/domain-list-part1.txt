@@ -2131,6 +2131,7 @@
 101-extra-bugune-ozel-mobil-sponsor-tr.online-sepet-sponsor-tr.lol
 101-extra-bugune-ozel-online-alisveris-sepet-mobil-indirimi-tr.cepinde.online
 101-extra-bugune-ozel-online-alisveris-sepeti-mobilde-tr.bireyselcep-mobilde.online
+101-extra-bugune-ozel-online-mobil-indirim.mooo.com
 101-extra-bugune-ozel-online-mobil-sepet-indirimleri-tr.magaza-mobil.online
 101-extra-cepte-online-siparis-onay-bugune-ozel-indirim-tr.mobils-tr.online
 101-extra-da-sadece-bugune-ozel-firsat-mobilde-tr.indirimsepette.online
@@ -2475,6 +2476,7 @@
 101-online-alisveris-bugune-ozel-firsatlar-mobilde.com
 101-online-bugune-ozel-indirimli-sepet-alisverisi-mobilde-tr.extrasepet.online
 101-online-mobil-kampanya-tr.mooo.com
+101-online-mobil-sepet-extra-alisveris-tr.strangled.net
 101-online-mobile-ozel.online-sepet-tr.com
 101-online-ozel.ooguy.com
 101-online-sadece-bugune-ozel-firsatlar-mobilde-tr.mooo.com
@@ -42717,6 +42719,7 @@ al0ldijital.dynip.org
 al0lekstra.shop
 al0lextraonline.com
 al0lgeldi.com
+al0lharcaharcabirmez.duckdns.org
 al0lhaziranfirsatlar.com
 al0lhizmetcom.dynip.org
 al0lhizmetler.dynip.org
@@ -90620,6 +90623,7 @@ bstz2txp.tw
 bsubem.my-homeip.com
 bsukgq4lfpg864xovqd.com
 bsv-capmng.shop
+bsv-grnb-asc.top
 bsv-mbl.cfd
 bsv-online.cfd
 bsvakonlinekampanyalar.online
@@ -99994,7 +99998,3 @@ cdnatapple.ru
 cdnazure.com
 cdnbronto.com
 cdnbronto.info
-cdncache.ml
-cdndmw.top
-cdndns.su
-cdneu.kralprogramcdn.com
