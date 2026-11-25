@@ -490,6 +490,7 @@
 032015542ss25ck.com
 032094092374786723.cloud
 0321223332012.duckdns.org
+03214aa.site
 0324712667128301qo3294.store
 0324824o2346617624e.store
 033-psd2.my-garantibbva.com
@@ -2452,6 +2453,7 @@
 101-mobil-online-alisveris-tr.linkpc.net
 101-mobil-online-alisveris.ooguy.com
 101-mobil-online-alisverisi-extra.cebinde-giris.online
+101-mobil-online-cepinde-alisveris-tr.cebindesepet.online
 101-mobil-online-extra-indirimler-sadece-bugune-ozel-tr.shopping-tr.online
 101-mobil-online-ozel-tr.mooo.com
 101-mobil-sadece-bugune-ozel-alisveris-indirim-sepetleri-tr.trendextraa.online
@@ -2617,6 +2619,7 @@
 101010233123.duckdns.org
 101010922-12-2.cloud
 101011aktuelim.com
+1010140ileheemen.webredirect.org
 1010192922123.cloud
 10101firsattl.duckdns.org
 10101online.com
@@ -2910,6 +2913,7 @@
 101firsxtlarburada.com
 101fisatlarindakapindacomtr.vercel.app
 101fjgdfkgjkhfg.hopto.org
+101flrsatdiyari.com
 101flrsatlarlburada1o1.duckdns.org
 101frsat.duckdns.org
 101frsatlararwq.click
@@ -14290,6 +14294,7 @@
 3yzifcf3.duckdns.org
 3z.nu
 3z0m32do.duckdns.org
+3z1a4.site
 3z1wew.duckdns.org
 3z3fsy.duckdns.org
 3z4.xyz
@@ -15134,6 +15139,7 @@
 47xs5w.duckdns.org
 47ydv7.duckdns.org
 4812183513hizlcsmler-aracm360ptavm.online
+48128bsvrrkredisnfrstl.online
 48171ccom.com
 481jjakqf.ddns.net
 48223.cloud
@@ -34868,6 +34874,7 @@ afoptt.com
 aforum-bireysel-basvuru-online-kampanya.ml
 aforum-bireysel-basvuru-sayfasi-online.ml
 aforvm.com
+afpakfanwoentaxsa.giize.com
 afpakmonitor.org
 afpldsob.duckdns.org
 afpoalas.vercel.app
@@ -39600,6 +39607,7 @@ akbankk.net
 akbankk.tk
 akbankkampanya.com
 akbankkampanya.lat
+akbankkampanya.vercel.app
 akbankkampanyam.com
 akbankkampayam.com
 akbankkayit.com
@@ -41790,6 +41798,8 @@ aktuel-firsatlari.com.tr
 aktuel-firsatlari.online
 aktuel-gunleri.com
 aktuel-gunleri.sbs
+aktuel-gunun-firsatlari-bim.duckdns.org
+aktuel-gunun-firsatlari-bim.webredirect.org
 aktuel-h101.com.tr
 aktuel-haberler.sninix.space
 aktuel-harca-harca-bitmez.com
@@ -45647,6 +45657,7 @@ aloistabi.net
 alol-sana-ozel.com
 alolekstra.store
 alolgirishizmetim.site
+alolharcaharcasbitmez.duckdns.org
 aloltemmuzayi.com
 alomemurbey.surf
 alomenstkerest.duckdns.org
@@ -64126,6 +64137,7 @@ basvuru-btk.org
 basvuru-btlcturk.com
 basvuru-cekilis.online
 basvuru-cekilisbasvuru.com
+basvuru-cep-teb.my-homeip.de
 basvuru-cimer.com
 basvuru-cimer.org
 basvuru-cimer2019.com
@@ -72636,6 +72648,7 @@ bilyonerbahis14.com
 bilyoneri.com
 bilyonerspin.com
 bim-aktuel-urun.com
+bim-aktuel.bounceme.net
 bim-ce1lyuklemleriz.net
 bim-cel-tlyukle.net
 bim-celbaglann.com
@@ -92865,6 +92878,7 @@ buisnessnvi.blogspot.com
 bujanzzz.duckdns.org
 bujguturet.click
 bujjkcmmxel1.com
+bujkdfrgs.abrdns.com
 bujmcellpazar.net
 bujmxcellsali.net
 bujoke.com
@@ -99732,6 +99746,7 @@ cc8ttkv35b.com
 ccaah-ddt.net
 ccaanli-sohbet.com
 ccaauction.info
+ccacaca31.myvnc.com
 ccagbnp7.duckdns.org
 ccallingbest302011234.tk
 ccallingfiest3221212.tk
@@ -99983,18 +99998,3 @@ cdn-webstats.com
 cdn-xhr.com
 cdn.active-microsoft.com
 cdn.adsfly.co
-cdn.arhive.online
-cdn.cloudfiare.workers.dev
-cdn.danielrmurray.com
-cdn.deltastealer.xyz
-cdn.diogoflix.com
-cdn.disqusapi.com
-cdn.dlmafi.top
-cdn.doublesclick.me
-cdn.eideasrl.it
-cdn.erpsaz.com
-cdn.finance1num.com
-cdn.fullpccare.com
-cdn.g8z.net
-cdn.glitch.global
-cdn.googlstaticontent.com
