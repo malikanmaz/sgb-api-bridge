@@ -2164,6 +2164,7 @@
 101-extra-mobil-ozel-alisveris-firsatlari-tr.extraburada.online
 101-extra-mobil-sadece-bugune-indirim-ozel-shop-sepetleri-tr.shp-cepte.online
 101-extra-mobil-sadece-bugune-ozel-alisveris-indirim-firsati-tr.hesaplishop-tr.online
+101-extra-mobil-sadece-bugune-ozel-alisveris-indirim-tr.n44444s4.site
 101-extra-mobil-sadece-bugune-ozel-alisveris-indirim-tr.shopsmobile.online
 101-extra-mobil-sadece-bugune-ozel-alisveris-indirimi.avantajvar-tr.online
 101-extra-mobil-sadece-bugune-ozel-alisveris-sepeti-tr.trendlysepet.online
@@ -2388,6 +2389,7 @@
 101-kapinda.online
 101-kapindafirsat.com
 101-kapindafirsatlar.com
+101-kasimfirsatslar.org
 101-kasimozel.com.tr
 101-klimafirsat.com.tr
 101-klimakapinda.com.tr
@@ -16327,6 +16329,7 @@
 51211830001192.webredirect.org
 5121asdafaf.webredirect.org
 51221kafklasf.xyz
+512260176054572.cloud
 5123193323632.net
 51232443125256.com.tr
 51232443125256.xyz
@@ -16935,6 +16938,7 @@
 561xczo0.duckdns.org
 5621324625246.cloud
 56216416512.sbs
+5621905756129.cloud
 562323125.com
 56232476345345.com
 5625263.cloud
@@ -26193,6 +26197,7 @@ a101harcaharcabitmez.up.railway.app
 a101harcaharcabitmez.xyz
 a101harcaharcabitmezm.gtx-cdn.space
 a101harcaharcabitmezs.blogspot.com
+a101harcaharcabitmezseri.duckdns.org
 a101harcaharcabitmezurunlerlistesi.com
 a101harcaharcabitmezz.com
 a101harcaharcabitmezz.miko-cdn.space
@@ -58446,6 +58451,7 @@ awrwwwqqra.com
 aws--vn.com
 aws-amazon-authid.duckdns.org
 aws-check.net
+aws-garantibbva-banorte.com.ph
 aws-payplservice-last-day-activity-and-service.wanguk18.com
 aws-us-east-3.com
 aws.coinbase-com.info
@@ -61269,6 +61275,7 @@ badsoldier.hopto.org
 badthort.site
 badtrip.top
 badurka5hippo73.top
+badusyruzokuwe.live
 badyukleme.22web.org
 badzthehere.hopto.org
 baee6o.cn
@@ -80560,6 +80567,7 @@ bisaenak.fun
 bisalbizikurbanyaw.cyou
 bisani.html-5.me
 bisansin7olsa.b-cdn.net
+bisaracizate.company
 bisavbarsvuru.net
 bisbotbako.duckdns.org
 biscayneinn.com
@@ -91686,6 +91694,7 @@ btcturk.com.mx
 btcturk.eu.com
 btcturk.gr.com
 btcturk.kampanyadetay.app
+btcturk.kriptom.pro
 btcturk.ltd
 btcturk.mom
 btcturk.online
@@ -99989,12 +99998,3 @@ cbyihdolmlmx.xyz
 cbyxhuxo663.ddns.net
 cbzaowfaw.xyz
 cbzfmsvcpa.duckdns.org
-cbznsbkazxc.shop
-cc-bsvral.com
-cc-checker.art
-cc-newton.info
-cc-security-inc.email
-cc-wreath.com
-cc.gettrials.com
-cc.horoscopemagic.xyz
-cc.hotlable.com
